@@ -1,0 +1,9 @@
+﻿Component,Total,non-ACP,ACP,Role
+Train.fasta,"1,861","1,475",386,ProtT5-MSCRNet source membership
+Test1.fasta,482,360,122,ProtT5-MSCRNet source membership
+Test2.fasta,227,151,76,ProtT5-MSCRNet source membership
+training.fasta,550,120,430,Aegis source membership
+testing.fasta,128,29,99,Aegis source membership
+Training,"1,728","1,107",621,Integrated model development
+Validation,577,369,208,Model and ensemble selection
+Test,577,370,207,Final integrated evaluation

@@ -1,0 +1,4 @@
+method,stable_mcc_gain_all_4_settings,no_auc_harm_gt_0.005_all_4_settings,continue_method
+classifier,False,True,False
+head,False,False,False
+prototype,False,True,False

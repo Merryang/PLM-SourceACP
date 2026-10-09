@@ -1,0 +1,7 @@
+﻿Backbone,Architecture,Parameters,Embedding dimension,Pretraining corpus
+ProtT5-XL-UniRef50,"T5 encoder-decoder, encoder embeddings used",~3B full model (~1.2B encoder),"1,024","BFD, then UniRef50"
+ProtBERT,BERT encoder,~420M,"1,024",BFD
+Ankh-base,Protein-optimized T5 encoder-decoder,~450M,768,UniRef50
+ESM2-150M,BERT-style transformer encoder,150M,640,UniRef50/D
+ESM2-650M,BERT-style transformer encoder,650M,"1,280",UniRef50/D
+ESM-C 300M,ESM Cambrian transformer encoder,300M,960,ESM-C training mixture

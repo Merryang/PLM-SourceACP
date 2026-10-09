@@ -1,0 +1,4 @@
+﻿Model,AUC,AP,MCC,Accuracy,Sensitivity,Specificity
+ESM2-150M ensemble (this study),0.9849,0.9960,0.8166,0.9348,0.9444,0.9000
+Aegis (published),0.980,0.995,0.824,0.942,0.991,0.767
+ACPScanner (reported in Aegis),0.983,Not reported,0.811,0.920,0.898,1.000

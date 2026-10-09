@@ -1,0 +1,40 @@
+{
+  "task_name": "antiangiogenic",
+  "protocol": "Official AntiAngioPred 80% development / 20% independent split; development set split 80/20 for train/validation.",
+  "official_counts_before_canonical_filter": {
+    "development_positive": 107,
+    "development_negative": 107,
+    "test_positive": 28,
+    "test_negative": 28
+  },
+  "excluded_noncanonical": 2,
+  "train_rows": 170,
+  "validation_rows": 42,
+  "test_rows": 56,
+  "class_counts": {
+    "train": {
+      "0": 86,
+      "1": 84
+    },
+    "validation": {
+      "0": 21,
+      "1": 21
+    },
+    "test": {
+      "0": 28,
+      "1": 28
+    }
+  },
+  "exact_overlap": {
+    "train_validation": 0,
+    "train_test": 0,
+    "validation_test": 0
+  },
+  "sources": {
+    "repository": "https://github.com/sachini-tech/AntiAngioPred/tree/V1",
+    "archive": "https://doi.org/10.5281/zenodo.20080041",
+    "paper": "https://doi.org/10.1371/journal.pone.0136990",
+    "development_pdf_sha256": "d8bf2ca460a6adf2f54ba8d3306662317e8178bf8c046c8c3ab8d1e822eac891",
+    "test_pdf_sha256": "d04848360f5e45c4d3c23f2f68437eac7b7d7e935354a03e4a76c677b362f086"
+  }
+}

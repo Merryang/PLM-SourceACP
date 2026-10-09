@@ -1,0 +1,5 @@
+﻿Evaluation branch,ESM2-150M model,Test n,AUC,95% CI
+Aegis original partition,3-seed ensemble,138,0.9849,"[0.9673, 0.9966]"
+Integrated 90% identity,42,600,0.9563,Not estimated
+Integrated 90% identity,2024,600,0.9635,Not estimated
+Integrated 90% identity,2026,600,0.9637,Not estimated

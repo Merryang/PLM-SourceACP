@@ -1,0 +1,46 @@
+{
+  "task_name": "cell_penetrating_peptide",
+  "protocol": "PepBenchmark CPP cdhit_split.json seed_0, preserving official train/valid/test indices.",
+  "train_rows": 1837,
+  "validation_rows": 230,
+  "test_rows": 229,
+  "class_counts": {
+    "train": {
+      "0": 833,
+      "1": 1004
+    },
+    "validation": {
+      "0": 153,
+      "1": 77
+    },
+    "test": {
+      "0": 150,
+      "1": 79
+    }
+  },
+  "length_range": {
+    "train": [
+      3,
+      50
+    ],
+    "validation": [
+      3,
+      49
+    ],
+    "test": [
+      3,
+      50
+    ]
+  },
+  "exact_overlap": {
+    "train_validation": 0,
+    "train_test": 0,
+    "validation_test": 0
+  },
+  "sources": {
+    "repository": "https://github.com/ZGCI-AI4S-Pep/PepBenchmark",
+    "dataset": "https://huggingface.co/datasets/jiahuizhang/PepBenchData/tree/main/PepBenchData-50/cpp",
+    "all_csv_sha256": "4ea241d585d06b70d0dc1c878ed46502e04410fc604e95094c0f96cd6ccfd944",
+    "cdhit_split_sha256": "ed7b03d5fb547d6a950fb6ea81bc3ca661159ca19916e3212be3e502225f979a"
+  }
+}

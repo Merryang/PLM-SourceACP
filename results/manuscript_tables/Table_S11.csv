@@ -1,0 +1,13 @@
+﻿Source / k,Method,Mean ΔMCC,95% CI,Adjusted P
+Test1 / 5,prototype,-0.0221,"[-0.0362, -0.0101]",0.0494
+Test1 / 5,classifier,0.0018,"[-0.0013, 0.0043]",0.1989
+Test1 / 5,projection + classifier,-0.0830,"[-0.1284, -0.0418]",0.0091
+Test1 / 10,prototype,-0.0124,"[-0.0176, -0.0069]",0.0199
+Test1 / 10,classifier,0.0022,"[-0.0012, 0.0053]",0.1989
+Test1 / 10,projection + classifier,-0.0934,"[-0.1260, -0.0616]",0.0006
+Test2 / 5,prototype,-0.0105,"[-0.0161, -0.0059]",0.0033
+Test2 / 5,classifier,-0.0048,"[-0.0075, -0.0021]",0.0344
+Test2 / 5,projection + classifier,-0.0578,"[-0.0963, -0.0245]",0.0472
+Test2 / 10,prototype,-0.0083,"[-0.0112, -0.0055]",0.0089
+Test2 / 10,classifier,-0.0039,"[-0.0067, -0.0011]",0.0494
+Test2 / 10,projection + classifier,-0.0506,"[-0.0795, -0.0233]",0.0472

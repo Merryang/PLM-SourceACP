@@ -1,0 +1,6 @@
+source_file,source_group,non_acp,acp,total
+Test1.fasta,Manuscript1856815,360,132,492
+Test2.fasta,Manuscript1856815,151,88,239
+Train.fasta,Manuscript1856815,1477,477,1954
+testing.fasta,Aegis,29,105,134
+training.fasta,Aegis,120,435,555

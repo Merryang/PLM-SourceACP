@@ -1,0 +1,11 @@
+﻿Parameter,Effective setting,Evidence
+Checkpoint,"Matching ESM2-150M LOSO, seed 42",Launcher
+Target sources,Test1.fasta and Test2.fasta,Launcher + log
+Support per class,"5, 10 and 20",Launcher + raw metrics
+Draws / random seed,20 / 42,Launcher + raw metrics
+Maximum length / device,256 / CUDA,Launcher
+Batch size / update epochs,64 / 25,Launcher
+Optimizer / loss,AdamW / binary cross-entropy,Archived implementation
+Learning rate / weight decay,0.0005 / 0.0001,"Defaults, no launcher override"
+Auxiliary loss weights,Both zero,"Defaults, no launcher override"
+Updated modules,"classifier, or proj + classifier",Archived implementation

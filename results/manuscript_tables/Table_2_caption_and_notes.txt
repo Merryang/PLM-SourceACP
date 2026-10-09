@@ -1,0 +1,3 @@
+Table 2. Additional candidate configurations used for each ESM2 backbone.
+
+Class and source/class sampling used inverse group-frequency weights. Source/class groups were defined jointly by assigned source and binary label. AUC, area under the receiver operating characteristic curve. AP, average precision.

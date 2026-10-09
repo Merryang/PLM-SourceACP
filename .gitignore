@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+reproduced/
+retrained/
+*embeddings.pt
+*embeddings.pt.tmp
+*.log
+~$*

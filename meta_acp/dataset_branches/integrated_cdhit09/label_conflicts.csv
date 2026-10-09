@@ -1,0 +1,4 @@
+source_file,source_group,source_id,raw_label,header,sequence,binary_label,length
+Test2.fasta,Manuscript1856815,Test2.fasta:157,0,0,ALWKTIIKGAGKMIGSLAKNLLGSQAQPES,0,30
+Test2.fasta,Manuscript1856815,Test2.fasta:158,1,1,ALWKTIIKGAGKMIGSLAKNLLGSQAQPES,1,30
+Train.fasta,Manuscript1856815,Train.fasta:1851,1,1,ALWKTIIKGAGKMIGSLAKNLLGSQAQPES,1,30

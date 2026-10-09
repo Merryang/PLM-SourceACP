@@ -1,0 +1,10 @@
+{
+  "n_input": 2882,
+  "n_valid": 2882,
+  "n_invalid": 0,
+  "pH": 7.0,
+  "hydropathy_scale": "Kyte-Doolittle",
+  "hydrophobic_moment_angle_degrees": 100.0,
+  "bootstrap_iterations": 2000,
+  "brier_score": 0.05302708615219287
+}

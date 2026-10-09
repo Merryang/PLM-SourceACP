@@ -1,0 +1,3 @@
+Supplementary Table S10. Few-shot adaptation settings.
+
+LOSO, leave-one-source-out. ESM2, Evolutionary Scale Modeling 2. CUDA, Compute Unified Device Architecture. The archived gpu_next_pipeline.sh function run_few_shot_one explicitly overrides the parser batch-size default of 16 with 64. Logs record completion on 8 June 2026 and the same summary metrics as the retained raw CSVs. The launcher does not override learning rate, weight decay or auxiliary weights. Their values follow the archived few_shot.py defaults. Each support set has 10, 20 or 40 sequences and therefore one batch per epoch. Models are reset for each update. These settings describe the archived execution evidence. Bitwise reproduction also requires the original software/hardware environment.

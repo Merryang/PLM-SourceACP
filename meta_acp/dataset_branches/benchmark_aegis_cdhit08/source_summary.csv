@@ -1,0 +1,3 @@
+source_file,non_acp,acp,total
+testing.fasta,30,108,138
+training.fasta,120,443,563

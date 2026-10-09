@@ -1,0 +1,6 @@
+﻿Source file,Raw n,Raw >50 ACP,Raw >50 non-ACP,Retained >50 ACP,Retained >50 non-ACP
+training.fasta,563,0,0,0,0
+testing.fasta,138,0,0,0,0
+Train.fasta,1966,34,148,34,148
+Test1.fasta,495,14,32,14,32
+Test2.fasta,256,0,0,0,0

@@ -1,0 +1,27 @@
+{
+  "branch": "benchmark_aegis_cdhit08",
+  "purpose": "Aegis-compatible comparison branch using original training.fasta/testing.fasta.",
+  "cdhit_identity": 0.8,
+  "cdhit_handling": "The Aegis files are already literature-processed with CD-HIT 0.8. The official testing.fasta is preserved as the independent test set; training.fasta is split 80:20 into train/validation.",
+  "train_full_rows": 563,
+  "train_rows": 450,
+  "validation_rows": 113,
+  "test_rows": 138,
+  "train_full_label_counts": {
+    "0": 120,
+    "1": 443
+  },
+  "train_label_counts": {
+    "0": 96,
+    "1": 354
+  },
+  "validation_label_counts": {
+    "0": 24,
+    "1": 89
+  },
+  "test_label_counts": {
+    "0": 30,
+    "1": 108
+  },
+  "training_testing_exact_overlap": 0
+}

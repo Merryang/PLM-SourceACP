@@ -1,0 +1,3 @@
+Supplementary Table S6. Source-excluded partitions and performance.
+
+Means ± population standard deviation (denominator n) preserve the archived LOSO summary convention. Each fixed split has three training seeds. All target-source membership overlaps with train/validation equal zero. Macro AUC=0.9416 ± 0.0019 across seed-level source means. Probability-ensemble macro AUC=0.9497. LOSO, leave-one-source-out. ACP, anticancer peptide. AUC, area under the receiver operating characteristic curve. MCC, Matthews correlation coefficient. Train/Test1/Test2 are file-level provenance labels, not independent database identities.

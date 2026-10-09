@@ -1,0 +1,3 @@
+Supplementary Table S12. Adaptation with 20 examples per class.
+
+k, labelled examples per class. AUC, area under the receiver operating characteristic curve. MCC, Matthews correlation coefficient. Query counts are 442 for Test1 and 187 for Test2. none denotes no adaptation, prototype denotes class-centroid inference, classifier updates only the classifier, and head updates projection plus classifier. These are descriptive means over overlapping draws, not independent replications. The main paired analysis concerns k=5 and k=10. The additional recorded k=20 results are supplied for completeness.

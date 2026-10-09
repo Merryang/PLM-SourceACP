@@ -1,0 +1,3 @@
+Supplementary Table S2. Pretrained encoder specifications.
+
+Parameter counts are approximate. Model identifiers are Rostlab/prot_t5_xl_uniref50, Rostlab/prot_bert, ElnaggarLab/ankh-base, facebook/esm2_t30_150M_UR50D, facebook/esm2_t33_650M_UR50D, and EvolutionaryScale/esmc-300m-2024-12, in table order. BFD, Big Fantastic Database. BERT, Bidirectional Encoder Representations from Transformers. T5, Text-to-Text Transfer Transformer. ESM, Evolutionary Scale Modeling. UniRef, UniProt Reference Clusters. M and B indicate million and billion parameters, respectively.

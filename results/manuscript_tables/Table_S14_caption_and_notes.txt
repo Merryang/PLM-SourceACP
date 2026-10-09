@@ -1,0 +1,3 @@
+Supplementary Table S14. Physicochemical differences between classes.
+
+The comparison includes 1,036 ACPs and 1,846 non-ACPs. CIs use 2,000 within-class bootstrap resamples. Length is measured in residues and molecular weight in daltons (Da). Charge uses elementary-charge units and is normalized by length where indicated. Full P values and additional contrasts are supplied in the numerical package. ACP, anticancer peptide. GRAVY, grand average of hydropathy. CI, confidence interval.

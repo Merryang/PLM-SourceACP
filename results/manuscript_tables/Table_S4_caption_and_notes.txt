@@ -1,0 +1,3 @@
+Supplementary Table S4. Comparison on the original Aegis benchmark.
+
+All rows refer to the original 138-sequence Aegis test partition (108 ACPs and 30 non-ACPs). Values for this study were recalculated from the archived three-seed ensemble probabilities and predictions. Its decision threshold was 0.4423, the median of the validation-selected seed thresholds. The ensemble correctly classified 102 ACPs and 27 non-ACPs, with 6 false negatives and 3 false positives. AUC and AP do not depend on this classification threshold.

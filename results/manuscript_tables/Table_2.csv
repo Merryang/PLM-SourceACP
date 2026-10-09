@@ -1,0 +1,10 @@
+﻿Parameter,Setting 1,Setting 2,Setting 3,Setting 4,Setting 5
+Final projection dimension,128,256,256,512,256
+Dropout,0.30,0.20,0.30,0.20,0.10
+Learning rate,0.001,0.0003,0.0003,0.0001,0.0003
+Weight decay,0.0001,0.0001,0.00001,0.0001,0.0001
+Focal gamma,2,2,1,2,3
+Contrastive loss weight,0.10,0.10,0.05,0.20,0.10
+Prototypical loss weight,0.10,0.10,0.10,0.05,0.20
+Validation selection metric,AUC,AUC,AP,AUC,AP
+Sampling,Ordinary,Source/class,Class,Source/class,Source/class

@@ -1,0 +1,43 @@
+{
+  "branch": "integrated_cdhit09",
+  "purpose": "Integrated Aegis plus ProtT5-MSCRNet sensitivity branch with global CD-HIT 0.9.",
+  "cdhit_identity": 0.9,
+  "cdhit_mode": "cd-hit",
+  "cdhit_image": "biocontainers/cd-hit:v4.6.8-2-deb_cv1",
+  "raw_records": 3418,
+  "pre_cdhit_unique_nonconflicting": 3035,
+  "cdhit09_clustered_sequences": 3030,
+  "cdhit09_sequences": 2997,
+  "removed_by_cdhit09_redundancy": 33,
+  "not_clustered_by_cdhit09": 5,
+  "train_rows": 1797,
+  "validation_rows": 600,
+  "test_rows": 600,
+  "pre_cdhit_label_counts": {
+    "0": 1855,
+    "1": 1180
+  },
+  "cdhit09_label_counts": {
+    "0": 1848,
+    "1": 1149
+  },
+  "train_label_counts": {
+    "0": 1108,
+    "1": 689
+  },
+  "validation_label_counts": {
+    "0": 370,
+    "1": 230
+  },
+  "test_label_counts": {
+    "0": 370,
+    "1": 230
+  },
+  "removed_by_cdhit09_label_counts": {
+    "0": 2,
+    "1": 31
+  },
+  "not_clustered_by_cdhit09_label_counts": {
+    "0": 5
+  }
+}

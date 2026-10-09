@@ -1,0 +1,6027 @@
+>Cluster 0
+0	255aa, >seq_f9508079245ae13... *
+>Cluster 1
+0	254aa, >seq_72f5c3a10d8f04f... *
+>Cluster 2
+0	245aa, >seq_949bea6c4c80b10... *
+>Cluster 3
+0	207aa, >seq_0d219d89793edf0... *
+>Cluster 4
+0	145aa, >seq_e24d8f3bde8d048... *
+>Cluster 5
+0	122aa, >seq_342a314d8bba81d... *
+>Cluster 6
+0	111aa, >seq_079137e3ac39d45... *
+>Cluster 7
+0	108aa, >seq_788912a8d41d779... *
+>Cluster 8
+0	97aa, >seq_b444381687abbfa... *
+>Cluster 9
+0	96aa, >seq_f080f9dac64644e... *
+>Cluster 10
+0	93aa, >seq_7d9308bc162e452... *
+>Cluster 11
+0	90aa, >seq_3ca9d240dba95f3... *
+>Cluster 12
+0	90aa, >seq_96e4d53708deaa7... *
+>Cluster 13
+0	88aa, >seq_26973a1405b3fa6... *
+>Cluster 14
+0	86aa, >seq_3504b3f8472e54c... *
+>Cluster 15
+0	85aa, >seq_74cabf3d8ba51c2... *
+>Cluster 16
+0	84aa, >seq_e21a3911ae06aa4... *
+>Cluster 17
+0	84aa, >seq_f6e23059982774a... *
+>Cluster 18
+0	83aa, >seq_1cb697c42667f17... *
+>Cluster 19
+0	83aa, >seq_4fb458ab8bb79ab... *
+>Cluster 20
+0	83aa, >seq_eaa5cc7b3cafe0e... *
+1	20aa, >seq_358e877da5096a8... at 95.00%
+>Cluster 21
+0	81aa, >seq_bcdc2fdaa6810ed... *
+>Cluster 22
+0	79aa, >seq_c5223c7f7673b07... *
+>Cluster 23
+0	78aa, >seq_4241fde812e4e44... *
+>Cluster 24
+0	77aa, >seq_13da07976056c35... *
+>Cluster 25
+0	77aa, >seq_89376fbbe5585d1... *
+>Cluster 26
+0	77aa, >seq_98910d9f78ede22... *
+>Cluster 27
+0	76aa, >seq_31ce1b20112334f... *
+>Cluster 28
+0	75aa, >seq_04e855ad91fe5a2... *
+>Cluster 29
+0	75aa, >seq_c2825bc77583ab8... *
+>Cluster 30
+0	75aa, >seq_fcf05bf9fdce782... *
+>Cluster 31
+0	74aa, >seq_df42e7af1994f15... *
+>Cluster 32
+0	70aa, >seq_1291f1359d8dd48... *
+>Cluster 33
+0	65aa, >seq_ee429dd86278bda... *
+>Cluster 34
+0	63aa, >seq_3abf8b793fe9441... *
+>Cluster 35
+0	63aa, >seq_55d0a3dda78e72e... *
+>Cluster 36
+0	62aa, >seq_7244e15695f0bdc... *
+>Cluster 37
+0	60aa, >seq_8b89b85101b796b... *
+>Cluster 38
+0	60aa, >seq_936cfe91c01f75f... *
+>Cluster 39
+0	57aa, >seq_3a95bd425376616... *
+>Cluster 40
+0	56aa, >seq_e2b3a99cfb8a3eb... *
+>Cluster 41
+0	55aa, >seq_4106c4569bca645... *
+>Cluster 42
+0	55aa, >seq_98cdf926357097d... *
+>Cluster 43
+0	54aa, >seq_0055aa176224437... *
+>Cluster 44
+0	54aa, >seq_025e7294036e09a... *
+>Cluster 45
+0	54aa, >seq_0a9527b81526d32... *
+>Cluster 46
+0	54aa, >seq_11c6c3c486f59f9... *
+>Cluster 47
+0	54aa, >seq_13c97a6e5d40f91... *
+>Cluster 48
+0	54aa, >seq_17ba5ff3292e0a5... *
+>Cluster 49
+0	54aa, >seq_22c221af1e82c77... *
+>Cluster 50
+0	54aa, >seq_250cc5d7349ee99... *
+>Cluster 51
+0	54aa, >seq_27dce3902369bae... *
+>Cluster 52
+0	54aa, >seq_2dd3f7e674c51c2... *
+>Cluster 53
+0	54aa, >seq_2ea5b3219a5c888... *
+>Cluster 54
+0	54aa, >seq_3d9d384e8d1efd2... *
+>Cluster 55
+0	54aa, >seq_3e211ef86d0255b... *
+>Cluster 56
+0	54aa, >seq_43ecd56bc9eda56... *
+>Cluster 57
+0	54aa, >seq_4c048518ca7acd0... *
+>Cluster 58
+0	54aa, >seq_51e7eefc4ced51c... *
+>Cluster 59
+0	54aa, >seq_51f17a8679e18c4... *
+>Cluster 60
+0	54aa, >seq_55700160a794027... *
+>Cluster 61
+0	54aa, >seq_55b76e47ae990f3... *
+>Cluster 62
+0	54aa, >seq_5930cd4ab0a6b41... *
+>Cluster 63
+0	54aa, >seq_5c89b2b974cbfc7... *
+>Cluster 64
+0	54aa, >seq_69ec65f1ff7aab1... *
+>Cluster 65
+0	54aa, >seq_6efaf57c1792313... *
+>Cluster 66
+0	54aa, >seq_7713b5117f415e6... *
+>Cluster 67
+0	54aa, >seq_7f2e4d7f397b256... *
+>Cluster 68
+0	54aa, >seq_83747d9fd12afac... *
+>Cluster 69
+0	54aa, >seq_87fe1a7c3b809a8... *
+>Cluster 70
+0	54aa, >seq_8da1edf311087d0... *
+>Cluster 71
+0	54aa, >seq_96da50d7833be0c... *
+>Cluster 72
+0	54aa, >seq_a74231edc7bd120... *
+>Cluster 73
+0	54aa, >seq_a79465962dd57dd... *
+>Cluster 74
+0	54aa, >seq_ab90e747510b9d9... *
+>Cluster 75
+0	54aa, >seq_ac76134cbd3abf4... *
+>Cluster 76
+0	54aa, >seq_ac84108f282c971... *
+>Cluster 77
+0	54aa, >seq_b37e107aaef918c... *
+>Cluster 78
+0	54aa, >seq_b439a2450b6f935... *
+>Cluster 79
+0	54aa, >seq_b7a8c20f031f462... *
+>Cluster 80
+0	54aa, >seq_b8485fffe38b16a... *
+>Cluster 81
+0	54aa, >seq_c875c35f29cf38f... *
+>Cluster 82
+0	54aa, >seq_ce52dcc81ac01fc... *
+>Cluster 83
+0	54aa, >seq_ce975af46106770... *
+>Cluster 84
+0	54aa, >seq_ce9e64698d31740... *
+>Cluster 85
+0	54aa, >seq_cf65ed76af87e41... *
+>Cluster 86
+0	54aa, >seq_d169aa43bf43647... *
+>Cluster 87
+0	54aa, >seq_d4d1a7292348ab7... *
+>Cluster 88
+0	54aa, >seq_da22a33d2781b88... *
+>Cluster 89
+0	54aa, >seq_ddf37214a1fb60a... *
+>Cluster 90
+0	54aa, >seq_e91fa73ee10ed35... *
+>Cluster 91
+0	54aa, >seq_e9f2a14b83f4c5b... *
+>Cluster 92
+0	54aa, >seq_ebb5371e446a81f... *
+>Cluster 93
+0	54aa, >seq_f46674c59b5e35a... *
+>Cluster 94
+0	54aa, >seq_fba05e35fec49a1... *
+>Cluster 95
+0	54aa, >seq_fc32b1c2d9abdc8... *
+>Cluster 96
+0	53aa, >seq_02dd9f58b63be86... *
+>Cluster 97
+0	53aa, >seq_15cea2bcf5fcef8... *
+>Cluster 98
+0	53aa, >seq_16aca303e00e425... *
+>Cluster 99
+0	53aa, >seq_2fcfd624c03f64e... *
+>Cluster 100
+0	53aa, >seq_31457ba4bf31f44... *
+>Cluster 101
+0	53aa, >seq_3dd197d5c9b4884... *
+>Cluster 102
+0	53aa, >seq_41f5031e8f24027... *
+>Cluster 103
+0	53aa, >seq_421d1d85b78d2a6... *
+>Cluster 104
+0	53aa, >seq_4e0101142625944... *
+>Cluster 105
+0	53aa, >seq_4ed0b320871bae6... *
+>Cluster 106
+0	53aa, >seq_5427625a58f7920... *
+>Cluster 107
+0	53aa, >seq_5d3ac2828fe01bc... *
+>Cluster 108
+0	53aa, >seq_5d8e2e9bcde0318... *
+>Cluster 109
+0	53aa, >seq_63b037f5e54b0c9... *
+>Cluster 110
+0	53aa, >seq_6bae5601404904c... *
+>Cluster 111
+0	53aa, >seq_700e618421223a3... *
+>Cluster 112
+0	53aa, >seq_773a4ef9e323dc1... *
+>Cluster 113
+0	53aa, >seq_837704a5bf91e7b... *
+>Cluster 114
+0	53aa, >seq_960416cd2fce36f... *
+>Cluster 115
+0	53aa, >seq_962a27508e0ffb8... *
+>Cluster 116
+0	53aa, >seq_9eae79caecf15ef... *
+>Cluster 117
+0	53aa, >seq_9edd50a33d04a3d... *
+>Cluster 118
+0	53aa, >seq_9ef66d280a9779a... *
+>Cluster 119
+0	53aa, >seq_a3011dc3b97ba1f... *
+>Cluster 120
+0	53aa, >seq_a48eb9b8833eee1... *
+>Cluster 121
+0	53aa, >seq_a58cb7a0b221cdc... *
+>Cluster 122
+0	53aa, >seq_a7c5cf78590a402... *
+>Cluster 123
+0	53aa, >seq_ac7001a744b2791... *
+>Cluster 124
+0	53aa, >seq_b410a54b7ef4e23... *
+>Cluster 125
+0	53aa, >seq_b9c0d455e0bd1df... *
+>Cluster 126
+0	53aa, >seq_ba1212b44a31f2a... *
+>Cluster 127
+0	53aa, >seq_be57d0a4ac98c45... *
+>Cluster 128
+0	53aa, >seq_bf8de8adb107638... *
+>Cluster 129
+0	53aa, >seq_c03a229615f6291... *
+>Cluster 130
+0	53aa, >seq_c4c98a52c97b13f... *
+>Cluster 131
+0	53aa, >seq_c4dd677283b2da1... *
+>Cluster 132
+0	53aa, >seq_e51e7a5af07b4ad... *
+>Cluster 133
+0	53aa, >seq_e6c46b349676f86... *
+>Cluster 134
+0	53aa, >seq_e80c9608d154244... *
+>Cluster 135
+0	53aa, >seq_e9e8638628d6e97... *
+>Cluster 136
+0	53aa, >seq_ed41f0b48ec7cdf... *
+>Cluster 137
+0	53aa, >seq_ee64d3684bda143... *
+>Cluster 138
+0	53aa, >seq_f3d5ccbf2d1c606... *
+>Cluster 139
+0	53aa, >seq_f5d596fdfde5774... *
+>Cluster 140
+0	53aa, >seq_fd5231fe29133fb... *
+>Cluster 141
+0	52aa, >seq_012e9de97a1f74d... *
+>Cluster 142
+0	52aa, >seq_054bee97c83cc40... *
+1	18aa, >seq_b61ef30ec160539... at 94.44%
+>Cluster 143
+0	52aa, >seq_09e8a3d4390a591... *
+>Cluster 144
+0	52aa, >seq_1945e79fe1374cb... *
+>Cluster 145
+0	52aa, >seq_1c871d3b6652453... *
+>Cluster 146
+0	52aa, >seq_21976f825e2ba70... *
+>Cluster 147
+0	52aa, >seq_24c57bd224e7225... *
+>Cluster 148
+0	52aa, >seq_27c9653346911f4... *
+>Cluster 149
+0	52aa, >seq_284259a0cd81fbb... *
+>Cluster 150
+0	52aa, >seq_321a473cd798328... *
+>Cluster 151
+0	52aa, >seq_37efcebcf73c8af... *
+>Cluster 152
+0	52aa, >seq_3dbb515af4b8096... *
+>Cluster 153
+0	52aa, >seq_3f09527727179ce... *
+>Cluster 154
+0	52aa, >seq_41a71d5919c92fe... *
+>Cluster 155
+0	52aa, >seq_44d999a3fd2f616... *
+>Cluster 156
+0	52aa, >seq_4c0c07fe7a73cde... *
+>Cluster 157
+0	52aa, >seq_50d5a2029232da2... *
+>Cluster 158
+0	52aa, >seq_5eeb07f64648736... *
+>Cluster 159
+0	52aa, >seq_68735ed80811897... *
+>Cluster 160
+0	52aa, >seq_6c45d3df0cfa652... *
+>Cluster 161
+0	52aa, >seq_727e33a19cb6292... *
+>Cluster 162
+0	52aa, >seq_7ed11a29687b0b8... *
+>Cluster 163
+0	52aa, >seq_9120a9f09a347e7... *
+>Cluster 164
+0	52aa, >seq_9164c048ad2063c... *
+>Cluster 165
+0	52aa, >seq_92903b7bbeca1c4... *
+>Cluster 166
+0	52aa, >seq_95826e2b8054734... *
+>Cluster 167
+0	52aa, >seq_b72007bebfee7d1... *
+>Cluster 168
+0	52aa, >seq_b9fbd56f62b08c1... *
+>Cluster 169
+0	52aa, >seq_bf0af9add2cea64... *
+>Cluster 170
+0	52aa, >seq_c234350d8e885bc... *
+>Cluster 171
+0	52aa, >seq_c30f66515aa137b... *
+>Cluster 172
+0	52aa, >seq_c96ac15b266182a... *
+>Cluster 173
+0	52aa, >seq_d595c3cc6b009bd... *
+>Cluster 174
+0	52aa, >seq_de815c7b327c2e0... *
+>Cluster 175
+0	52aa, >seq_e674253ea2e8ac2... *
+1	21aa, >seq_8645cd3cc8fc510... at 90.48%
+>Cluster 176
+0	52aa, >seq_ee5a017800907ce... *
+>Cluster 177
+0	52aa, >seq_f66a5df19ef1402... *
+>Cluster 178
+0	52aa, >seq_faae44f83744a83... *
+>Cluster 179
+0	52aa, >seq_ff4099fa5bebb10... *
+>Cluster 180
+0	51aa, >seq_02b8fb7ddc21d83... *
+>Cluster 181
+0	51aa, >seq_02d6a3584a1fe1d... *
+>Cluster 182
+0	51aa, >seq_02faa657904ada9... *
+>Cluster 183
+0	51aa, >seq_06abf7041751f19... *
+>Cluster 184
+0	51aa, >seq_0cd0baf41837be5... *
+>Cluster 185
+0	51aa, >seq_0e79150d20fff89... *
+>Cluster 186
+0	51aa, >seq_110de135298952f... *
+>Cluster 187
+0	51aa, >seq_1618f2dcf318f91... *
+>Cluster 188
+0	51aa, >seq_16fcff056052373... *
+>Cluster 189
+0	51aa, >seq_1c4f90ad669459f... *
+>Cluster 190
+0	51aa, >seq_20c6279e534708b... *
+>Cluster 191
+0	51aa, >seq_2778d9b90b27d31... *
+>Cluster 192
+0	51aa, >seq_2c9fc8f1b3b6b62... *
+>Cluster 193
+0	51aa, >seq_31f1c654cb150c6... *
+>Cluster 194
+0	51aa, >seq_335d1e610e6b1e7... *
+>Cluster 195
+0	51aa, >seq_399689b5a8d7870... *
+>Cluster 196
+0	51aa, >seq_45b3a541cccdd70... *
+>Cluster 197
+0	51aa, >seq_48871f4adc61273... *
+>Cluster 198
+0	51aa, >seq_4939a4d2440dedb... *
+>Cluster 199
+0	51aa, >seq_529af0cbc208f0d... *
+>Cluster 200
+0	51aa, >seq_544b30f810020ba... *
+>Cluster 201
+0	51aa, >seq_57ac612b3d77608... *
+>Cluster 202
+0	51aa, >seq_5cd1c2e5164da40... *
+>Cluster 203
+0	51aa, >seq_60adfbc32c618ad... *
+>Cluster 204
+0	51aa, >seq_66ba7743a5cea26... *
+>Cluster 205
+0	51aa, >seq_6a3eb7a612b9469... *
+>Cluster 206
+0	51aa, >seq_8147241fd41266f... *
+>Cluster 207
+0	51aa, >seq_84d8d796f6516dc... *
+>Cluster 208
+0	51aa, >seq_862bee51c96d880... *
+>Cluster 209
+0	51aa, >seq_889f68b3ffeb1f8... *
+>Cluster 210
+0	51aa, >seq_8dd9a5136fe5b40... *
+>Cluster 211
+0	51aa, >seq_8dfb0cffe70fefd... *
+>Cluster 212
+0	51aa, >seq_904ea1682457fd8... *
+>Cluster 213
+0	51aa, >seq_9050544c3bb4253... *
+>Cluster 214
+0	51aa, >seq_9191cd8aa92f2da... *
+>Cluster 215
+0	51aa, >seq_9a861e461ec633c... *
+>Cluster 216
+0	51aa, >seq_a0cd8eba9300e69... *
+>Cluster 217
+0	51aa, >seq_a4c2003f7947e44... *
+>Cluster 218
+0	51aa, >seq_ac5ef9bba6644b0... *
+>Cluster 219
+0	51aa, >seq_b00dddd49e250e2... *
+>Cluster 220
+0	51aa, >seq_b61af6eb8efe46b... *
+>Cluster 221
+0	51aa, >seq_b74886ddcf4ce72... *
+>Cluster 222
+0	51aa, >seq_b8daaa2631360e7... *
+>Cluster 223
+0	51aa, >seq_ca527fe39e7d112... *
+>Cluster 224
+0	51aa, >seq_dc7c76487eccf12... *
+>Cluster 225
+0	51aa, >seq_ef0ecb8d2b91b64... *
+>Cluster 226
+0	51aa, >seq_f05aa8f5477aec7... *
+>Cluster 227
+0	51aa, >seq_f998bb274f4cb6f... *
+>Cluster 228
+0	50aa, >seq_06f62b498299e6e... *
+>Cluster 229
+0	50aa, >seq_0bd1a115cf07a76... *
+1	49aa, >seq_21c0fee4e832f53... at 100.00%
+>Cluster 230
+0	50aa, >seq_149c1a85ab5f053... *
+>Cluster 231
+0	50aa, >seq_15a3a3ebfe5f1a9... *
+>Cluster 232
+0	50aa, >seq_1acf55bdd4a9871... *
+>Cluster 233
+0	50aa, >seq_208cd790f5d56cf... *
+>Cluster 234
+0	50aa, >seq_2504d0d04e290e6... *
+>Cluster 235
+0	50aa, >seq_25c274e8349267b... *
+>Cluster 236
+0	50aa, >seq_29d37e8592eb8e5... *
+>Cluster 237
+0	50aa, >seq_3285e2ac04ee849... *
+>Cluster 238
+0	50aa, >seq_34db4503f048bb5... *
+>Cluster 239
+0	50aa, >seq_36d3271afae27c2... *
+>Cluster 240
+0	50aa, >seq_3787af5b3872ede... *
+>Cluster 241
+0	50aa, >seq_39a04fc2d3fe9ac... *
+>Cluster 242
+0	50aa, >seq_3ede8bddefeb411... *
+>Cluster 243
+0	50aa, >seq_412679a8a8caa53... *
+>Cluster 244
+0	50aa, >seq_41f6b2bd4f31b67... *
+>Cluster 245
+0	50aa, >seq_42460c3fb8a019f... *
+>Cluster 246
+0	50aa, >seq_42c665e5aaaba6f... *
+>Cluster 247
+0	50aa, >seq_440fb5db3cfa570... *
+>Cluster 248
+0	50aa, >seq_4fba53604bf9315... *
+>Cluster 249
+0	50aa, >seq_50fe65240f8dd5f... *
+>Cluster 250
+0	50aa, >seq_557ec88ff80e296... *
+>Cluster 251
+0	50aa, >seq_55b97579c80aea5... *
+>Cluster 252
+0	50aa, >seq_56b5a98347f6279... *
+>Cluster 253
+0	50aa, >seq_5d66471c1a954fa... *
+>Cluster 254
+0	50aa, >seq_637acd7cebfe85e... *
+>Cluster 255
+0	50aa, >seq_66bfdd3565408a5... *
+>Cluster 256
+0	50aa, >seq_6a9c7e266dd0fb1... *
+>Cluster 257
+0	50aa, >seq_6bb08dee009fdf7... *
+>Cluster 258
+0	50aa, >seq_75af189ac8a20ee... *
+>Cluster 259
+0	50aa, >seq_7750abd814bcd2e... *
+>Cluster 260
+0	50aa, >seq_7aabb903393fef7... *
+>Cluster 261
+0	50aa, >seq_7cf53e885672a94... *
+>Cluster 262
+0	50aa, >seq_7d07d0e8d373556... *
+>Cluster 263
+0	50aa, >seq_802448413047bbd... *
+>Cluster 264
+0	50aa, >seq_84c09697183a4fb... *
+>Cluster 265
+0	50aa, >seq_872da00c756284b... *
+>Cluster 266
+0	50aa, >seq_908242f470bbb02... *
+>Cluster 267
+0	50aa, >seq_90f3f14e471339e... *
+>Cluster 268
+0	50aa, >seq_9cf40d3f1782798... *
+>Cluster 269
+0	50aa, >seq_a509ef3123f0857... *
+>Cluster 270
+0	50aa, >seq_a7d878674ace192... *
+>Cluster 271
+0	50aa, >seq_b26c1cbbc0d30ac... *
+>Cluster 272
+0	50aa, >seq_b4bd0048d144b2c... *
+>Cluster 273
+0	50aa, >seq_bc876f6fde74017... *
+>Cluster 274
+0	50aa, >seq_c023ecad2363f7e... *
+>Cluster 275
+0	50aa, >seq_c1cf796069234a4... *
+>Cluster 276
+0	50aa, >seq_c27668d71713928... *
+>Cluster 277
+0	50aa, >seq_c688eb2211dfc6f... *
+>Cluster 278
+0	50aa, >seq_c8f4a4bba868a4b... *
+>Cluster 279
+0	50aa, >seq_c916b4c22836f8b... *
+>Cluster 280
+0	50aa, >seq_d2394f193b33348... *
+>Cluster 281
+0	50aa, >seq_d6ba8172cf7377e... *
+>Cluster 282
+0	50aa, >seq_da083cf02bb57d5... *
+>Cluster 283
+0	50aa, >seq_e762adf8a6b1e06... *
+>Cluster 284
+0	50aa, >seq_f258ab0014d49e8... *
+>Cluster 285
+0	49aa, >seq_051418b87131822... *
+>Cluster 286
+0	49aa, >seq_13eaf645ed81a61... *
+>Cluster 287
+0	49aa, >seq_1653bb36916d6f8... *
+>Cluster 288
+0	49aa, >seq_179289f4c27f6dc... *
+>Cluster 289
+0	49aa, >seq_1eb4e50e3fc4acf... *
+>Cluster 290
+0	49aa, >seq_25aafa9f5c7cdc9... *
+>Cluster 291
+0	49aa, >seq_2b3aa014f33e154... *
+>Cluster 292
+0	49aa, >seq_2b499954e008791... *
+>Cluster 293
+0	49aa, >seq_2fa446a6cabbc3f... *
+>Cluster 294
+0	49aa, >seq_38458d272198e02... *
+>Cluster 295
+0	49aa, >seq_3b10507d539f996... *
+>Cluster 296
+0	49aa, >seq_3d8cb0cec49c562... *
+>Cluster 297
+0	49aa, >seq_4a0008dda6b03bc... *
+>Cluster 298
+0	49aa, >seq_4adb33ab4d2da19... *
+>Cluster 299
+0	49aa, >seq_4c6d26276217dfb... *
+>Cluster 300
+0	49aa, >seq_509e4f91d85757a... *
+>Cluster 301
+0	49aa, >seq_550b9461a2c98b5... *
+>Cluster 302
+0	49aa, >seq_594a10e10a7ae08... *
+>Cluster 303
+0	49aa, >seq_5cd33aea3c475ab... *
+>Cluster 304
+0	49aa, >seq_6731beccedab2b0... *
+>Cluster 305
+0	49aa, >seq_731b2d848296471... *
+>Cluster 306
+0	49aa, >seq_74a8036b1db00b0... *
+>Cluster 307
+0	49aa, >seq_74c937723b778fa... *
+>Cluster 308
+0	49aa, >seq_83e2cb3e24aef34... *
+>Cluster 309
+0	49aa, >seq_88618d79fcb95a5... *
+>Cluster 310
+0	49aa, >seq_9904f0c548ef47a... *
+>Cluster 311
+0	49aa, >seq_a5b610cadf22c3a... *
+>Cluster 312
+0	49aa, >seq_aa073a6e282e481... *
+>Cluster 313
+0	49aa, >seq_ad8272e5a7ed05f... *
+>Cluster 314
+0	49aa, >seq_b627ef4b30f9946... *
+>Cluster 315
+0	49aa, >seq_bbcd017f76807e7... *
+>Cluster 316
+0	49aa, >seq_c3903df5d21e72f... *
+>Cluster 317
+0	49aa, >seq_c481d5648aa79cd... *
+>Cluster 318
+0	49aa, >seq_cc943c2b72454a5... *
+>Cluster 319
+0	49aa, >seq_d2833ef41dc36cf... *
+>Cluster 320
+0	49aa, >seq_dbb75720a006317... *
+>Cluster 321
+0	49aa, >seq_dd120c87b0e3211... *
+>Cluster 322
+0	49aa, >seq_e1e43212a7b8c09... *
+>Cluster 323
+0	49aa, >seq_e3cb6b3b2a01a8d... *
+>Cluster 324
+0	49aa, >seq_e3d207dfaddd29a... *
+>Cluster 325
+0	49aa, >seq_e6c8d60a07fc0b6... *
+>Cluster 326
+0	49aa, >seq_f021eb9d9821fce... *
+>Cluster 327
+0	49aa, >seq_f31959976d2584e... *
+>Cluster 328
+0	49aa, >seq_f4806439ef01385... *
+>Cluster 329
+0	49aa, >seq_fbe02d98d4faac0... *
+>Cluster 330
+0	48aa, >seq_04eb717322a45b3... *
+>Cluster 331
+0	48aa, >seq_07cdb6c354d931d... *
+>Cluster 332
+0	48aa, >seq_080a9f996229380... *
+>Cluster 333
+0	48aa, >seq_0d02f11bf38af21... *
+>Cluster 334
+0	48aa, >seq_0e0363dd40a21ce... *
+>Cluster 335
+0	48aa, >seq_14e07550ce63c67... *
+>Cluster 336
+0	48aa, >seq_18365e887b7f372... *
+>Cluster 337
+0	48aa, >seq_1cd0592f8ae9626... *
+>Cluster 338
+0	48aa, >seq_1d5199698a8113f... *
+>Cluster 339
+0	48aa, >seq_203272bc99c063a... *
+>Cluster 340
+0	48aa, >seq_217e6c934b22f81... *
+>Cluster 341
+0	48aa, >seq_242bca32135dcda... *
+>Cluster 342
+0	48aa, >seq_254bbf8b6336f49... *
+>Cluster 343
+0	48aa, >seq_267a66d98c6f47b... *
+>Cluster 344
+0	48aa, >seq_26f0c0968eaa514... *
+>Cluster 345
+0	48aa, >seq_2e43ddfc400543a... *
+>Cluster 346
+0	48aa, >seq_36cee66d771359e... *
+>Cluster 347
+0	48aa, >seq_381847255979531... *
+>Cluster 348
+0	48aa, >seq_3f7a25f3496a7e3... *
+>Cluster 349
+0	48aa, >seq_48089d3dbe7b40d... *
+>Cluster 350
+0	48aa, >seq_4cbe2c053486a76... *
+>Cluster 351
+0	48aa, >seq_594393eb3b2adf7... *
+>Cluster 352
+0	48aa, >seq_633552e4a9717b1... *
+>Cluster 353
+0	48aa, >seq_6d04240384877bd... *
+>Cluster 354
+0	48aa, >seq_6fc6705f873d31e... *
+>Cluster 355
+0	48aa, >seq_727b82698de104b... *
+>Cluster 356
+0	48aa, >seq_77f32538921fda2... *
+>Cluster 357
+0	48aa, >seq_795e47cc16daaf4... *
+>Cluster 358
+0	48aa, >seq_7a248f56d443c92... *
+>Cluster 359
+0	48aa, >seq_83e99152570edea... *
+>Cluster 360
+0	48aa, >seq_85e20e8bb11758a... *
+>Cluster 361
+0	48aa, >seq_86aa269d871340e... *
+>Cluster 362
+0	48aa, >seq_8716a99fd1a84c1... *
+>Cluster 363
+0	48aa, >seq_894aac7125a373a... *
+>Cluster 364
+0	48aa, >seq_94a74c423538ef5... *
+>Cluster 365
+0	48aa, >seq_97b8c604aca47a9... *
+>Cluster 366
+0	48aa, >seq_9bdd076b457eb83... *
+>Cluster 367
+0	48aa, >seq_9d4b6126bf0b330... *
+>Cluster 368
+0	48aa, >seq_a0d23046c0aad0a... *
+>Cluster 369
+0	48aa, >seq_a42debca387b7d1... *
+>Cluster 370
+0	48aa, >seq_a5806db2f092963... *
+>Cluster 371
+0	48aa, >seq_a8bc295716facc4... *
+>Cluster 372
+0	48aa, >seq_b9b1340ac640522... *
+>Cluster 373
+0	48aa, >seq_c24017876a2eec8... *
+>Cluster 374
+0	48aa, >seq_c2c86227d653ae2... *
+>Cluster 375
+0	48aa, >seq_c6436a0a478d593... *
+>Cluster 376
+0	48aa, >seq_cb498fd2db1bd43... *
+>Cluster 377
+0	48aa, >seq_d2c239f33dcba75... *
+>Cluster 378
+0	48aa, >seq_d4fdddaf0d72603... *
+>Cluster 379
+0	48aa, >seq_dfdbc4322464a1d... *
+>Cluster 380
+0	48aa, >seq_e409573aa33bf17... *
+>Cluster 381
+0	48aa, >seq_e4b9cba3d5a87ac... *
+>Cluster 382
+0	48aa, >seq_eaecd0df02d49d8... *
+>Cluster 383
+0	47aa, >seq_05c284419e37758... *
+>Cluster 384
+0	47aa, >seq_13139830f182036... *
+>Cluster 385
+0	47aa, >seq_14e066985b1886a... *
+>Cluster 386
+0	47aa, >seq_1a0e0dfd7a13a0b... *
+>Cluster 387
+0	47aa, >seq_21b1c8061280dc3... *
+>Cluster 388
+0	47aa, >seq_24afce77b99731b... *
+>Cluster 389
+0	47aa, >seq_2550ca421369f09... *
+>Cluster 390
+0	47aa, >seq_25d972f9d9f3287... *
+>Cluster 391
+0	47aa, >seq_267aeda7bee762b... *
+>Cluster 392
+0	47aa, >seq_2d26c77b1ef5a0e... *
+>Cluster 393
+0	47aa, >seq_30ebdc1d51b18a6... *
+>Cluster 394
+0	47aa, >seq_32a33f16ecc9209... *
+>Cluster 395
+0	47aa, >seq_3507037c0bad2e6... *
+>Cluster 396
+0	47aa, >seq_35dfecbafafce8b... *
+>Cluster 397
+0	47aa, >seq_3a4ee696325e276... *
+>Cluster 398
+0	47aa, >seq_3f654f7eb60a667... *
+>Cluster 399
+0	47aa, >seq_4097712247a5154... *
+>Cluster 400
+0	47aa, >seq_441bea4a269155f... *
+>Cluster 401
+0	47aa, >seq_4afd86f3155e606... *
+>Cluster 402
+0	47aa, >seq_4de7777976da895... *
+>Cluster 403
+0	47aa, >seq_545128795acb3c6... *
+>Cluster 404
+0	47aa, >seq_565b718b7c18f1e... *
+>Cluster 405
+0	47aa, >seq_577fedf8920fbdb... *
+>Cluster 406
+0	47aa, >seq_596c12c9290f178... *
+>Cluster 407
+0	47aa, >seq_5ba65ffc8850194... *
+>Cluster 408
+0	47aa, >seq_6ccf80c16a65a3d... *
+>Cluster 409
+0	47aa, >seq_6d5fd6993aec64d... *
+>Cluster 410
+0	47aa, >seq_6e43b1102290af4... *
+>Cluster 411
+0	47aa, >seq_6e5b17a702b7d09... *
+>Cluster 412
+0	47aa, >seq_7d2aad2213b5a41... *
+>Cluster 413
+0	47aa, >seq_7d8c594383852e6... *
+>Cluster 414
+0	47aa, >seq_7fbb1b1efb57475... *
+1	20aa, >seq_6437460671ee361... at 100.00%
+>Cluster 415
+0	47aa, >seq_820687796af3794... *
+>Cluster 416
+0	47aa, >seq_84cce676fa1bfb9... *
+>Cluster 417
+0	47aa, >seq_8cb4ede1a4bf095... *
+>Cluster 418
+0	47aa, >seq_8e02657d4e3ae42... *
+>Cluster 419
+0	47aa, >seq_97157b145c4659f... *
+>Cluster 420
+0	47aa, >seq_97cabd43c00dcee... *
+>Cluster 421
+0	47aa, >seq_99ec5468ea168e9... *
+>Cluster 422
+0	47aa, >seq_9deaf9d7377a620... *
+>Cluster 423
+0	47aa, >seq_a60ba7d1b885355... *
+>Cluster 424
+0	47aa, >seq_a658f11200930c8... *
+>Cluster 425
+0	47aa, >seq_a6c94eba16ecbc3... *
+>Cluster 426
+0	47aa, >seq_a84b4b4f29e5f1b... *
+>Cluster 427
+0	47aa, >seq_a91ed1bb782bb06... *
+>Cluster 428
+0	47aa, >seq_ab30a047eacad66... *
+>Cluster 429
+0	47aa, >seq_b22fce35b2a2cda... *
+>Cluster 430
+0	47aa, >seq_b36cba57f6a463d... *
+>Cluster 431
+0	47aa, >seq_bbbb58794f5de4f... *
+>Cluster 432
+0	47aa, >seq_bc873c27cad81fd... *
+>Cluster 433
+0	47aa, >seq_bd0f5c7eac83e16... *
+>Cluster 434
+0	47aa, >seq_c23ebeefcb3f9c0... *
+>Cluster 435
+0	47aa, >seq_c267eb07e9b309f... *
+>Cluster 436
+0	47aa, >seq_c3083c5fb03e568... *
+>Cluster 437
+0	47aa, >seq_c34150c24ab589b... *
+>Cluster 438
+0	47aa, >seq_c381b7a34fd7679... *
+>Cluster 439
+0	47aa, >seq_cbf55762dc2e302... *
+>Cluster 440
+0	47aa, >seq_d1c354c4252a75a... *
+>Cluster 441
+0	47aa, >seq_de01d5e249caf50... *
+>Cluster 442
+0	47aa, >seq_dee26eb9e598feb... *
+>Cluster 443
+0	47aa, >seq_e0d8255035eb284... *
+>Cluster 444
+0	47aa, >seq_e2ba071c6b22869... *
+>Cluster 445
+0	47aa, >seq_e57fdd55fff3a55... *
+>Cluster 446
+0	47aa, >seq_e58a2d3c3a01016... *
+>Cluster 447
+0	47aa, >seq_e6dc0d2478d02b7... *
+>Cluster 448
+0	47aa, >seq_e91bcaff1c703a4... *
+>Cluster 449
+0	47aa, >seq_ef18c7bc3d9a227... *
+>Cluster 450
+0	47aa, >seq_efff9e8d50357c4... *
+>Cluster 451
+0	47aa, >seq_f2b5da0ff0a9011... *
+>Cluster 452
+0	47aa, >seq_f606d646a50b9d6... *
+>Cluster 453
+0	46aa, >seq_00361833889f685... *
+>Cluster 454
+0	46aa, >seq_0d8b5bbc16c2ae4... *
+>Cluster 455
+0	46aa, >seq_0f4a140246cc5d2... *
+>Cluster 456
+0	46aa, >seq_16287adaedb4bbb... *
+>Cluster 457
+0	46aa, >seq_183126c4108bb6b... *
+>Cluster 458
+0	46aa, >seq_1b481f5d660b8d4... *
+>Cluster 459
+0	46aa, >seq_2ad625b10d855d2... *
+>Cluster 460
+0	46aa, >seq_2cd365036219bd1... *
+>Cluster 461
+0	46aa, >seq_305c27caabbe26c... *
+>Cluster 462
+0	46aa, >seq_3504902cae7e8d1... *
+>Cluster 463
+0	46aa, >seq_3b15c8a66f934a3... *
+>Cluster 464
+0	46aa, >seq_3c503bc688f5af2... *
+>Cluster 465
+0	46aa, >seq_3dc7d06300152ef... *
+>Cluster 466
+0	46aa, >seq_429f582ce8b9b78... *
+>Cluster 467
+0	46aa, >seq_4adac6917e2ad81... *
+>Cluster 468
+0	46aa, >seq_508acece6d4285a... *
+>Cluster 469
+0	46aa, >seq_52a367646ed6cc8... *
+>Cluster 470
+0	46aa, >seq_5abab26d43d0151... *
+>Cluster 471
+0	46aa, >seq_601b4525affb1c4... *
+>Cluster 472
+0	46aa, >seq_6473eddd5b86c15... *
+>Cluster 473
+0	46aa, >seq_65edb6b4579f79e... *
+>Cluster 474
+0	46aa, >seq_66e24a38ff43fe4... *
+>Cluster 475
+0	46aa, >seq_6785a8b04e64371... *
+>Cluster 476
+0	46aa, >seq_6b56bcbb977c4f5... *
+>Cluster 477
+0	46aa, >seq_7ad3f960ea3ebeb... *
+>Cluster 478
+0	46aa, >seq_7b7c6ec37945d22... *
+>Cluster 479
+0	46aa, >seq_7e0363fe90110e2... *
+>Cluster 480
+0	46aa, >seq_830f33e1288a500... *
+>Cluster 481
+0	46aa, >seq_874f18b82f293c0... *
+>Cluster 482
+0	46aa, >seq_8dda553c656b53e... *
+>Cluster 483
+0	46aa, >seq_8ee0e2157ec1dfd... *
+>Cluster 484
+0	46aa, >seq_91a57fd1d2c5500... *
+>Cluster 485
+0	46aa, >seq_92e273b1db3e74b... *
+>Cluster 486
+0	46aa, >seq_941525663692b14... *
+>Cluster 487
+0	46aa, >seq_97c78432a870c9b... *
+>Cluster 488
+0	46aa, >seq_9bd75561aa9f00a... *
+>Cluster 489
+0	46aa, >seq_b4d5230141eb1cf... *
+>Cluster 490
+0	46aa, >seq_b6363cd6db9d55c... *
+>Cluster 491
+0	46aa, >seq_b8af9d65ee30b16... *
+>Cluster 492
+0	46aa, >seq_ba08dda97ef714d... *
+>Cluster 493
+0	46aa, >seq_bafaac5b5faa95d... *
+>Cluster 494
+0	46aa, >seq_bd44aa07826e67a... *
+>Cluster 495
+0	46aa, >seq_c178578f98f894c... *
+>Cluster 496
+0	46aa, >seq_cc0bfd5bdad7e22... *
+>Cluster 497
+0	46aa, >seq_cf308a518cb38d3... *
+>Cluster 498
+0	46aa, >seq_d30ff42fee8a415... *
+>Cluster 499
+0	46aa, >seq_d63c64511ed8fed... *
+>Cluster 500
+0	46aa, >seq_d7932bdf97d3d21... *
+>Cluster 501
+0	46aa, >seq_d89a7e2af974eb7... *
+>Cluster 502
+0	46aa, >seq_dc0ca1c09aa195f... *
+>Cluster 503
+0	46aa, >seq_dc5bbe28b8b00eb... *
+>Cluster 504
+0	46aa, >seq_ecfe5f2ffd0f5eb... *
+>Cluster 505
+0	46aa, >seq_f76d840661a5954... *
+>Cluster 506
+0	45aa, >seq_08907ec47eacbd3... *
+>Cluster 507
+0	45aa, >seq_11619223b68357a... *
+>Cluster 508
+0	45aa, >seq_12fcbfed438cd2d... *
+>Cluster 509
+0	45aa, >seq_17a2091f91e33c2... *
+>Cluster 510
+0	45aa, >seq_17f261a2df89235... *
+>Cluster 511
+0	45aa, >seq_1fd35ed213a2bfa... *
+1	25aa, >seq_914586dfc7884bc... at 100.00%
+>Cluster 512
+0	45aa, >seq_2099078c5e9b3c7... *
+>Cluster 513
+0	45aa, >seq_23097b98a0245c6... *
+>Cluster 514
+0	45aa, >seq_242bcbd6dae4b4c... *
+>Cluster 515
+0	45aa, >seq_25679dd79a87759... *
+>Cluster 516
+0	45aa, >seq_2bb86cacfdb1447... *
+>Cluster 517
+0	45aa, >seq_2e6f3d469024e91... *
+>Cluster 518
+0	45aa, >seq_302d0ac9f23fc06... *
+>Cluster 519
+0	45aa, >seq_3aae9f55d9c058f... *
+>Cluster 520
+0	45aa, >seq_3e34ae36310345e... *
+>Cluster 521
+0	45aa, >seq_3e9e8f2b403d5eb... *
+>Cluster 522
+0	45aa, >seq_4191ef58bcdbc0f... *
+>Cluster 523
+0	45aa, >seq_44c466dc495b1f2... *
+>Cluster 524
+0	45aa, >seq_4b9e77dbfa1bc35... *
+>Cluster 525
+0	45aa, >seq_4f9b0b04095d5a3... *
+>Cluster 526
+0	45aa, >seq_515be1596c8d170... *
+>Cluster 527
+0	45aa, >seq_52ae1ab8977ef04... *
+>Cluster 528
+0	45aa, >seq_5309e0efde5c04e... *
+>Cluster 529
+0	45aa, >seq_5314750c251b399... *
+>Cluster 530
+0	45aa, >seq_5b1bafa200ca311... *
+>Cluster 531
+0	45aa, >seq_5d36a7dac884ce3... *
+>Cluster 532
+0	45aa, >seq_6fab7f3b733a9e5... *
+>Cluster 533
+0	45aa, >seq_79e80a3ef9b87de... *
+>Cluster 534
+0	45aa, >seq_7cb78f622d2af5e... *
+>Cluster 535
+0	45aa, >seq_80dbf98f0fafdb4... *
+>Cluster 536
+0	45aa, >seq_8322ec06fa246d6... *
+>Cluster 537
+0	45aa, >seq_834f5f549e0cacd... *
+>Cluster 538
+0	45aa, >seq_897bce9d620aa3e... *
+>Cluster 539
+0	45aa, >seq_90bb16ff802d33a... *
+>Cluster 540
+0	45aa, >seq_910ee50af6caa33... *
+>Cluster 541
+0	45aa, >seq_95a3baea9e4e225... *
+>Cluster 542
+0	45aa, >seq_98ef63a02f851cf... *
+>Cluster 543
+0	45aa, >seq_a8baa717c1a8bad... *
+>Cluster 544
+0	45aa, >seq_b1b19edcc9aa689... *
+>Cluster 545
+0	45aa, >seq_b36b5ef1446a3d6... *
+>Cluster 546
+0	45aa, >seq_b6be5b861d365c2... *
+>Cluster 547
+0	45aa, >seq_ba0fb655f2a6a19... *
+>Cluster 548
+0	45aa, >seq_bdc8dfab0969115... *
+>Cluster 549
+0	45aa, >seq_be4f81bbee49b9b... *
+>Cluster 550
+0	45aa, >seq_c84b31aab96b483... *
+>Cluster 551
+0	45aa, >seq_cbd1cfaa6a8b0ec... *
+>Cluster 552
+0	45aa, >seq_ccda163220b51fb... *
+>Cluster 553
+0	45aa, >seq_cd2b156df78a196... *
+>Cluster 554
+0	45aa, >seq_ce8cd44a177c51c... *
+>Cluster 555
+0	45aa, >seq_cfd1be89a7a1105... *
+>Cluster 556
+0	45aa, >seq_d51278f5f7f0741... *
+>Cluster 557
+0	45aa, >seq_e1c869d93cd646d... *
+>Cluster 558
+0	45aa, >seq_ea3faf92ab602a0... *
+>Cluster 559
+0	45aa, >seq_eccf9d1a9c68496... *
+>Cluster 560
+0	45aa, >seq_f138bb41ad1609b... *
+>Cluster 561
+0	45aa, >seq_f43ca80bfd28bf5... *
+>Cluster 562
+0	45aa, >seq_f5ab2884bb600f1... *
+>Cluster 563
+0	45aa, >seq_f716eee864e3845... *
+>Cluster 564
+0	45aa, >seq_fb2fc3c2ae3f15c... *
+>Cluster 565
+0	45aa, >seq_ff162d1e699a6de... *
+>Cluster 566
+0	44aa, >seq_000cf1d4008c1da... *
+>Cluster 567
+0	44aa, >seq_05df5d52a1adda7... *
+>Cluster 568
+0	44aa, >seq_07f507e5ce14347... *
+>Cluster 569
+0	44aa, >seq_10bcea57e5eb1ae... *
+>Cluster 570
+0	44aa, >seq_1102b512089508f... *
+>Cluster 571
+0	44aa, >seq_132c6cf6f89240b... *
+>Cluster 572
+0	44aa, >seq_19d78a3687886db... *
+>Cluster 573
+0	44aa, >seq_24c411565d6881b... *
+>Cluster 574
+0	44aa, >seq_2c11ab60b8dcbcd... *
+>Cluster 575
+0	44aa, >seq_2fcf0afe25f5813... *
+>Cluster 576
+0	44aa, >seq_30acd2fed0ac099... *
+>Cluster 577
+0	44aa, >seq_30bb437b2da5061... *
+>Cluster 578
+0	44aa, >seq_30c585ed563ade3... *
+>Cluster 579
+0	44aa, >seq_3a539c526c71536... *
+>Cluster 580
+0	44aa, >seq_403958123015dda... *
+>Cluster 581
+0	44aa, >seq_4481fbecc9e931b... *
+>Cluster 582
+0	44aa, >seq_5018bc6af47d800... *
+>Cluster 583
+0	44aa, >seq_54ae99f28a04e0f... *
+>Cluster 584
+0	44aa, >seq_5ca7567b8b14400... *
+>Cluster 585
+0	44aa, >seq_5d5fa3787902b37... *
+>Cluster 586
+0	44aa, >seq_6aa213be5154a78... *
+>Cluster 587
+0	44aa, >seq_700e1cc7407f59a... *
+>Cluster 588
+0	44aa, >seq_72336ae702a30ae... *
+>Cluster 589
+0	44aa, >seq_79f09a5075f399f... *
+>Cluster 590
+0	44aa, >seq_8b4261dc332b23b... *
+>Cluster 591
+0	44aa, >seq_8fba69e8c437769... *
+>Cluster 592
+0	44aa, >seq_91f2210f4514472... *
+>Cluster 593
+0	44aa, >seq_950352c434e4513... *
+>Cluster 594
+0	44aa, >seq_973f78abb897667... *
+>Cluster 595
+0	44aa, >seq_9b500f9d47671e1... *
+>Cluster 596
+0	44aa, >seq_9c6e60b475d5988... *
+>Cluster 597
+0	44aa, >seq_9fdad3003fdd99c... *
+>Cluster 598
+0	44aa, >seq_a0b8ec74af0914f... *
+>Cluster 599
+0	44aa, >seq_a84071453873d1f... *
+>Cluster 600
+0	44aa, >seq_a86e9d74b46a915... *
+>Cluster 601
+0	44aa, >seq_ab422ab8ed0713d... *
+>Cluster 602
+0	44aa, >seq_aba622142e395b3... *
+>Cluster 603
+0	44aa, >seq_b388c7ec7421153... *
+>Cluster 604
+0	44aa, >seq_b389e9e26c97304... *
+>Cluster 605
+0	44aa, >seq_b3bce54b373463c... *
+>Cluster 606
+0	44aa, >seq_c0e487f8538b16d... *
+>Cluster 607
+0	44aa, >seq_c4ef98a90d9b788... *
+>Cluster 608
+0	44aa, >seq_d1948fe979bfd7f... *
+>Cluster 609
+0	44aa, >seq_d52420c84894214... *
+>Cluster 610
+0	44aa, >seq_d558343f5e21d4c... *
+>Cluster 611
+0	44aa, >seq_d9a0d6cec474e9b... *
+>Cluster 612
+0	44aa, >seq_e262de8223fbcaf... *
+>Cluster 613
+0	44aa, >seq_eb37a0b0407f993... *
+>Cluster 614
+0	44aa, >seq_eda616354b11a15... *
+>Cluster 615
+0	44aa, >seq_ee6d7c08c0f8bbf... *
+>Cluster 616
+0	44aa, >seq_f140ec85afa1a51... *
+>Cluster 617
+0	44aa, >seq_fade8cdfdcdd4dd... *
+>Cluster 618
+0	44aa, >seq_ffc9f1f2fa030a2... *
+>Cluster 619
+0	43aa, >seq_0268d4485fa813b... *
+>Cluster 620
+0	43aa, >seq_02de040d224c4d5... *
+>Cluster 621
+0	43aa, >seq_04a6c1f87e9221a... *
+>Cluster 622
+0	43aa, >seq_0ef770d3da5354f... *
+>Cluster 623
+0	43aa, >seq_124570b95a4fad1... *
+>Cluster 624
+0	43aa, >seq_13fccc774f40b6e... *
+>Cluster 625
+0	43aa, >seq_15402ed473b5882... *
+>Cluster 626
+0	43aa, >seq_1ce79f34cb6363a... *
+>Cluster 627
+0	43aa, >seq_2052484c38bcf96... *
+>Cluster 628
+0	43aa, >seq_313b90b3f9be5f7... *
+>Cluster 629
+0	43aa, >seq_369c45b6b40e7db... *
+>Cluster 630
+0	43aa, >seq_3c1cf073f8e63c9... *
+>Cluster 631
+0	43aa, >seq_4e454280ec02e6d... *
+>Cluster 632
+0	43aa, >seq_55b261b73a2a834... *
+>Cluster 633
+0	43aa, >seq_593861441ab1b54... *
+>Cluster 634
+0	43aa, >seq_5ccc568e9435837... *
+>Cluster 635
+0	43aa, >seq_636a702ff6dc6b9... *
+>Cluster 636
+0	43aa, >seq_6a829116b360f7c... *
+>Cluster 637
+0	43aa, >seq_7167ed0ac8dcce3... *
+>Cluster 638
+0	43aa, >seq_74466593e36610a... *
+>Cluster 639
+0	43aa, >seq_74f9956692bf5bf... *
+>Cluster 640
+0	43aa, >seq_77558105de80ade... *
+>Cluster 641
+0	43aa, >seq_81fdfd9183140d5... *
+>Cluster 642
+0	43aa, >seq_825b761c9c831e5... *
+>Cluster 643
+0	43aa, >seq_87042a7548eafad... *
+>Cluster 644
+0	43aa, >seq_8a4bf8db6db780c... *
+>Cluster 645
+0	43aa, >seq_900bc9bf2f261bc... *
+>Cluster 646
+0	43aa, >seq_95adfdfa28ede45... *
+>Cluster 647
+0	43aa, >seq_9831308d829ca8c... *
+>Cluster 648
+0	43aa, >seq_98bd9857c7ad709... *
+>Cluster 649
+0	43aa, >seq_a250b9e46c8219a... *
+>Cluster 650
+0	43aa, >seq_a3e5b64d58be657... *
+>Cluster 651
+0	43aa, >seq_a5331bde7124b72... *
+>Cluster 652
+0	43aa, >seq_a5566dae2b8caa9... *
+>Cluster 653
+0	43aa, >seq_b3bc731c636fc55... *
+>Cluster 654
+0	43aa, >seq_bdca1ee349b0fbf... *
+>Cluster 655
+0	43aa, >seq_be08995fe12cbf1... *
+>Cluster 656
+0	43aa, >seq_c4e6852091dc462... *
+>Cluster 657
+0	43aa, >seq_c52252c11e6abaf... *
+>Cluster 658
+0	43aa, >seq_cee2019ae0e9cc3... *
+>Cluster 659
+0	43aa, >seq_d20c51c43bf28f3... *
+>Cluster 660
+0	43aa, >seq_d9ff58e752d9f38... *
+>Cluster 661
+0	43aa, >seq_dead16b4271600e... *
+>Cluster 662
+0	43aa, >seq_e3221fc49a192d5... *
+>Cluster 663
+0	43aa, >seq_e3cfda9dab75635... *
+>Cluster 664
+0	43aa, >seq_fbf310e88c86ca0... *
+>Cluster 665
+0	42aa, >seq_0245736d43d70a5... *
+>Cluster 666
+0	42aa, >seq_0f0059d47a50fed... *
+>Cluster 667
+0	42aa, >seq_10148696e21908d... *
+>Cluster 668
+0	42aa, >seq_126ef12e316484c... *
+>Cluster 669
+0	42aa, >seq_12998905a242fd9... *
+>Cluster 670
+0	42aa, >seq_19747dc1b11f1da... *
+>Cluster 671
+0	42aa, >seq_1e0df88a41a47e4... *
+>Cluster 672
+0	42aa, >seq_2578196696d84af... *
+>Cluster 673
+0	42aa, >seq_2c8322d47669cce... *
+>Cluster 674
+0	42aa, >seq_3da9a54e6a7cca4... *
+>Cluster 675
+0	42aa, >seq_446042727ebe53c... *
+>Cluster 676
+0	42aa, >seq_4995802f157d3cb... *
+>Cluster 677
+0	42aa, >seq_49f2b266ca15886... *
+>Cluster 678
+0	42aa, >seq_53d09539d8b2557... *
+>Cluster 679
+0	42aa, >seq_565a5692b64a2f8... *
+>Cluster 680
+0	42aa, >seq_5b6b113ecbe1375... *
+>Cluster 681
+0	42aa, >seq_5fa41b04a581d79... *
+>Cluster 682
+0	42aa, >seq_6729e6f00795b97... *
+>Cluster 683
+0	42aa, >seq_71bff66b98bb134... *
+>Cluster 684
+0	42aa, >seq_7b576c390340809... *
+>Cluster 685
+0	42aa, >seq_7b8b8ec95a8ae15... *
+>Cluster 686
+0	42aa, >seq_7d81ac81e2e50fa... *
+>Cluster 687
+0	42aa, >seq_846cad6b6123e3c... *
+>Cluster 688
+0	42aa, >seq_86d1dcf94155381... *
+>Cluster 689
+0	42aa, >seq_8e0e7227ded9a24... *
+>Cluster 690
+0	42aa, >seq_8fb5da717754ad1... *
+>Cluster 691
+0	42aa, >seq_92e351bd268dc9d... *
+>Cluster 692
+0	42aa, >seq_9bdc3394c2e5f12... *
+>Cluster 693
+0	42aa, >seq_a0ac341cd1bdff7... *
+>Cluster 694
+0	42aa, >seq_a324014682d9ec3... *
+>Cluster 695
+0	42aa, >seq_ac8833745f8b603... *
+>Cluster 696
+0	42aa, >seq_b0ab6a1e8dac0b1... *
+>Cluster 697
+0	42aa, >seq_b450c338e8887e9... *
+>Cluster 698
+0	42aa, >seq_b583ca009fe221b... *
+>Cluster 699
+0	42aa, >seq_b953c665a2d2666... *
+>Cluster 700
+0	42aa, >seq_b97f4d93559919b... *
+>Cluster 701
+0	42aa, >seq_c7025dd9ef463ec... *
+>Cluster 702
+0	42aa, >seq_cb9e9c9c8330927... *
+>Cluster 703
+0	42aa, >seq_ccdb85910ce8717... *
+>Cluster 704
+0	42aa, >seq_ceed7fe69d9c2a5... *
+>Cluster 705
+0	42aa, >seq_cf9aa66788c8e76... *
+>Cluster 706
+0	42aa, >seq_cfe81117ec756b5... *
+>Cluster 707
+0	42aa, >seq_dab80976d9edc62... *
+>Cluster 708
+0	42aa, >seq_dada1092a3ed690... *
+>Cluster 709
+0	42aa, >seq_ef0924d8216bd20... *
+>Cluster 710
+0	42aa, >seq_f117bbbfffc55a7... *
+>Cluster 711
+0	42aa, >seq_f30be3f1ed25626... *
+>Cluster 712
+0	42aa, >seq_f32afcb3d79bd27... *
+>Cluster 713
+0	42aa, >seq_f39bb87586a3289... *
+>Cluster 714
+0	42aa, >seq_f73f21fa85acf17... *
+>Cluster 715
+0	41aa, >seq_040f9f588a92f15... *
+>Cluster 716
+0	41aa, >seq_0659acd8c22ee83... *
+>Cluster 717
+0	41aa, >seq_094a3fbc963ae89... *
+>Cluster 718
+0	41aa, >seq_097a220da79fe3c... *
+>Cluster 719
+0	41aa, >seq_14cf43a493c0771... *
+>Cluster 720
+0	41aa, >seq_1949e557f59614b... *
+>Cluster 721
+0	41aa, >seq_283bb4fb9660fcd... *
+>Cluster 722
+0	41aa, >seq_2d1f1d9158b80d0... *
+>Cluster 723
+0	41aa, >seq_2dad6494191fdfb... *
+>Cluster 724
+0	41aa, >seq_332a8e0c33bf188... *
+>Cluster 725
+0	41aa, >seq_333bed9b51c6537... *
+>Cluster 726
+0	41aa, >seq_37bf212b3b70903... *
+>Cluster 727
+0	41aa, >seq_39a18798c02964c... *
+>Cluster 728
+0	41aa, >seq_3bf6a7f50922089... *
+>Cluster 729
+0	41aa, >seq_3cd7bb604e21b23... *
+>Cluster 730
+0	41aa, >seq_427b86873647bf2... *
+>Cluster 731
+0	41aa, >seq_469b2cc146037f1... *
+>Cluster 732
+0	41aa, >seq_488bf9bd779251f... *
+>Cluster 733
+0	41aa, >seq_4fd60a6762fc846... *
+>Cluster 734
+0	41aa, >seq_537b1f7d46711ad... *
+>Cluster 735
+0	41aa, >seq_5808fcf0e650ae9... *
+>Cluster 736
+0	41aa, >seq_58ccb4db3b669d4... *
+>Cluster 737
+0	41aa, >seq_5997b87ab091510... *
+>Cluster 738
+0	41aa, >seq_5b77d19517906de... *
+>Cluster 739
+0	41aa, >seq_61aede6fb4f3989... *
+>Cluster 740
+0	41aa, >seq_655fa36a040b406... *
+>Cluster 741
+0	41aa, >seq_67e4d46f06d0a22... *
+>Cluster 742
+0	41aa, >seq_6bbcf8778762fc3... *
+>Cluster 743
+0	41aa, >seq_6bcbe44f1960aad... *
+>Cluster 744
+0	41aa, >seq_6c2ad38b1bbf3d7... *
+>Cluster 745
+0	41aa, >seq_722f2e50bb4e028... *
+>Cluster 746
+0	41aa, >seq_79c36ea801fcb75... *
+>Cluster 747
+0	41aa, >seq_83aed47bb5b62d1... *
+>Cluster 748
+0	41aa, >seq_850bec567336f23... *
+>Cluster 749
+0	41aa, >seq_86629328b123513... *
+>Cluster 750
+0	41aa, >seq_92117e48368b924... *
+>Cluster 751
+0	41aa, >seq_9688ebdcb9bb555... *
+>Cluster 752
+0	41aa, >seq_a17ce755399995a... *
+>Cluster 753
+0	41aa, >seq_a5ef63f94119edb... *
+>Cluster 754
+0	41aa, >seq_a6f2b65699d69f4... *
+>Cluster 755
+0	41aa, >seq_b2620f1bc8c804b... *
+>Cluster 756
+0	41aa, >seq_b75c273a4d76b6d... *
+>Cluster 757
+0	41aa, >seq_b852f23a4531dc7... *
+>Cluster 758
+0	41aa, >seq_b980f768d5caf15... *
+>Cluster 759
+0	41aa, >seq_bb0483c45c685dd... *
+>Cluster 760
+0	41aa, >seq_c0233f996ec449e... *
+>Cluster 761
+0	41aa, >seq_c4ae8c0c4f2edca... *
+>Cluster 762
+0	41aa, >seq_c678d7d5dff12b7... *
+>Cluster 763
+0	41aa, >seq_cc5d2c103005ee5... *
+>Cluster 764
+0	41aa, >seq_cd7ec81d625f508... *
+>Cluster 765
+0	41aa, >seq_da69d2149461ddd... *
+>Cluster 766
+0	41aa, >seq_dadcfb45f094e8b... *
+>Cluster 767
+0	41aa, >seq_db27361cd022112... *
+>Cluster 768
+0	41aa, >seq_e832baf72a40ec1... *
+>Cluster 769
+0	41aa, >seq_efa08d86783e597... *
+>Cluster 770
+0	41aa, >seq_f25fdc8fa7d4d28... *
+>Cluster 771
+0	41aa, >seq_f770f30c90a713e... *
+>Cluster 772
+0	41aa, >seq_fd4df2e6e6baaa1... *
+>Cluster 773
+0	40aa, >seq_033b30ff859fce2... *
+>Cluster 774
+0	40aa, >seq_062df164b865e30... *
+>Cluster 775
+0	40aa, >seq_07f8ec5bc67b1c2... *
+>Cluster 776
+0	40aa, >seq_0955eea9eb26e69... *
+>Cluster 777
+0	40aa, >seq_0d410a0a2b648f3... *
+>Cluster 778
+0	40aa, >seq_167c27ae626ffa6... *
+>Cluster 779
+0	40aa, >seq_179e93b2447bcc5... *
+>Cluster 780
+0	40aa, >seq_1a80461ef71aa35... *
+>Cluster 781
+0	40aa, >seq_20a2376c77830eb... *
+>Cluster 782
+0	40aa, >seq_2205de78f7393d8... *
+>Cluster 783
+0	40aa, >seq_2cb324ae3f9365b... *
+>Cluster 784
+0	40aa, >seq_2edf9ee54a5f919... *
+>Cluster 785
+0	40aa, >seq_3231ccd5c999947... *
+>Cluster 786
+0	40aa, >seq_3368da14fc8b68a... *
+>Cluster 787
+0	40aa, >seq_3535f537befee53... *
+>Cluster 788
+0	40aa, >seq_3ff30e2d37e89be... *
+>Cluster 789
+0	40aa, >seq_40415925cc4f169... *
+>Cluster 790
+0	40aa, >seq_4123159f49e7008... *
+>Cluster 791
+0	40aa, >seq_469cb68850cc504... *
+>Cluster 792
+0	40aa, >seq_4aa4a2742d8710e... *
+>Cluster 793
+0	40aa, >seq_5220c77f36618fe... *
+>Cluster 794
+0	40aa, >seq_5e5944a0f7a27cb... *
+>Cluster 795
+0	40aa, >seq_5fc7f0117b15221... *
+>Cluster 796
+0	40aa, >seq_6001f7a26632a12... *
+>Cluster 797
+0	40aa, >seq_63635e5fc3a2322... *
+>Cluster 798
+0	40aa, >seq_67fc8efcb0e76aa... *
+>Cluster 799
+0	40aa, >seq_68a7b3fbfa7b102... *
+>Cluster 800
+0	40aa, >seq_69c86de3160e261... *
+>Cluster 801
+0	40aa, >seq_7312881fb85463b... *
+>Cluster 802
+0	40aa, >seq_750aef6f4ae44d6... *
+>Cluster 803
+0	40aa, >seq_75c8e0fa504d2c1... *
+>Cluster 804
+0	40aa, >seq_75f4cc2068201e2... *
+>Cluster 805
+0	40aa, >seq_7bd07292a05aaa6... *
+>Cluster 806
+0	40aa, >seq_7bd34b953d83b37... *
+>Cluster 807
+0	40aa, >seq_80310ad52fd507c... *
+>Cluster 808
+0	40aa, >seq_89becdf8f472a43... *
+>Cluster 809
+0	40aa, >seq_8a7c8958091445a... *
+>Cluster 810
+0	40aa, >seq_8d4939f51dff854... *
+>Cluster 811
+0	40aa, >seq_909a5e84d3f7654... *
+>Cluster 812
+0	40aa, >seq_909c6ce3b3b34c1... *
+>Cluster 813
+0	40aa, >seq_915679abcf917ba... *
+>Cluster 814
+0	40aa, >seq_a29cc11b015cc0e... *
+>Cluster 815
+0	40aa, >seq_a87b11bad1fc5df... *
+>Cluster 816
+0	40aa, >seq_ad4f520a1116a79... *
+>Cluster 817
+0	40aa, >seq_be7e965cd0810df... *
+>Cluster 818
+0	40aa, >seq_bee1dbbf4ed965c... *
+>Cluster 819
+0	40aa, >seq_c38eb1e3cfedc4a... *
+>Cluster 820
+0	40aa, >seq_c50559ea5f83366... *
+>Cluster 821
+0	40aa, >seq_c659476f6de27e7... *
+>Cluster 822
+0	40aa, >seq_c6743b5df68142c... *
+>Cluster 823
+0	40aa, >seq_c86504929bbdb5a... *
+>Cluster 824
+0	40aa, >seq_caea6b6adb4f906... *
+>Cluster 825
+0	40aa, >seq_cd56ec2546fe894... *
+>Cluster 826
+0	40aa, >seq_cf0d01478568214... *
+>Cluster 827
+0	40aa, >seq_df0ce6fb4cdfe12... *
+>Cluster 828
+0	40aa, >seq_df20e5e4375ebda... *
+>Cluster 829
+0	40aa, >seq_f25949361d98d62... *
+>Cluster 830
+0	40aa, >seq_fb3db6da6c8df22... *
+>Cluster 831
+0	40aa, >seq_fbcc16ada4fcaba... *
+>Cluster 832
+0	40aa, >seq_fddc133d436f1de... *
+>Cluster 833
+0	40aa, >seq_fe7c32f25324df8... *
+>Cluster 834
+0	39aa, >seq_026138fb1834c84... *
+>Cluster 835
+0	39aa, >seq_06c3fdec13cbf17... *
+>Cluster 836
+0	39aa, >seq_075131b1d9a3bd7... *
+>Cluster 837
+0	39aa, >seq_0a123fc334dee4c... *
+>Cluster 838
+0	39aa, >seq_19d2a4c0efd3efe... *
+>Cluster 839
+0	39aa, >seq_1af6404367272f5... *
+>Cluster 840
+0	39aa, >seq_21912b84adb547d... *
+>Cluster 841
+0	39aa, >seq_23225da0b1c0cf9... *
+>Cluster 842
+0	39aa, >seq_2b603491aa09ce7... *
+>Cluster 843
+0	39aa, >seq_36a6680980e979d... *
+>Cluster 844
+0	39aa, >seq_388d41b35f487f7... *
+>Cluster 845
+0	39aa, >seq_404ed518fc2c9f6... *
+>Cluster 846
+0	39aa, >seq_45cca2e6972d345... *
+>Cluster 847
+0	39aa, >seq_4794fad0a3a0b32... *
+>Cluster 848
+0	39aa, >seq_4b27160e068fbb7... *
+>Cluster 849
+0	39aa, >seq_5238655ca7c7188... *
+>Cluster 850
+0	39aa, >seq_536a50e4d246733... *
+>Cluster 851
+0	39aa, >seq_575407cf186dff5... *
+>Cluster 852
+0	39aa, >seq_576ba8a75e28a47... *
+>Cluster 853
+0	39aa, >seq_59058183c488a0f... *
+>Cluster 854
+0	39aa, >seq_5a3ba7c11deaaea... *
+>Cluster 855
+0	39aa, >seq_5b828b883268885... *
+>Cluster 856
+0	39aa, >seq_6046022beb5befe... *
+>Cluster 857
+0	39aa, >seq_63233fa6b52d44c... *
+1	38aa, >seq_bfd20f0745852b5... at 97.37%
+>Cluster 858
+0	39aa, >seq_64e7f1b86b3190f... *
+>Cluster 859
+0	39aa, >seq_651c112eb6a309f... *
+>Cluster 860
+0	39aa, >seq_6e7e42d00d5714e... *
+>Cluster 861
+0	39aa, >seq_70b719e2458204c... *
+>Cluster 862
+0	39aa, >seq_72d1965d6d0d029... *
+>Cluster 863
+0	39aa, >seq_74296428c375638... *
+>Cluster 864
+0	39aa, >seq_7c381020665e04d... *
+>Cluster 865
+0	39aa, >seq_80f8a6e8bc86df2... *
+>Cluster 866
+0	39aa, >seq_81fd2d100e52aad... *
+>Cluster 867
+0	39aa, >seq_824246b45f940d9... *
+>Cluster 868
+0	39aa, >seq_8573094bff28f4c... *
+>Cluster 869
+0	39aa, >seq_8902e15c7ee1d9a... *
+>Cluster 870
+0	39aa, >seq_8b7754a9a600cc9... *
+>Cluster 871
+0	39aa, >seq_8f95bc16e464118... *
+>Cluster 872
+0	39aa, >seq_912314ea2e3416b... *
+>Cluster 873
+0	39aa, >seq_972bb84f2ee08a1... *
+>Cluster 874
+0	39aa, >seq_993d6067cfe24d7... *
+>Cluster 875
+0	39aa, >seq_9d14b0ab2656629... *
+>Cluster 876
+0	39aa, >seq_9daa1d6c8325410... *
+>Cluster 877
+0	39aa, >seq_a34b67e4ed46a35... *
+>Cluster 878
+0	39aa, >seq_ac4a68cb5bba1a2... *
+>Cluster 879
+0	39aa, >seq_ac8e60279720b4e... *
+>Cluster 880
+0	39aa, >seq_ada983a60619847... *
+>Cluster 881
+0	39aa, >seq_b071939214659cc... *
+>Cluster 882
+0	39aa, >seq_b0e212362b171dc... *
+>Cluster 883
+0	39aa, >seq_b622be81941ea10... *
+>Cluster 884
+0	39aa, >seq_ba2bd14fd5afa81... *
+>Cluster 885
+0	39aa, >seq_ba8f49fc10bca21... *
+>Cluster 886
+0	39aa, >seq_c022cd66a573063... *
+>Cluster 887
+0	39aa, >seq_c8c6f56d7473597... *
+>Cluster 888
+0	39aa, >seq_d5fc6782c3ed133... *
+>Cluster 889
+0	39aa, >seq_d7b41b94ef07e59... *
+>Cluster 890
+0	39aa, >seq_d93e4a9797b05f6... *
+>Cluster 891
+0	39aa, >seq_e1c2d54490c1ac7... *
+>Cluster 892
+0	39aa, >seq_e1cd1b449c70e83... *
+>Cluster 893
+0	39aa, >seq_e24d24f58b826eb... *
+>Cluster 894
+0	39aa, >seq_e2a75556156c448... *
+>Cluster 895
+0	39aa, >seq_e2e6332af1a764e... *
+>Cluster 896
+0	39aa, >seq_e47c309f21fa33e... *
+>Cluster 897
+0	39aa, >seq_ea1d506e6364e27... *
+>Cluster 898
+0	39aa, >seq_f5e933ce975ee8c... *
+>Cluster 899
+0	39aa, >seq_f65ac134e5189b1... *
+>Cluster 900
+0	39aa, >seq_fa87111fe2e8e95... *
+>Cluster 901
+0	38aa, >seq_02c75b30bddaa58... *
+>Cluster 902
+0	38aa, >seq_07e9d16b932c54a... *
+>Cluster 903
+0	38aa, >seq_0db00724f924281... *
+>Cluster 904
+0	38aa, >seq_0dc36459ce00ebc... *
+>Cluster 905
+0	38aa, >seq_11b33bdadc4f67a... *
+>Cluster 906
+0	38aa, >seq_1871e79ef0de554... *
+>Cluster 907
+0	38aa, >seq_1a655326159c7de... *
+>Cluster 908
+0	38aa, >seq_22e5e33dcb11e8e... *
+>Cluster 909
+0	38aa, >seq_2e5317792099336... *
+>Cluster 910
+0	38aa, >seq_31593dc7ccf80c6... *
+>Cluster 911
+0	38aa, >seq_370948e18ae0a08... *
+>Cluster 912
+0	38aa, >seq_39abcef6916bb70... *
+>Cluster 913
+0	38aa, >seq_4b5a6e146377bef... *
+>Cluster 914
+0	38aa, >seq_51bb84b5f7f78e9... *
+>Cluster 915
+0	38aa, >seq_563ee469af47835... *
+>Cluster 916
+0	38aa, >seq_5c203222b085dcb... *
+>Cluster 917
+0	38aa, >seq_5ce695f19d13721... *
+>Cluster 918
+0	38aa, >seq_5dc202d2f03d214... *
+>Cluster 919
+0	38aa, >seq_611b32e4296f31a... *
+>Cluster 920
+0	38aa, >seq_67e3f52e1bcd0ee... *
+>Cluster 921
+0	38aa, >seq_6e5e36e6e22a221... *
+>Cluster 922
+0	38aa, >seq_7017f8ef0f291da... *
+1	36aa, >seq_252bcd539814ba3... at 91.67%
+>Cluster 923
+0	38aa, >seq_73b678a42ac6aea... *
+>Cluster 924
+0	38aa, >seq_78b90a98b6f628a... *
+>Cluster 925
+0	38aa, >seq_79611bab9db9022... *
+>Cluster 926
+0	38aa, >seq_7a8e8de0da687e6... *
+>Cluster 927
+0	38aa, >seq_7bab5db5ccb2baf... *
+>Cluster 928
+0	38aa, >seq_82bd8cd1718ac90... *
+>Cluster 929
+0	38aa, >seq_83291f09e644f19... *
+>Cluster 930
+0	38aa, >seq_859ed97807d88b3... *
+>Cluster 931
+0	38aa, >seq_8869b99589b1942... *
+>Cluster 932
+0	38aa, >seq_900ba88088a0cf6... *
+>Cluster 933
+0	38aa, >seq_91756c1027c636a... *
+>Cluster 934
+0	38aa, >seq_9312756f0e1ca22... *
+>Cluster 935
+0	38aa, >seq_933fd01a8873dff... *
+>Cluster 936
+0	38aa, >seq_944ffebdc6d723e... *
+>Cluster 937
+0	38aa, >seq_95982ebd6c1971a... *
+>Cluster 938
+0	38aa, >seq_95f883dd94519a8... *
+>Cluster 939
+0	38aa, >seq_984c6e0d11b7b8e... *
+>Cluster 940
+0	38aa, >seq_99b2b670788a980... *
+>Cluster 941
+0	38aa, >seq_a09e5e948eccccd... *
+>Cluster 942
+0	38aa, >seq_a130b2452e43e87... *
+>Cluster 943
+0	38aa, >seq_a2a733c1480e459... *
+>Cluster 944
+0	38aa, >seq_ad00a31c48c5850... *
+>Cluster 945
+0	38aa, >seq_ad9834914901459... *
+>Cluster 946
+0	38aa, >seq_afb1e8b2e0f8195... *
+>Cluster 947
+0	38aa, >seq_b12c241f905aa2a... *
+>Cluster 948
+0	38aa, >seq_bbd40639c41570c... *
+>Cluster 949
+0	38aa, >seq_c1f5f1948dd83e3... *
+>Cluster 950
+0	38aa, >seq_c2b275a3caac340... *
+>Cluster 951
+0	38aa, >seq_c4cdcaf20acc8f7... *
+>Cluster 952
+0	38aa, >seq_c558a970770ea16... *
+>Cluster 953
+0	38aa, >seq_d246c3d30f9eee7... *
+>Cluster 954
+0	38aa, >seq_da84ecf7427ea11... *
+>Cluster 955
+0	38aa, >seq_df11b1e6e8e7f18... *
+>Cluster 956
+0	38aa, >seq_e0603a7d8c25931... *
+>Cluster 957
+0	38aa, >seq_e06560356bebac2... *
+>Cluster 958
+0	38aa, >seq_e0b127216f1ba4c... *
+>Cluster 959
+0	38aa, >seq_e7cfdfff0ae0e78... *
+>Cluster 960
+0	38aa, >seq_ed12bdf375ef4a9... *
+>Cluster 961
+0	38aa, >seq_ef1eb607ce2229b... *
+>Cluster 962
+0	38aa, >seq_f4c456054f2c85d... *
+>Cluster 963
+0	38aa, >seq_f68b0abb088b68a... *
+>Cluster 964
+0	38aa, >seq_fe18a3d179abd82... *
+>Cluster 965
+0	37aa, >seq_08799a9769ddd2e... *
+>Cluster 966
+0	37aa, >seq_0b7913ae80b6c3f... *
+>Cluster 967
+0	37aa, >seq_0c454dccc0c9dd1... *
+>Cluster 968
+0	37aa, >seq_0fb14907649fd98... *
+>Cluster 969
+0	37aa, >seq_10622d57e02f171... *
+>Cluster 970
+0	37aa, >seq_1086cabdcb40897... *
+>Cluster 971
+0	37aa, >seq_10a4c3445f5d5b8... *
+>Cluster 972
+0	37aa, >seq_11850cd4d9fe85c... *
+>Cluster 973
+0	37aa, >seq_129d01d3039db98... *
+>Cluster 974
+0	37aa, >seq_157adf06c4f51c8... *
+>Cluster 975
+0	37aa, >seq_18a8ce7b2365ea2... *
+>Cluster 976
+0	37aa, >seq_1bcc7e765b4d8fb... *
+>Cluster 977
+0	37aa, >seq_1d6435a9b06df33... *
+>Cluster 978
+0	37aa, >seq_21876be21dacf9b... *
+>Cluster 979
+0	37aa, >seq_237db9fb95054a5... *
+>Cluster 980
+0	37aa, >seq_25cf990f406b994... *
+>Cluster 981
+0	37aa, >seq_33c706f3525053c... *
+>Cluster 982
+0	37aa, >seq_39d29ebc39a8c91... *
+>Cluster 983
+0	37aa, >seq_3b3ae2607126a80... *
+>Cluster 984
+0	37aa, >seq_40879a2e6f56200... *
+>Cluster 985
+0	37aa, >seq_42abf3aae7193be... *
+>Cluster 986
+0	37aa, >seq_43701c5cb5a0439... *
+>Cluster 987
+0	37aa, >seq_439a4a148513f53... *
+>Cluster 988
+0	37aa, >seq_460b71e442eb65c... *
+>Cluster 989
+0	37aa, >seq_48fdc865ce8fbd7... *
+>Cluster 990
+0	37aa, >seq_4b0bcf7f0abfa90... *
+>Cluster 991
+0	37aa, >seq_4dd9845cc2177a5... *
+>Cluster 992
+0	37aa, >seq_550c26a5b943cd7... *
+>Cluster 993
+0	37aa, >seq_5db738d985c7d69... *
+>Cluster 994
+0	37aa, >seq_68578dbb586d682... *
+>Cluster 995
+0	37aa, >seq_68b0c4755870a91... *
+>Cluster 996
+0	37aa, >seq_692e77b1d439855... *
+>Cluster 997
+0	37aa, >seq_6b40e71a1f2373d... *
+>Cluster 998
+0	37aa, >seq_7246fe1653760a5... *
+>Cluster 999
+0	37aa, >seq_7934a049df5bf4d... *
+>Cluster 1000
+0	37aa, >seq_7b965b6165fcd57... *
+>Cluster 1001
+0	37aa, >seq_7bf890d116e4873... *
+>Cluster 1002
+0	37aa, >seq_7e4959a4e2b555e... *
+>Cluster 1003
+0	37aa, >seq_7f15bd198fe8ab4... *
+>Cluster 1004
+0	37aa, >seq_82f09f315225354... *
+>Cluster 1005
+0	37aa, >seq_889b19718cb037f... *
+>Cluster 1006
+0	37aa, >seq_8bb36ccee1ff01a... *
+>Cluster 1007
+0	37aa, >seq_8d17f3757db8e77... *
+>Cluster 1008
+0	37aa, >seq_8d4acd77c25cbfb... *
+>Cluster 1009
+0	37aa, >seq_8f8b7a81689a593... *
+>Cluster 1010
+0	37aa, >seq_8fcec8c2f27d15f... *
+>Cluster 1011
+0	37aa, >seq_90b463a46b0174d... *
+>Cluster 1012
+0	37aa, >seq_925a6f4d6da9526... *
+>Cluster 1013
+0	37aa, >seq_955377283e91dfb... *
+>Cluster 1014
+0	37aa, >seq_96dde69603127af... *
+>Cluster 1015
+0	37aa, >seq_97b4bab5b657df8... *
+>Cluster 1016
+0	37aa, >seq_9b076bebbb11257... *
+>Cluster 1017
+0	37aa, >seq_9ed9feba3bcc7be... *
+>Cluster 1018
+0	37aa, >seq_a4a412e70b6a43d... *
+>Cluster 1019
+0	37aa, >seq_a65af03b4d5bcc2... *
+>Cluster 1020
+0	37aa, >seq_a6f4e5583bdb153... *
+>Cluster 1021
+0	37aa, >seq_a731fd8b4607126... *
+>Cluster 1022
+0	37aa, >seq_a9928c9cbe3fab4... *
+>Cluster 1023
+0	37aa, >seq_ab36096f67a3dd9... *
+>Cluster 1024
+0	37aa, >seq_aed10d1e0a049eb... *
+>Cluster 1025
+0	37aa, >seq_bad31c64bad1b1a... *
+>Cluster 1026
+0	37aa, >seq_bc0e7e1da163268... *
+>Cluster 1027
+0	37aa, >seq_bc18ba6041bf81b... *
+>Cluster 1028
+0	37aa, >seq_c8f84f561b712fa... *
+>Cluster 1029
+0	37aa, >seq_cc2697ed713c677... *
+>Cluster 1030
+0	37aa, >seq_dd171361a6622e9... *
+>Cluster 1031
+0	37aa, >seq_e11f00fbd77742e... *
+>Cluster 1032
+0	37aa, >seq_edab5cd26737791... *
+>Cluster 1033
+0	37aa, >seq_f104d5a82a89160... *
+>Cluster 1034
+0	37aa, >seq_f1694869e25f92f... *
+>Cluster 1035
+0	37aa, >seq_f432581e3b5bed3... *
+>Cluster 1036
+0	37aa, >seq_f89f983a57dd44b... *
+>Cluster 1037
+0	37aa, >seq_fb261a652ada9b6... *
+>Cluster 1038
+0	37aa, >seq_fec41b10678a678... *
+>Cluster 1039
+0	36aa, >seq_031813d3fe1108d... *
+>Cluster 1040
+0	36aa, >seq_04006e7121323e4... *
+>Cluster 1041
+0	36aa, >seq_089fbf9560618db... *
+>Cluster 1042
+0	36aa, >seq_096374e7f083abe... *
+>Cluster 1043
+0	36aa, >seq_0e95b33515e7ba8... *
+>Cluster 1044
+0	36aa, >seq_103ade1d3ab57d0... *
+>Cluster 1045
+0	36aa, >seq_1063a6ed096f85b... *
+>Cluster 1046
+0	36aa, >seq_1157adf71aefe45... *
+>Cluster 1047
+0	36aa, >seq_1308f8ff23f840f... *
+>Cluster 1048
+0	36aa, >seq_14d04b51a7e25b5... *
+>Cluster 1049
+0	36aa, >seq_15c562d77c6a83e... *
+>Cluster 1050
+0	36aa, >seq_280624453f33e2a... *
+>Cluster 1051
+0	36aa, >seq_285768be228b8ce... *
+>Cluster 1052
+0	36aa, >seq_2f94d690d18c609... *
+>Cluster 1053
+0	36aa, >seq_36d88e2157f0fc6... *
+>Cluster 1054
+0	36aa, >seq_371899bbf8f1deb... *
+>Cluster 1055
+0	36aa, >seq_37751534db9dccd... *
+>Cluster 1056
+0	36aa, >seq_3f823ac20615188... *
+>Cluster 1057
+0	36aa, >seq_47aa6fe1f98b67d... *
+>Cluster 1058
+0	36aa, >seq_47f0dcdda12dce2... *
+>Cluster 1059
+0	36aa, >seq_4a418a4aec64bdb... *
+>Cluster 1060
+0	36aa, >seq_4ba277cc908529d... *
+>Cluster 1061
+0	36aa, >seq_5354e9f9af18eac... *
+>Cluster 1062
+0	36aa, >seq_542f16224cae1bd... *
+>Cluster 1063
+0	36aa, >seq_5458989b48705bb... *
+>Cluster 1064
+0	36aa, >seq_558a552844da5dc... *
+>Cluster 1065
+0	36aa, >seq_57217b0a80ab4ec... *
+>Cluster 1066
+0	36aa, >seq_57807460a481786... *
+>Cluster 1067
+0	36aa, >seq_5c96711b6a8e009... *
+>Cluster 1068
+0	36aa, >seq_62c945ac4b591aa... *
+>Cluster 1069
+0	36aa, >seq_6afd38a3905e0e2... *
+>Cluster 1070
+0	36aa, >seq_700585d07f386d0... *
+>Cluster 1071
+0	36aa, >seq_733e4c3b5a8f583... *
+>Cluster 1072
+0	36aa, >seq_7ce75b1fde76a8b... *
+>Cluster 1073
+0	36aa, >seq_8159053f50b418b... *
+>Cluster 1074
+0	36aa, >seq_822c9bc3bd38052... *
+>Cluster 1075
+0	36aa, >seq_84bc9a1baf8a06c... *
+>Cluster 1076
+0	36aa, >seq_86afe61a415c1b5... *
+>Cluster 1077
+0	36aa, >seq_8a7c804fa0f491a... *
+>Cluster 1078
+0	36aa, >seq_8bb8c2a2de2664f... *
+>Cluster 1079
+0	36aa, >seq_8d637975506c01e... *
+>Cluster 1080
+0	36aa, >seq_8fa95205aa246d6... *
+>Cluster 1081
+0	36aa, >seq_90324d3ab680d35... *
+>Cluster 1082
+0	36aa, >seq_91ff4f1feff9e38... *
+>Cluster 1083
+0	36aa, >seq_99e8955f143aaba... *
+>Cluster 1084
+0	36aa, >seq_9b8d87b8964c176... *
+>Cluster 1085
+0	36aa, >seq_9f7c96f64a097cf... *
+>Cluster 1086
+0	36aa, >seq_a522b5305cc2684... *
+>Cluster 1087
+0	36aa, >seq_b7203bfe046ddde... *
+>Cluster 1088
+0	36aa, >seq_ba72cea5bf4474e... *
+>Cluster 1089
+0	36aa, >seq_bcb73b33c121ce2... *
+>Cluster 1090
+0	36aa, >seq_c172c48be9e36d5... *
+>Cluster 1091
+0	36aa, >seq_c18ef99676f9e2f... *
+>Cluster 1092
+0	36aa, >seq_c21d44e000b2c4a... *
+>Cluster 1093
+0	36aa, >seq_c2d5d26f2220f6e... *
+>Cluster 1094
+0	36aa, >seq_c3c68444cb7fab9... *
+>Cluster 1095
+0	36aa, >seq_c4bcf33a7087ad3... *
+>Cluster 1096
+0	36aa, >seq_c7ec6658c52805e... *
+>Cluster 1097
+0	36aa, >seq_ce1ba07266caad7... *
+>Cluster 1098
+0	36aa, >seq_ce21cf62184d77c... *
+>Cluster 1099
+0	36aa, >seq_cee306dccf1c3b1... *
+>Cluster 1100
+0	36aa, >seq_d108e4e7192dbd0... *
+>Cluster 1101
+0	36aa, >seq_db330026fba5614... *
+>Cluster 1102
+0	36aa, >seq_e2fbac9154017f3... *
+>Cluster 1103
+0	36aa, >seq_e8ea1bcf3ddc96e... *
+>Cluster 1104
+0	36aa, >seq_eb649da028ad540... *
+>Cluster 1105
+0	36aa, >seq_ed9930338052622... *
+>Cluster 1106
+0	36aa, >seq_f5a4e599487c49b... *
+>Cluster 1107
+0	36aa, >seq_fc3b2c54ed2f3dd... *
+>Cluster 1108
+0	36aa, >seq_fc8f18951f71018... *
+>Cluster 1109
+0	36aa, >seq_fe93b96551a80de... *
+>Cluster 1110
+0	35aa, >seq_091792bfd2f10be... *
+>Cluster 1111
+0	35aa, >seq_17a0249266bf8f2... *
+>Cluster 1112
+0	35aa, >seq_1e527bbf5ca2433... *
+>Cluster 1113
+0	35aa, >seq_297842fdd47fc03... *
+>Cluster 1114
+0	35aa, >seq_31ac012ff6f3feb... *
+>Cluster 1115
+0	35aa, >seq_37b3b6744aa6dfc... *
+>Cluster 1116
+0	35aa, >seq_4aedeb9b07602ff... *
+>Cluster 1117
+0	35aa, >seq_4c699ea39192cb3... *
+>Cluster 1118
+0	35aa, >seq_549c675e0005e9f... *
+>Cluster 1119
+0	35aa, >seq_5526553df7d5d49... *
+>Cluster 1120
+0	35aa, >seq_56949ae5a2d1a4c... *
+>Cluster 1121
+0	35aa, >seq_5bf69a8452499c1... *
+>Cluster 1122
+0	35aa, >seq_5dade23f34ed206... *
+>Cluster 1123
+0	35aa, >seq_5e5e55c07b8f2ef... *
+>Cluster 1124
+0	35aa, >seq_66fcc6e45f1194a... *
+>Cluster 1125
+0	35aa, >seq_67a30f0763e7ef9... *
+>Cluster 1126
+0	35aa, >seq_6938007b79f9c03... *
+>Cluster 1127
+0	35aa, >seq_6b7bef153ddd32c... *
+>Cluster 1128
+0	35aa, >seq_6c532ff6e7644f0... *
+>Cluster 1129
+0	35aa, >seq_6c5c13e8f5aadc4... *
+>Cluster 1130
+0	35aa, >seq_80f550f4ba42078... *
+>Cluster 1131
+0	35aa, >seq_8b715201ed6cb6d... *
+>Cluster 1132
+0	35aa, >seq_9f9b22ee44e5c33... *
+>Cluster 1133
+0	35aa, >seq_a26787da05df602... *
+>Cluster 1134
+0	35aa, >seq_aa53c8f5dc2fab1... *
+>Cluster 1135
+0	35aa, >seq_abf069b19931843... *
+>Cluster 1136
+0	35aa, >seq_acc1d6a81de2571... *
+>Cluster 1137
+0	35aa, >seq_b47f8d9dfaabff4... *
+>Cluster 1138
+0	35aa, >seq_b534799869b9b8d... *
+>Cluster 1139
+0	35aa, >seq_bff4566bdcf6a93... *
+>Cluster 1140
+0	35aa, >seq_c734d783932fac6... *
+>Cluster 1141
+0	35aa, >seq_c79af3736137e62... *
+>Cluster 1142
+0	35aa, >seq_c9227d8fa77c855... *
+>Cluster 1143
+0	35aa, >seq_cbad2004c99df4f... *
+>Cluster 1144
+0	35aa, >seq_cedd31970a4c9dd... *
+>Cluster 1145
+0	35aa, >seq_d25a46c74342899... *
+>Cluster 1146
+0	35aa, >seq_d60fff269517b32... *
+>Cluster 1147
+0	35aa, >seq_d8150145224c44c... *
+>Cluster 1148
+0	35aa, >seq_de1081faeae442e... *
+>Cluster 1149
+0	35aa, >seq_e2d27e7f6d7388d... *
+>Cluster 1150
+0	35aa, >seq_e35718bbf482205... *
+>Cluster 1151
+0	35aa, >seq_e36db5219d98f9e... *
+>Cluster 1152
+0	35aa, >seq_e55980176282196... *
+>Cluster 1153
+0	35aa, >seq_e9407c3fd240d8a... *
+>Cluster 1154
+0	35aa, >seq_ea5c60af501c678... *
+>Cluster 1155
+0	35aa, >seq_eb11ae1415b396f... *
+>Cluster 1156
+0	35aa, >seq_ef36e937445836b... *
+>Cluster 1157
+0	35aa, >seq_f8c2f3fd44e8918... *
+>Cluster 1158
+0	35aa, >seq_f8f6ddfc968313b... *
+>Cluster 1159
+0	35aa, >seq_fa6aa521c679108... *
+>Cluster 1160
+0	35aa, >seq_fa704ab21084f18... *
+>Cluster 1161
+0	34aa, >seq_0a1f3a0577b879b... *
+>Cluster 1162
+0	34aa, >seq_0d52e58b49623f1... *
+>Cluster 1163
+0	34aa, >seq_16982731e21ee58... *
+>Cluster 1164
+0	34aa, >seq_227241dc21cf5d9... *
+>Cluster 1165
+0	34aa, >seq_2445acbb5501eb2... *
+>Cluster 1166
+0	34aa, >seq_28f344ec391b76b... *
+>Cluster 1167
+0	34aa, >seq_2e4eb6bc3a1846e... *
+>Cluster 1168
+0	34aa, >seq_2ec09d2c226f219... *
+>Cluster 1169
+0	34aa, >seq_34aceed53f5b7fa... *
+>Cluster 1170
+0	34aa, >seq_3baf634da819fe3... *
+>Cluster 1171
+0	34aa, >seq_3e1ef24c186b69c... *
+>Cluster 1172
+0	34aa, >seq_4183d9158641e7e... *
+>Cluster 1173
+0	34aa, >seq_48daef47e0962ec... *
+>Cluster 1174
+0	34aa, >seq_4d02abaa0e62fbf... *
+>Cluster 1175
+0	34aa, >seq_4f269e85a7f6360... *
+1	31aa, >seq_0554972a8d37201... at 93.55%
+>Cluster 1176
+0	34aa, >seq_5203d58ad0903c7... *
+>Cluster 1177
+0	34aa, >seq_55e937167cd836f... *
+>Cluster 1178
+0	34aa, >seq_564628c7e0614f2... *
+>Cluster 1179
+0	34aa, >seq_5f0a81e81c74b10... *
+>Cluster 1180
+0	34aa, >seq_6a956a2871844e0... *
+>Cluster 1181
+0	34aa, >seq_6b0841512a9107e... *
+>Cluster 1182
+0	34aa, >seq_6c119722ddeab96... *
+>Cluster 1183
+0	34aa, >seq_7814877af334367... *
+>Cluster 1184
+0	34aa, >seq_7edd6539c74f702... *
+>Cluster 1185
+0	34aa, >seq_803d55d602a9dd5... *
+>Cluster 1186
+0	34aa, >seq_84d47f88e5ccc10... *
+>Cluster 1187
+0	34aa, >seq_851091a315ec48c... *
+>Cluster 1188
+0	34aa, >seq_85bba883fd84b56... *
+>Cluster 1189
+0	34aa, >seq_98b33e826976338... *
+>Cluster 1190
+0	34aa, >seq_9a4b9e504f3feb6... *
+>Cluster 1191
+0	34aa, >seq_9b3b23258c1a6cd... *
+>Cluster 1192
+0	34aa, >seq_a1b7bdac3536107... *
+>Cluster 1193
+0	34aa, >seq_a2d7be00cd70058... *
+>Cluster 1194
+0	34aa, >seq_a40badd6bb48bda... *
+>Cluster 1195
+0	34aa, >seq_a4c7231d5ae97b5... *
+>Cluster 1196
+0	34aa, >seq_a5122bded8f7c1f... *
+>Cluster 1197
+0	34aa, >seq_a5f4e4d908c2fa6... *
+>Cluster 1198
+0	34aa, >seq_a605896f6acc335... *
+>Cluster 1199
+0	34aa, >seq_a78d8251844e7b4... *
+>Cluster 1200
+0	34aa, >seq_ad1324c12bfccca... *
+>Cluster 1201
+0	34aa, >seq_b20fb166c5f242f... *
+>Cluster 1202
+0	34aa, >seq_b58a5fd2a9bebfd... *
+>Cluster 1203
+0	34aa, >seq_b7d3e50d4c2e527... *
+>Cluster 1204
+0	34aa, >seq_b8ac9eaf26a4e4b... *
+>Cluster 1205
+0	34aa, >seq_b90f56dca9b7086... *
+>Cluster 1206
+0	34aa, >seq_c55436b8d51741f... *
+>Cluster 1207
+0	34aa, >seq_c7eec537604d243... *
+>Cluster 1208
+0	34aa, >seq_cc116f524410d40... *
+>Cluster 1209
+0	34aa, >seq_ce169452e81cec1... *
+>Cluster 1210
+0	34aa, >seq_d439568d1c960dc... *
+>Cluster 1211
+0	34aa, >seq_d51595be6e6ea42... *
+>Cluster 1212
+0	34aa, >seq_d5b77b3e71256ae... *
+>Cluster 1213
+0	34aa, >seq_d94f4a96366c512... *
+>Cluster 1214
+0	34aa, >seq_df466e72e3fb400... *
+>Cluster 1215
+0	34aa, >seq_e53de82deec7568... *
+>Cluster 1216
+0	34aa, >seq_e5e73f02253dfdd... *
+>Cluster 1217
+0	34aa, >seq_e640cc3ef2bf1f8... *
+>Cluster 1218
+0	34aa, >seq_e6f07b58da8779b... *
+>Cluster 1219
+0	34aa, >seq_f834810dff4793f... *
+>Cluster 1220
+0	34aa, >seq_fbba256bbd27821... *
+>Cluster 1221
+0	34aa, >seq_fd88ed87d6b336b... *
+>Cluster 1222
+0	34aa, >seq_fdcff9ef304b303... *
+>Cluster 1223
+0	33aa, >seq_03fa59bf3284ece... *
+>Cluster 1224
+0	33aa, >seq_04313c4f040a6a0... *
+>Cluster 1225
+0	33aa, >seq_1aa0f3876be676b... *
+>Cluster 1226
+0	33aa, >seq_1ca242040fa2a4e... *
+>Cluster 1227
+0	33aa, >seq_1d9450598fe2a95... *
+>Cluster 1228
+0	33aa, >seq_20526362a91918c... *
+>Cluster 1229
+0	33aa, >seq_21718eb89feb334... *
+>Cluster 1230
+0	33aa, >seq_220a1f35e96e73e... *
+>Cluster 1231
+0	33aa, >seq_23a3aab39aaa19c... *
+>Cluster 1232
+0	33aa, >seq_2ec84ac2fba8617... *
+>Cluster 1233
+0	33aa, >seq_2ef994c35cdc3ab... *
+>Cluster 1234
+0	33aa, >seq_3e47a5050c96426... *
+>Cluster 1235
+0	33aa, >seq_41163ade761ded3... *
+>Cluster 1236
+0	33aa, >seq_41cb916b8b4c670... *
+>Cluster 1237
+0	33aa, >seq_47f17c723c274a6... *
+>Cluster 1238
+0	33aa, >seq_48618b3f0f79243... *
+>Cluster 1239
+0	33aa, >seq_49550766fa53d03... *
+>Cluster 1240
+0	33aa, >seq_513b39e53f69945... *
+>Cluster 1241
+0	33aa, >seq_5ae054317ab9410... *
+>Cluster 1242
+0	33aa, >seq_5c673d402a0df00... *
+>Cluster 1243
+0	33aa, >seq_6bf01c8ca4f9fad... *
+>Cluster 1244
+0	33aa, >seq_702432bb5d75649... *
+>Cluster 1245
+0	33aa, >seq_7242343abadfb73... *
+>Cluster 1246
+0	33aa, >seq_726d931b6d919b9... *
+>Cluster 1247
+0	33aa, >seq_7a314306ddcb40d... *
+>Cluster 1248
+0	33aa, >seq_7eddff43b38820a... *
+>Cluster 1249
+0	33aa, >seq_80bbf717731497f... *
+>Cluster 1250
+0	33aa, >seq_81146e524826702... *
+>Cluster 1251
+0	33aa, >seq_86a645dec4b341e... *
+>Cluster 1252
+0	33aa, >seq_89b966832bf8568... *
+>Cluster 1253
+0	33aa, >seq_9b324be97ec08ae... *
+>Cluster 1254
+0	33aa, >seq_a206c0a4d54b099... *
+>Cluster 1255
+0	33aa, >seq_a49cb81e446750d... *
+>Cluster 1256
+0	33aa, >seq_bad446b45bbfd77... *
+>Cluster 1257
+0	33aa, >seq_c83163ef52faa14... *
+>Cluster 1258
+0	33aa, >seq_cb9e8ba160def65... *
+>Cluster 1259
+0	33aa, >seq_d4ff1b9b1a8f64c... *
+>Cluster 1260
+0	33aa, >seq_d5ab54a919c060d... *
+>Cluster 1261
+0	33aa, >seq_d979193d1b38d36... *
+>Cluster 1262
+0	33aa, >seq_da6ad575d762425... *
+1	27aa, >seq_77b1ae4fb2f634a... at 100.00%
+>Cluster 1263
+0	33aa, >seq_dfcc26a283b1ee8... *
+>Cluster 1264
+0	33aa, >seq_e0a232146822541... *
+>Cluster 1265
+0	33aa, >seq_e19e092f001f140... *
+>Cluster 1266
+0	33aa, >seq_e19fb9fa49b5a86... *
+>Cluster 1267
+0	33aa, >seq_e32f6806177dc3e... *
+>Cluster 1268
+0	33aa, >seq_e3c9c638747a286... *
+>Cluster 1269
+0	33aa, >seq_e92d3c050d67efd... *
+>Cluster 1270
+0	33aa, >seq_f0d78f5028fbf64... *
+>Cluster 1271
+0	33aa, >seq_f0dd380ba56e078... *
+>Cluster 1272
+0	33aa, >seq_f84ac6bcbb7530f... *
+>Cluster 1273
+0	33aa, >seq_f97ce61126087c9... *
+>Cluster 1274
+0	33aa, >seq_fee7aa0aec0d395... *
+>Cluster 1275
+0	32aa, >seq_001eff1833672c2... *
+>Cluster 1276
+0	32aa, >seq_033c2b1dcbf2195... *
+>Cluster 1277
+0	32aa, >seq_08cedd719c080c6... *
+>Cluster 1278
+0	32aa, >seq_0aa32efa4cc7cbb... *
+>Cluster 1279
+0	32aa, >seq_0e864adbef80710... *
+>Cluster 1280
+0	32aa, >seq_1019437dcda95e8... *
+>Cluster 1281
+0	32aa, >seq_1226e9bda1bdd41... *
+>Cluster 1282
+0	32aa, >seq_14e744b847aea8a... *
+>Cluster 1283
+0	32aa, >seq_160f6a854c3cbe3... *
+>Cluster 1284
+0	32aa, >seq_195fb048e73e51e... *
+>Cluster 1285
+0	32aa, >seq_20722f6b87caa26... *
+>Cluster 1286
+0	32aa, >seq_26cebab92f9cb03... *
+>Cluster 1287
+0	32aa, >seq_27dca46e05ab1d9... *
+>Cluster 1288
+0	32aa, >seq_28da48d2a03d38c... *
+>Cluster 1289
+0	32aa, >seq_291712a008b6aed... *
+>Cluster 1290
+0	32aa, >seq_29e68ab16d8ae3c... *
+>Cluster 1291
+0	32aa, >seq_32d20de017f8264... *
+>Cluster 1292
+0	32aa, >seq_392dee199187fcb... *
+>Cluster 1293
+0	32aa, >seq_3a582636226550d... *
+>Cluster 1294
+0	32aa, >seq_3bd517333998d0a... *
+>Cluster 1295
+0	32aa, >seq_3dc635f69649aab... *
+>Cluster 1296
+0	32aa, >seq_3fb6c591bea4984... *
+>Cluster 1297
+0	32aa, >seq_417d31401219961... *
+>Cluster 1298
+0	32aa, >seq_52ab75b40ff697a... *
+>Cluster 1299
+0	32aa, >seq_5d49ec5f2d0a6f1... *
+>Cluster 1300
+0	32aa, >seq_616bad1f31f6a31... *
+>Cluster 1301
+0	32aa, >seq_69907bc3013070c... *
+>Cluster 1302
+0	32aa, >seq_6b103f05f07e398... *
+>Cluster 1303
+0	32aa, >seq_6e5c164e18645e6... *
+>Cluster 1304
+0	32aa, >seq_763cc63e31e5a42... *
+>Cluster 1305
+0	32aa, >seq_773a1f94c46e57a... *
+>Cluster 1306
+0	32aa, >seq_782643028d48d3e... *
+>Cluster 1307
+0	32aa, >seq_7c11ae35ec3764d... *
+>Cluster 1308
+0	32aa, >seq_81e058a25ef3f69... *
+>Cluster 1309
+0	32aa, >seq_83102dde915e28a... *
+>Cluster 1310
+0	32aa, >seq_83e69707b145f0c... *
+>Cluster 1311
+0	32aa, >seq_897411fa6290287... *
+>Cluster 1312
+0	32aa, >seq_8fb392e0a7dbd5d... *
+>Cluster 1313
+0	32aa, >seq_92daa982412ee18... *
+>Cluster 1314
+0	32aa, >seq_93381c316672804... *
+>Cluster 1315
+0	32aa, >seq_9af578891917030... *
+>Cluster 1316
+0	32aa, >seq_9f58b78751f4632... *
+>Cluster 1317
+0	32aa, >seq_a09b74c0d094ab6... *
+>Cluster 1318
+0	32aa, >seq_a18085418c8e0bd... *
+>Cluster 1319
+0	32aa, >seq_a39b74f04bbcfa1... *
+>Cluster 1320
+0	32aa, >seq_aadfbfbc80a1ddb... *
+>Cluster 1321
+0	32aa, >seq_af51e37d593e13f... *
+>Cluster 1322
+0	32aa, >seq_afabd17035a925a... *
+>Cluster 1323
+0	32aa, >seq_b21703bb7325a24... *
+>Cluster 1324
+0	32aa, >seq_b31d321dfa9f20c... *
+>Cluster 1325
+0	32aa, >seq_b645ba811e70491... *
+>Cluster 1326
+0	32aa, >seq_b6b7387055f80ae... *
+>Cluster 1327
+0	32aa, >seq_b77056c7f4b828d... *
+>Cluster 1328
+0	32aa, >seq_b9d60aa7a74378d... *
+>Cluster 1329
+0	32aa, >seq_be71ef05af1ee1e... *
+>Cluster 1330
+0	32aa, >seq_bec83ea1ade78cc... *
+>Cluster 1331
+0	32aa, >seq_c462d7ee1e1a491... *
+>Cluster 1332
+0	32aa, >seq_cc163cf46381b7d... *
+>Cluster 1333
+0	32aa, >seq_d5be9749c43c9b3... *
+>Cluster 1334
+0	32aa, >seq_db51b174caa0938... *
+>Cluster 1335
+0	32aa, >seq_dee26d82e664175... *
+>Cluster 1336
+0	32aa, >seq_e2cc89b1c3b7112... *
+>Cluster 1337
+0	32aa, >seq_e74dd74226b725f... *
+>Cluster 1338
+0	32aa, >seq_f30ef70bf8468e4... *
+>Cluster 1339
+0	32aa, >seq_f534958b7b5da95... *
+>Cluster 1340
+0	32aa, >seq_f5dfe276f8c01f1... *
+>Cluster 1341
+0	32aa, >seq_fb72a3f1036c690... *
+1	31aa, >seq_d66940575308d1c... at 100.00%
+>Cluster 1342
+0	32aa, >seq_fe14fe88a1b25ad... *
+>Cluster 1343
+0	31aa, >seq_043c747e7cc8504... *
+>Cluster 1344
+0	31aa, >seq_0a1aa223e0df887... *
+>Cluster 1345
+0	31aa, >seq_0e08a687b1539d2... *
+>Cluster 1346
+0	31aa, >seq_0e587f20933b6c8... *
+>Cluster 1347
+0	31aa, >seq_12c4b47a61908af... *
+>Cluster 1348
+0	31aa, >seq_13f3dcd82ce482f... *
+>Cluster 1349
+0	31aa, >seq_14451588502aedf... *
+>Cluster 1350
+0	31aa, >seq_19717883aa730bb... *
+>Cluster 1351
+0	31aa, >seq_257bb5a3f8fda07... *
+>Cluster 1352
+0	31aa, >seq_260181cb6df83a4... *
+>Cluster 1353
+0	31aa, >seq_2d28663525dc3f9... *
+>Cluster 1354
+0	31aa, >seq_30f3e2fc35810f5... *
+>Cluster 1355
+0	31aa, >seq_385548562cc103a... *
+>Cluster 1356
+0	31aa, >seq_3d85ba94d6dfbca... *
+>Cluster 1357
+0	31aa, >seq_409666a0a404b64... *
+>Cluster 1358
+0	31aa, >seq_427999f757157ec... *
+>Cluster 1359
+0	31aa, >seq_43f6d1c4c8a84cc... *
+>Cluster 1360
+0	31aa, >seq_44b309a64398484... *
+>Cluster 1361
+0	31aa, >seq_4b75921ab2c0091... *
+>Cluster 1362
+0	31aa, >seq_4bfab48b71668f9... *
+>Cluster 1363
+0	31aa, >seq_4ef129cf9906fcc... *
+>Cluster 1364
+0	31aa, >seq_50e27f7e54a77f5... *
+>Cluster 1365
+0	31aa, >seq_547bc79c946f349... *
+>Cluster 1366
+0	31aa, >seq_54add3303518be2... *
+>Cluster 1367
+0	31aa, >seq_57552f31c37f500... *
+>Cluster 1368
+0	31aa, >seq_59efbf794fa9ff7... *
+>Cluster 1369
+0	31aa, >seq_5de0e299580fdf8... *
+>Cluster 1370
+0	31aa, >seq_67197773eb95727... *
+>Cluster 1371
+0	31aa, >seq_6ed7769aef44d5d... *
+>Cluster 1372
+0	31aa, >seq_6f0f543b9bdc885... *
+>Cluster 1373
+0	31aa, >seq_6f9c44cf0faf71a... *
+>Cluster 1374
+0	31aa, >seq_7a85cc707c453e1... *
+>Cluster 1375
+0	31aa, >seq_82f59fac70ccee1... *
+>Cluster 1376
+0	31aa, >seq_83b297e10e8ad69... *
+>Cluster 1377
+0	31aa, >seq_8a405c8bfe1e034... *
+>Cluster 1378
+0	31aa, >seq_8bac6e769d2574e... *
+>Cluster 1379
+0	31aa, >seq_8d090b725dfcbfe... *
+>Cluster 1380
+0	31aa, >seq_8d609c664b36c09... *
+>Cluster 1381
+0	31aa, >seq_a14c2b729119f15... *
+>Cluster 1382
+0	31aa, >seq_a217a159153ddfd... *
+>Cluster 1383
+0	31aa, >seq_a5b02856c367a06... *
+>Cluster 1384
+0	31aa, >seq_a66545e37c51543... *
+>Cluster 1385
+0	31aa, >seq_aeb71eccfc96196... *
+>Cluster 1386
+0	31aa, >seq_afb9fddfbe25a29... *
+>Cluster 1387
+0	31aa, >seq_b14e1bf16edb85a... *
+>Cluster 1388
+0	31aa, >seq_b1629850f7de9ac... *
+>Cluster 1389
+0	31aa, >seq_b253c0ecfd625e8... *
+>Cluster 1390
+0	31aa, >seq_b9183f95c2dc43f... *
+>Cluster 1391
+0	31aa, >seq_bad33c949d3925f... *
+>Cluster 1392
+0	31aa, >seq_be447fb4b5c4bb1... *
+>Cluster 1393
+0	31aa, >seq_c0907af936f8587... *
+>Cluster 1394
+0	31aa, >seq_c65814c6f128555... *
+>Cluster 1395
+0	31aa, >seq_c8521d6552d0343... *
+>Cluster 1396
+0	31aa, >seq_c92a6ee8c78ee32... *
+>Cluster 1397
+0	31aa, >seq_ce4c24b912678aa... *
+>Cluster 1398
+0	31aa, >seq_cf077ad45b788bb... *
+>Cluster 1399
+0	31aa, >seq_cf4daf1a59ac1d5... *
+>Cluster 1400
+0	31aa, >seq_d47f7d61fbc8bf7... *
+>Cluster 1401
+0	31aa, >seq_dc3b9f31305ca3c... *
+>Cluster 1402
+0	31aa, >seq_deff2720a3cc695... *
+>Cluster 1403
+0	31aa, >seq_e458ff084b4749e... *
+>Cluster 1404
+0	31aa, >seq_e6e91b3d4eb3046... *
+>Cluster 1405
+0	31aa, >seq_e86c90a7867015a... *
+>Cluster 1406
+0	31aa, >seq_eb43a1166d760ad... *
+>Cluster 1407
+0	31aa, >seq_f51c1f9e7aa1bea... *
+>Cluster 1408
+0	31aa, >seq_f544e024e0edee2... *
+>Cluster 1409
+0	31aa, >seq_f657be1be106d1a... *
+>Cluster 1410
+0	31aa, >seq_f6c96235ae5ad1a... *
+>Cluster 1411
+0	31aa, >seq_f702e29d45f9747... *
+>Cluster 1412
+0	31aa, >seq_fa757ad8397fc44... *
+>Cluster 1413
+0	31aa, >seq_fcc192c6de950e8... *
+>Cluster 1414
+0	31aa, >seq_ff9ce199209c2bd... *
+>Cluster 1415
+0	30aa, >seq_00282b1ff3165b0... *
+>Cluster 1416
+0	30aa, >seq_01059e4ff644b1e... *
+>Cluster 1417
+0	30aa, >seq_01365229cdf3047... *
+>Cluster 1418
+0	30aa, >seq_01c7d531d75bda6... *
+>Cluster 1419
+0	30aa, >seq_08f42c354828e90... *
+>Cluster 1420
+0	30aa, >seq_09e7bc8ad554bf7... *
+>Cluster 1421
+0	30aa, >seq_0b0e4705545fb12... *
+>Cluster 1422
+0	30aa, >seq_0ba628507715fe9... *
+>Cluster 1423
+0	30aa, >seq_0e47acc505f0186... *
+>Cluster 1424
+0	30aa, >seq_10762f8aadf6cae... *
+>Cluster 1425
+0	30aa, >seq_15fc9112fc203bf... *
+>Cluster 1426
+0	30aa, >seq_1fb7e5f38c93061... *
+>Cluster 1427
+0	30aa, >seq_22379079e6fc5aa... *
+>Cluster 1428
+0	30aa, >seq_279057972df5f41... *
+>Cluster 1429
+0	30aa, >seq_28f0f5bd0dee5aa... *
+>Cluster 1430
+0	30aa, >seq_2927d9fa07704c5... *
+>Cluster 1431
+0	30aa, >seq_2cf039e31ee6172... *
+>Cluster 1432
+0	30aa, >seq_2f12fa82d348ba4... *
+>Cluster 1433
+0	30aa, >seq_3015fad811d64f2... *
+>Cluster 1434
+0	30aa, >seq_307d834b5875afe... *
+>Cluster 1435
+0	30aa, >seq_31ab6572d9b66b5... *
+>Cluster 1436
+0	30aa, >seq_3a84d532a3c4ece... *
+>Cluster 1437
+0	30aa, >seq_3c38c3f043b43e6... *
+>Cluster 1438
+0	30aa, >seq_3de9cd496186c58... *
+>Cluster 1439
+0	30aa, >seq_3eccf7ff9a44fc9... *
+>Cluster 1440
+0	30aa, >seq_40b484123146e6c... *
+>Cluster 1441
+0	30aa, >seq_4d8aecf8c941a7a... *
+>Cluster 1442
+0	30aa, >seq_5475523022950d7... *
+>Cluster 1443
+0	30aa, >seq_54c79d60ece9324... *
+>Cluster 1444
+0	30aa, >seq_566133675abd326... *
+>Cluster 1445
+0	30aa, >seq_58c2e48c73f2338... *
+>Cluster 1446
+0	30aa, >seq_5a29b92b20dcc8f... *
+>Cluster 1447
+0	30aa, >seq_5ac333f596be23b... *
+>Cluster 1448
+0	30aa, >seq_5f7e0b87c0f9bcc... *
+>Cluster 1449
+0	30aa, >seq_61c4b9b07c1d875... *
+>Cluster 1450
+0	30aa, >seq_64ae55f34984290... *
+>Cluster 1451
+0	30aa, >seq_6aa47173d9997b7... *
+>Cluster 1452
+0	30aa, >seq_736675904fe71e6... *
+>Cluster 1453
+0	30aa, >seq_7527e29fd73988f... *
+>Cluster 1454
+0	30aa, >seq_78ef0239fe958b5... *
+>Cluster 1455
+0	30aa, >seq_790da20bcb6ff9b... *
+>Cluster 1456
+0	30aa, >seq_7ad528edc25099c... *
+>Cluster 1457
+0	30aa, >seq_7c1b0053bcf2e98... *
+>Cluster 1458
+0	30aa, >seq_7dca24e89f8056a... *
+>Cluster 1459
+0	30aa, >seq_81b7e3c9f26b14d... *
+>Cluster 1460
+0	30aa, >seq_81dceb7de88b0cd... *
+>Cluster 1461
+0	30aa, >seq_85215cba8dae9fb... *
+>Cluster 1462
+0	30aa, >seq_8711ce809fa0528... *
+>Cluster 1463
+0	30aa, >seq_89b50784ad47a4b... *
+>Cluster 1464
+0	30aa, >seq_89ee38d4e913547... *
+>Cluster 1465
+0	30aa, >seq_8b52530ba5ee670... *
+>Cluster 1466
+0	30aa, >seq_8d33cad6a518c2d... *
+>Cluster 1467
+0	30aa, >seq_901395b0c94aa3f... *
+>Cluster 1468
+0	30aa, >seq_90d1c4aed090f3b... *
+>Cluster 1469
+0	30aa, >seq_91aead71217a9e1... *
+>Cluster 1470
+0	30aa, >seq_94f9faa21c21f8f... *
+>Cluster 1471
+0	30aa, >seq_9881adab128234a... *
+>Cluster 1472
+0	30aa, >seq_9885fc98bd2bd4c... *
+>Cluster 1473
+0	30aa, >seq_99d7f5bdcaa298b... *
+>Cluster 1474
+0	30aa, >seq_9a17b8b2da4923b... *
+>Cluster 1475
+0	30aa, >seq_a1acf85f496f8c5... *
+>Cluster 1476
+0	30aa, >seq_a2ba9efcf297fb9... *
+>Cluster 1477
+0	30aa, >seq_a44ea71a8974d06... *
+>Cluster 1478
+0	30aa, >seq_aa8fb0e2070f2c5... *
+>Cluster 1479
+0	30aa, >seq_acc381ba0b5d2f7... *
+>Cluster 1480
+0	30aa, >seq_b2311a7168145fd... *
+>Cluster 1481
+0	30aa, >seq_b281b5ab346b390... *
+>Cluster 1482
+0	30aa, >seq_b2fb67e5f9d79e4... *
+>Cluster 1483
+0	30aa, >seq_b3174f4e1e028e1... *
+>Cluster 1484
+0	30aa, >seq_b38ec813abf56ce... *
+>Cluster 1485
+0	30aa, >seq_b48ae91f9133ba4... *
+>Cluster 1486
+0	30aa, >seq_b61c430ce8d95fd... *
+>Cluster 1487
+0	30aa, >seq_b95ce802d15a8d4... *
+>Cluster 1488
+0	30aa, >seq_c06012ab83c5fbd... *
+>Cluster 1489
+0	30aa, >seq_c1868478adff90c... *
+>Cluster 1490
+0	30aa, >seq_c87588bbb9abb5f... *
+>Cluster 1491
+0	30aa, >seq_cb1dc4257bf329e... *
+>Cluster 1492
+0	30aa, >seq_cce82f609e242d2... *
+>Cluster 1493
+0	30aa, >seq_cdfe4facd1601ce... *
+>Cluster 1494
+0	30aa, >seq_ce25c4472f3ee65... *
+>Cluster 1495
+0	30aa, >seq_cfcb5f3930b2b96... *
+>Cluster 1496
+0	30aa, >seq_d20940c7b57412a... *
+>Cluster 1497
+0	30aa, >seq_d2af51fcd7d94ce... *
+>Cluster 1498
+0	30aa, >seq_d769ec4004ec05e... *
+>Cluster 1499
+0	30aa, >seq_d8b046d5dc539a6... *
+>Cluster 1500
+0	30aa, >seq_db897a956bcb8be... *
+>Cluster 1501
+0	30aa, >seq_dc2cb39dbd00ce2... *
+>Cluster 1502
+0	30aa, >seq_ddeafa31c663cc8... *
+>Cluster 1503
+0	30aa, >seq_e0e136714e07212... *
+>Cluster 1504
+0	30aa, >seq_e2788d347200ef5... *
+>Cluster 1505
+0	30aa, >seq_e3d1b4aae693810... *
+>Cluster 1506
+0	30aa, >seq_e52e5365c45600f... *
+>Cluster 1507
+0	30aa, >seq_e849566555b6d22... *
+>Cluster 1508
+0	30aa, >seq_ea41f02c180c5e3... *
+>Cluster 1509
+0	30aa, >seq_ea4a057dbcf072a... *
+>Cluster 1510
+0	30aa, >seq_eb1d5279ab6f89c... *
+>Cluster 1511
+0	30aa, >seq_ec581a90f73baed... *
+>Cluster 1512
+0	30aa, >seq_eec2ca1f79b08ee... *
+>Cluster 1513
+0	30aa, >seq_f4c89d5d01ee7c4... *
+>Cluster 1514
+0	30aa, >seq_f56c190365950b5... *
+>Cluster 1515
+0	30aa, >seq_f7b835426e5807f... *
+>Cluster 1516
+0	30aa, >seq_fb61bcad352a338... *
+>Cluster 1517
+0	29aa, >seq_0843e69ac193dbe... *
+1	29aa, >seq_d33b656baeb6586... at 96.55%
+>Cluster 1518
+0	29aa, >seq_095a7aa34d7eedf... *
+>Cluster 1519
+0	29aa, >seq_0d97603fc137a40... *
+>Cluster 1520
+0	29aa, >seq_13be9c590987e00... *
+>Cluster 1521
+0	29aa, >seq_1860100da182ef9... *
+>Cluster 1522
+0	29aa, >seq_22374c9a59eed51... *
+>Cluster 1523
+0	29aa, >seq_234b2b86768e430... *
+>Cluster 1524
+0	29aa, >seq_24f41fe6f02857d... *
+>Cluster 1525
+0	29aa, >seq_29c1b5e8d1476b1... *
+>Cluster 1526
+0	29aa, >seq_2ba62f9d080878f... *
+>Cluster 1527
+0	29aa, >seq_30ecf4da1241f09... *
+>Cluster 1528
+0	29aa, >seq_347bb94b494d3ad... *
+>Cluster 1529
+0	29aa, >seq_369165b17481afb... *
+>Cluster 1530
+0	29aa, >seq_3cebd89a76d50e8... *
+>Cluster 1531
+0	29aa, >seq_3d14346b812a650... *
+>Cluster 1532
+0	29aa, >seq_400d55ba8e0721a... *
+>Cluster 1533
+0	29aa, >seq_40ad92fcd87673c... *
+>Cluster 1534
+0	29aa, >seq_46a611ac7a2448a... *
+>Cluster 1535
+0	29aa, >seq_542cdfb367cb49a... *
+>Cluster 1536
+0	29aa, >seq_5a352c818064bcf... *
+>Cluster 1537
+0	29aa, >seq_5af5d7581de8dc6... *
+>Cluster 1538
+0	29aa, >seq_64c54eafc1d65f4... *
+>Cluster 1539
+0	29aa, >seq_70a8bf0f155c044... *
+>Cluster 1540
+0	29aa, >seq_73f1fdb67bd7220... *
+>Cluster 1541
+0	29aa, >seq_73f53c343566e65... *
+>Cluster 1542
+0	29aa, >seq_7533e4c6e073de3... *
+>Cluster 1543
+0	29aa, >seq_76a9ef3cd42a49a... *
+>Cluster 1544
+0	29aa, >seq_7dc62dc0d12d168... *
+>Cluster 1545
+0	29aa, >seq_7ecd3199800f1a4... *
+>Cluster 1546
+0	29aa, >seq_7ffeb33ee1da217... *
+>Cluster 1547
+0	29aa, >seq_80b1a63e1f9cf2f... *
+>Cluster 1548
+0	29aa, >seq_85689a1f0f3e69b... *
+>Cluster 1549
+0	29aa, >seq_859a614093d939d... *
+>Cluster 1550
+0	29aa, >seq_8718d5d71be9d5e... *
+>Cluster 1551
+0	29aa, >seq_885e70131d47a82... *
+>Cluster 1552
+0	29aa, >seq_8bf3558b03eb6ab... *
+>Cluster 1553
+0	29aa, >seq_8f3ddafffbc6e83... *
+>Cluster 1554
+0	29aa, >seq_9166b01004ebf67... *
+>Cluster 1555
+0	29aa, >seq_9208ba0937e0b0e... *
+>Cluster 1556
+0	29aa, >seq_97692a0888f9f1f... *
+>Cluster 1557
+0	29aa, >seq_9a57558f074cdcb... *
+>Cluster 1558
+0	29aa, >seq_9b31f7f06754ddd... *
+>Cluster 1559
+0	29aa, >seq_9c79c697062dba0... *
+>Cluster 1560
+0	29aa, >seq_9d8b663d935a917... *
+>Cluster 1561
+0	29aa, >seq_a549533e0fe7fb9... *
+>Cluster 1562
+0	29aa, >seq_a54cbb5e8e91992... *
+>Cluster 1563
+0	29aa, >seq_ae8ee87628d850a... *
+>Cluster 1564
+0	29aa, >seq_b160cb265baf9e0... *
+>Cluster 1565
+0	29aa, >seq_b8cd2513ad313cc... *
+>Cluster 1566
+0	29aa, >seq_bcc1c4ec40db5bc... *
+>Cluster 1567
+0	29aa, >seq_bebff9a0d73ab5f... *
+>Cluster 1568
+0	29aa, >seq_c0ed9d6b8150200... *
+>Cluster 1569
+0	29aa, >seq_c3073d2f230cfbe... *
+>Cluster 1570
+0	29aa, >seq_c38c2bffc9f1ac6... *
+>Cluster 1571
+0	29aa, >seq_c3ec9faab2a68a9... *
+>Cluster 1572
+0	29aa, >seq_c518229c4ea097c... *
+>Cluster 1573
+0	29aa, >seq_c7960c2736160b7... *
+>Cluster 1574
+0	29aa, >seq_c97c788f8fc6a0e... *
+>Cluster 1575
+0	29aa, >seq_cb668e06658b00b... *
+>Cluster 1576
+0	29aa, >seq_d197d41e760aa75... *
+>Cluster 1577
+0	29aa, >seq_dd76f216f562ff7... *
+>Cluster 1578
+0	29aa, >seq_e0438499548b136... *
+>Cluster 1579
+0	29aa, >seq_e8fc2d09bdd7cb4... *
+>Cluster 1580
+0	29aa, >seq_ebad19aa9ab61c1... *
+>Cluster 1581
+0	29aa, >seq_efec361ac42a6c3... *
+>Cluster 1582
+0	29aa, >seq_f1734d49fa2f56c... *
+>Cluster 1583
+0	29aa, >seq_f2cc62d7966ebc3... *
+>Cluster 1584
+0	29aa, >seq_f3d7a9d2146e0d9... *
+>Cluster 1585
+0	29aa, >seq_f594bace956d243... *
+>Cluster 1586
+0	29aa, >seq_f59f27feba1e7ba... *
+>Cluster 1587
+0	29aa, >seq_f5f5cd46dc31a1d... *
+>Cluster 1588
+0	29aa, >seq_f6a4a30c22e9c2a... *
+>Cluster 1589
+0	29aa, >seq_f95b0ebb013a1bc... *
+>Cluster 1590
+0	29aa, >seq_fd30d91651f7fc9... *
+>Cluster 1591
+0	29aa, >seq_ff0d05ed4049e01... *
+>Cluster 1592
+0	28aa, >seq_0ded5bf24c3c263... *
+>Cluster 1593
+0	28aa, >seq_122b4c2789ff5d5... *
+>Cluster 1594
+0	28aa, >seq_15240865cef506f... *
+>Cluster 1595
+0	28aa, >seq_16ae0de68d13e84... *
+>Cluster 1596
+0	28aa, >seq_195328527e248ad... *
+>Cluster 1597
+0	28aa, >seq_1b190fadf060438... *
+>Cluster 1598
+0	28aa, >seq_1d4341505e4468a... *
+>Cluster 1599
+0	28aa, >seq_2cfc5cf50f83066... *
+>Cluster 1600
+0	28aa, >seq_2f33c28b9b303f5... *
+>Cluster 1601
+0	28aa, >seq_388d2ff0f9c9196... *
+>Cluster 1602
+0	28aa, >seq_3f3210859c34365... *
+>Cluster 1603
+0	28aa, >seq_401117292b152fc... *
+>Cluster 1604
+0	28aa, >seq_43008c78ffe81b6... *
+>Cluster 1605
+0	28aa, >seq_46a70272c8242bb... *
+>Cluster 1606
+0	28aa, >seq_48944e97c39f0ed... *
+>Cluster 1607
+0	28aa, >seq_4f192bae772071c... *
+>Cluster 1608
+0	28aa, >seq_4f580b19dc039f4... *
+>Cluster 1609
+0	28aa, >seq_51ca24f846e3679... *
+1	26aa, >seq_c9db4486e50e3eb... at 100.00%
+>Cluster 1610
+0	28aa, >seq_570fb0f591182bf... *
+>Cluster 1611
+0	28aa, >seq_5d664135edbde68... *
+>Cluster 1612
+0	28aa, >seq_5ef42fb755f749d... *
+>Cluster 1613
+0	28aa, >seq_62620eee3d5c02f... *
+>Cluster 1614
+0	28aa, >seq_638a245fa3b5ae6... *
+>Cluster 1615
+0	28aa, >seq_65b421ae5e24df0... *
+>Cluster 1616
+0	28aa, >seq_67a911151af4afb... *
+1	18aa, >seq_fba858766b3b985... at 100.00%
+>Cluster 1617
+0	28aa, >seq_6a55aa0d78b8b08... *
+>Cluster 1618
+0	28aa, >seq_6ca455f54629891... *
+>Cluster 1619
+0	28aa, >seq_6e2a83535b50fb4... *
+>Cluster 1620
+0	28aa, >seq_765a197de3cfa9a... *
+>Cluster 1621
+0	28aa, >seq_765b8b022d5b7c2... *
+>Cluster 1622
+0	28aa, >seq_7988b7da3983bf5... *
+>Cluster 1623
+0	28aa, >seq_7a22646b48851a8... *
+>Cluster 1624
+0	28aa, >seq_81892ba1798b404... *
+>Cluster 1625
+0	28aa, >seq_85b0062e6767438... *
+>Cluster 1626
+0	28aa, >seq_8617d147617773b... *
+>Cluster 1627
+0	28aa, >seq_8bc5d04d603beb4... *
+>Cluster 1628
+0	28aa, >seq_90e5bb9b1dba224... *
+>Cluster 1629
+0	28aa, >seq_96555a1a2d0ebf5... *
+>Cluster 1630
+0	28aa, >seq_99288262763b338... *
+>Cluster 1631
+0	28aa, >seq_9939fa525a3eaeb... *
+>Cluster 1632
+0	28aa, >seq_9bb3059dd109f8b... *
+>Cluster 1633
+0	28aa, >seq_9cd486dbb13076a... *
+>Cluster 1634
+0	28aa, >seq_a00adebe04bfaf3... *
+>Cluster 1635
+0	28aa, >seq_a8cebf8fd976fc7... *
+>Cluster 1636
+0	28aa, >seq_ab31fd9f8d967e3... *
+>Cluster 1637
+0	28aa, >seq_ac8a594947f6094... *
+>Cluster 1638
+0	28aa, >seq_b18bbba28fcf60e... *
+>Cluster 1639
+0	28aa, >seq_b2f306f73099339... *
+1	27aa, >seq_3134b92c4e85e64... at 92.59%
+>Cluster 1640
+0	28aa, >seq_b3f85162b3b0600... *
+>Cluster 1641
+0	28aa, >seq_b6e7df7adee573b... *
+>Cluster 1642
+0	28aa, >seq_bdad7493db5fa53... *
+>Cluster 1643
+0	28aa, >seq_c0c74632952f6fb... *
+>Cluster 1644
+0	28aa, >seq_c160fb623972b0a... *
+>Cluster 1645
+0	28aa, >seq_c2e6581ab9f266c... *
+>Cluster 1646
+0	28aa, >seq_c4b538f2a8e778a... *
+>Cluster 1647
+0	28aa, >seq_d4e101f36bc5afd... *
+>Cluster 1648
+0	28aa, >seq_d4f4cde9cdb77b9... *
+>Cluster 1649
+0	28aa, >seq_d9e00827eb3360f... *
+>Cluster 1650
+0	28aa, >seq_dad60d09dcef4ef... *
+>Cluster 1651
+0	28aa, >seq_e305b82e5eff323... *
+>Cluster 1652
+0	28aa, >seq_e3522ddeae15d33... *
+>Cluster 1653
+0	28aa, >seq_e4818db51aba52a... *
+>Cluster 1654
+0	28aa, >seq_e84fc96570347be... *
+>Cluster 1655
+0	28aa, >seq_e9ae7d79ec6143d... *
+>Cluster 1656
+0	28aa, >seq_ea192362552ff6b... *
+>Cluster 1657
+0	28aa, >seq_eb03bd1ba1de1f1... *
+>Cluster 1658
+0	28aa, >seq_f6c0a78ebb6272a... *
+>Cluster 1659
+0	28aa, >seq_f97b904d546c9b3... *
+>Cluster 1660
+0	28aa, >seq_fcd77f2e491a3c4... *
+>Cluster 1661
+0	28aa, >seq_fce6096c4ab32f0... *
+>Cluster 1662
+0	28aa, >seq_fe03baf60fa5b8a... *
+>Cluster 1663
+0	28aa, >seq_fef29a386643e7a... *
+>Cluster 1664
+0	28aa, >seq_ff6c01a81098d81... *
+>Cluster 1665
+0	27aa, >seq_015ee05a560f499... *
+1	27aa, >seq_42f0d674073e2e2... at 96.30%
+>Cluster 1666
+0	27aa, >seq_02c01c881a6e5f4... *
+>Cluster 1667
+0	27aa, >seq_037e31d86d9280c... *
+>Cluster 1668
+0	27aa, >seq_05a814b1d5a82ec... *
+>Cluster 1669
+0	27aa, >seq_0986e1ed2eec68b... *
+>Cluster 1670
+0	27aa, >seq_0b73f39184af9ce... *
+>Cluster 1671
+0	27aa, >seq_0fa134ffa791c41... *
+>Cluster 1672
+0	27aa, >seq_1247a1f15071451... *
+>Cluster 1673
+0	27aa, >seq_1922100aea5ec48... *
+>Cluster 1674
+0	27aa, >seq_19e3f1268a7444a... *
+>Cluster 1675
+0	27aa, >seq_1fa95352e72c071... *
+>Cluster 1676
+0	27aa, >seq_20801b6dafa491f... *
+>Cluster 1677
+0	27aa, >seq_23d3897e2e235f2... *
+>Cluster 1678
+0	27aa, >seq_256dc5a05fa7855... *
+>Cluster 1679
+0	27aa, >seq_270886de68319ec... *
+>Cluster 1680
+0	27aa, >seq_2b54b43db8fadd2... *
+>Cluster 1681
+0	27aa, >seq_2d125f7436d482a... *
+>Cluster 1682
+0	27aa, >seq_31fd9f12a7284b2... *
+1	26aa, >seq_9d952593c40dc41... at 100.00%
+>Cluster 1683
+0	27aa, >seq_3a06f2719375eed... *
+>Cluster 1684
+0	27aa, >seq_3c9bca1ddd0d6a4... *
+>Cluster 1685
+0	27aa, >seq_3ca8b201d2e41d3... *
+>Cluster 1686
+0	27aa, >seq_3f9ea7b28b72d6b... *
+>Cluster 1687
+0	27aa, >seq_40e56c1a5c4481e... *
+>Cluster 1688
+0	27aa, >seq_4c31d30b80cb5aa... *
+>Cluster 1689
+0	27aa, >seq_5567aaaee43afdd... *
+>Cluster 1690
+0	27aa, >seq_55ac34f2d34b4d8... *
+>Cluster 1691
+0	27aa, >seq_56278427fee1dbe... *
+>Cluster 1692
+0	27aa, >seq_57b6f3a3a22d169... *
+>Cluster 1693
+0	27aa, >seq_6b01d9eb0e1f01c... *
+>Cluster 1694
+0	27aa, >seq_741212ff35b761e... *
+>Cluster 1695
+0	27aa, >seq_75f6a6404e831db... *
+>Cluster 1696
+0	27aa, >seq_77725bc30e8e9e2... *
+>Cluster 1697
+0	27aa, >seq_77d0ced5ff85837... *
+>Cluster 1698
+0	27aa, >seq_87a95b514cd31a9... *
+>Cluster 1699
+0	27aa, >seq_8ae82c2fb3a421c... *
+>Cluster 1700
+0	27aa, >seq_8aeba165658743b... *
+>Cluster 1701
+0	27aa, >seq_8d807b2a65b4d3c... *
+>Cluster 1702
+0	27aa, >seq_8f6f8abbfff2baf... *
+>Cluster 1703
+0	27aa, >seq_9885fb10c822d84... *
+>Cluster 1704
+0	27aa, >seq_99e79079b77ba18... *
+>Cluster 1705
+0	27aa, >seq_9d5f326f6512d70... *
+>Cluster 1706
+0	27aa, >seq_9de045bfd632dd1... *
+>Cluster 1707
+0	27aa, >seq_bca71c5c6051f4c... *
+>Cluster 1708
+0	27aa, >seq_c0ebc17004a7b1a... *
+>Cluster 1709
+0	27aa, >seq_c13273f67c3a688... *
+>Cluster 1710
+0	27aa, >seq_c2a0ea0cea664eb... *
+>Cluster 1711
+0	27aa, >seq_c93bc51ba471b03... *
+>Cluster 1712
+0	27aa, >seq_ce43356bb8f4510... *
+>Cluster 1713
+0	27aa, >seq_d90d72ae2978ca5... *
+>Cluster 1714
+0	27aa, >seq_d9ee881bd4503a4... *
+>Cluster 1715
+0	27aa, >seq_da23249fe47b914... *
+>Cluster 1716
+0	27aa, >seq_daf3a0d0d2876ca... *
+>Cluster 1717
+0	27aa, >seq_df85b0491aff041... *
+>Cluster 1718
+0	27aa, >seq_ecf43d489c5926a... *
+>Cluster 1719
+0	27aa, >seq_ef9b5fc3edf8bd2... *
+>Cluster 1720
+0	27aa, >seq_f315dc499f268f7... *
+>Cluster 1721
+0	27aa, >seq_fc9cdf5ad8dd685... *
+>Cluster 1722
+0	26aa, >seq_06679516a5996f1... *
+>Cluster 1723
+0	26aa, >seq_087db17df293d71... *
+>Cluster 1724
+0	26aa, >seq_0a0008fc2997256... *
+>Cluster 1725
+0	26aa, >seq_0a547bf1bd0bfda... *
+>Cluster 1726
+0	26aa, >seq_0f4b520e86e4714... *
+>Cluster 1727
+0	26aa, >seq_0f6b5d58d64e1ef... *
+>Cluster 1728
+0	26aa, >seq_18c781afeaae229... *
+>Cluster 1729
+0	26aa, >seq_221976e9b93a685... *
+>Cluster 1730
+0	26aa, >seq_238dc0e4b892d44... *
+>Cluster 1731
+0	26aa, >seq_23cd21940991212... *
+>Cluster 1732
+0	26aa, >seq_245889d6ba06801... *
+>Cluster 1733
+0	26aa, >seq_25391fbfed1223f... *
+>Cluster 1734
+0	26aa, >seq_25d2ac21e4d7869... *
+>Cluster 1735
+0	26aa, >seq_26d642250218c21... *
+>Cluster 1736
+0	26aa, >seq_27be427f3cfd5da... *
+>Cluster 1737
+0	26aa, >seq_293272b34b8fd80... *
+>Cluster 1738
+0	26aa, >seq_2a00ebb522e4aac... *
+>Cluster 1739
+0	26aa, >seq_2b0d0e72a11d22e... *
+>Cluster 1740
+0	26aa, >seq_2e714ff2898002a... *
+>Cluster 1741
+0	26aa, >seq_3e2cfe75679e6cf... *
+>Cluster 1742
+0	26aa, >seq_3f58a708b31c8a3... *
+>Cluster 1743
+0	26aa, >seq_409bbea0231a339... *
+>Cluster 1744
+0	26aa, >seq_40d6867b878e3e0... *
+>Cluster 1745
+0	26aa, >seq_4675fd670b72641... *
+1	26aa, >seq_c0e2343fbcf34c6... at 96.15%
+>Cluster 1746
+0	26aa, >seq_482279a1a6f08cd... *
+>Cluster 1747
+0	26aa, >seq_59cc5480a72eaed... *
+>Cluster 1748
+0	26aa, >seq_5a347b5ecb05eaa... *
+>Cluster 1749
+0	26aa, >seq_5f0313e198889f6... *
+>Cluster 1750
+0	26aa, >seq_686cbcbcefe2ec2... *
+>Cluster 1751
+0	26aa, >seq_690d27f0600c1c1... *
+>Cluster 1752
+0	26aa, >seq_6afe2eb55d424b4... *
+>Cluster 1753
+0	26aa, >seq_6b5cbf2c14d0645... *
+>Cluster 1754
+0	26aa, >seq_6c618df7ae600bb... *
+>Cluster 1755
+0	26aa, >seq_6ead53ed0be726d... *
+>Cluster 1756
+0	26aa, >seq_6f097ce762dc5b9... *
+>Cluster 1757
+0	26aa, >seq_7312cb54e328488... *
+>Cluster 1758
+0	26aa, >seq_738f07586ba8951... *
+>Cluster 1759
+0	26aa, >seq_7c212da60d2c7bf... *
+>Cluster 1760
+0	26aa, >seq_8231a8fbaff16d4... *
+>Cluster 1761
+0	26aa, >seq_8ac0d5bab64da1a... *
+>Cluster 1762
+0	26aa, >seq_92900641506374d... *
+>Cluster 1763
+0	26aa, >seq_95d9704adf4b5d3... *
+>Cluster 1764
+0	26aa, >seq_96db53c9660b9b3... *
+>Cluster 1765
+0	26aa, >seq_97bea1b46e765bd... *
+>Cluster 1766
+0	26aa, >seq_9d64f91ab03a4f1... *
+>Cluster 1767
+0	26aa, >seq_aad7f1c3b8b0639... *
+>Cluster 1768
+0	26aa, >seq_afb115e355c7f19... *
+>Cluster 1769
+0	26aa, >seq_b4d476ef2e26587... *
+>Cluster 1770
+0	26aa, >seq_b6bbbbc9881e586... *
+>Cluster 1771
+0	26aa, >seq_bbf5e2258c954f3... *
+>Cluster 1772
+0	26aa, >seq_bfd1e37c84d2961... *
+>Cluster 1773
+0	26aa, >seq_c0e902ebdcd00fc... *
+>Cluster 1774
+0	26aa, >seq_c1118eccad4ec99... *
+>Cluster 1775
+0	26aa, >seq_c8e4219750b9a8f... *
+>Cluster 1776
+0	26aa, >seq_c935f18607e48ef... *
+>Cluster 1777
+0	26aa, >seq_cb42928bd65fa5e... *
+>Cluster 1778
+0	26aa, >seq_cbe1a0ec15d1755... *
+>Cluster 1779
+0	26aa, >seq_cda940d30553d41... *
+>Cluster 1780
+0	26aa, >seq_cf3118ad628ac68... *
+>Cluster 1781
+0	26aa, >seq_d0981c2b7b438f0... *
+>Cluster 1782
+0	26aa, >seq_d6a503d509f948a... *
+>Cluster 1783
+0	26aa, >seq_d7c5158bb7fd704... *
+>Cluster 1784
+0	26aa, >seq_d9bfcd4eddccf30... *
+>Cluster 1785
+0	26aa, >seq_dcc01ca93534143... *
+>Cluster 1786
+0	26aa, >seq_e6f27196973a698... *
+>Cluster 1787
+0	26aa, >seq_e7643de0b521b85... *
+>Cluster 1788
+0	26aa, >seq_e7c4f88f8ee056f... *
+>Cluster 1789
+0	26aa, >seq_e87e6d4ec536620... *
+>Cluster 1790
+0	26aa, >seq_f70f0b1330c5ef7... *
+>Cluster 1791
+0	26aa, >seq_f8cda7a3bbce44a... *
+>Cluster 1792
+0	26aa, >seq_f945da6bca6c318... *
+>Cluster 1793
+0	26aa, >seq_fd5aba8e9c03309... *
+>Cluster 1794
+0	25aa, >seq_07a45ead8558436... *
+>Cluster 1795
+0	25aa, >seq_0a2167a0b41567f... *
+>Cluster 1796
+0	25aa, >seq_0f4598e7630c32d... *
+>Cluster 1797
+0	25aa, >seq_138e3edbeedb84c... *
+1	25aa, >seq_fa11836f2c2125e... at 92.00%
+>Cluster 1798
+0	25aa, >seq_153dc7c698b7305... *
+>Cluster 1799
+0	25aa, >seq_195d317ca7cc3c4... *
+>Cluster 1800
+0	25aa, >seq_1c1b5513d9de641... *
+1	25aa, >seq_7d631c1725ce632... at 96.00%
+>Cluster 1801
+0	25aa, >seq_1fa0874582a1017... *
+>Cluster 1802
+0	25aa, >seq_224c96243b63bd9... *
+>Cluster 1803
+0	25aa, >seq_28675446717b360... *
+>Cluster 1804
+0	25aa, >seq_2c22c932fa2d0af... *
+>Cluster 1805
+0	25aa, >seq_2c68761b2a16636... *
+>Cluster 1806
+0	25aa, >seq_2fc893bd705e6e4... *
+>Cluster 1807
+0	25aa, >seq_360e83643387df8... *
+>Cluster 1808
+0	25aa, >seq_3a70b4a59bc2ab9... *
+>Cluster 1809
+0	25aa, >seq_3ce662fb4bb2247... *
+>Cluster 1810
+0	25aa, >seq_3f29f45fd77bb37... *
+>Cluster 1811
+0	25aa, >seq_406f7fb2c57e2c6... *
+>Cluster 1812
+0	25aa, >seq_41d57e8230da396... *
+>Cluster 1813
+0	25aa, >seq_44145e62fc4b2f2... *
+>Cluster 1814
+0	25aa, >seq_457c47545f86bdb... *
+>Cluster 1815
+0	25aa, >seq_480182533a126f4... *
+>Cluster 1816
+0	25aa, >seq_4842e511ebfb4ea... *
+>Cluster 1817
+0	25aa, >seq_48cab99fc64f6f2... *
+>Cluster 1818
+0	25aa, >seq_4be9fb0967e489d... *
+1	25aa, >seq_b412d72e2c41d75... at 96.00%
+>Cluster 1819
+0	25aa, >seq_52b50dd404aa434... *
+>Cluster 1820
+0	25aa, >seq_561a30918063013... *
+>Cluster 1821
+0	25aa, >seq_5816638f65c81b0... *
+>Cluster 1822
+0	25aa, >seq_5d813db9390473c... *
+>Cluster 1823
+0	25aa, >seq_5e381fd12898ec0... *
+>Cluster 1824
+0	25aa, >seq_5fa724f47e9bea0... *
+>Cluster 1825
+0	25aa, >seq_60ebf495f4ef902... *
+>Cluster 1826
+0	25aa, >seq_6289835c000aa10... *
+>Cluster 1827
+0	25aa, >seq_6380f8e7ba59685... *
+>Cluster 1828
+0	25aa, >seq_653defee6cb6b3d... *
+>Cluster 1829
+0	25aa, >seq_6865988a631390e... *
+>Cluster 1830
+0	25aa, >seq_68a43130f8e5ce8... *
+>Cluster 1831
+0	25aa, >seq_6ad419e57cfd712... *
+>Cluster 1832
+0	25aa, >seq_7373a5b3e7e1b8b... *
+>Cluster 1833
+0	25aa, >seq_7435bf8c58b780c... *
+>Cluster 1834
+0	25aa, >seq_7440ecb17361aeb... *
+>Cluster 1835
+0	25aa, >seq_76b7906b1b1f326... *
+>Cluster 1836
+0	25aa, >seq_79b624409bd97f1... *
+>Cluster 1837
+0	25aa, >seq_83420020fc14eb1... *
+>Cluster 1838
+0	25aa, >seq_835a86ad51810da... *
+>Cluster 1839
+0	25aa, >seq_83c974856fb3637... *
+1	24aa, >seq_f0ddedd78707779... at 100.00%
+>Cluster 1840
+0	25aa, >seq_89234ad230cec16... *
+>Cluster 1841
+0	25aa, >seq_8936123b694bf04... *
+>Cluster 1842
+0	25aa, >seq_8c6177cae823937... *
+>Cluster 1843
+0	25aa, >seq_8d071285b1552a8... *
+>Cluster 1844
+0	25aa, >seq_8e367dc061979bc... *
+>Cluster 1845
+0	25aa, >seq_8ee221f95085f8f... *
+>Cluster 1846
+0	25aa, >seq_9143a0907083f77... *
+>Cluster 1847
+0	25aa, >seq_929a1d6cf9eafa8... *
+>Cluster 1848
+0	25aa, >seq_991332c385123d4... *
+>Cluster 1849
+0	25aa, >seq_9a1c5ad8eea70c3... *
+>Cluster 1850
+0	25aa, >seq_9f64ab8d7bcd193... *
+>Cluster 1851
+0	25aa, >seq_9f8197ce32f3f96... *
+>Cluster 1852
+0	25aa, >seq_a01b28824e59433... *
+>Cluster 1853
+0	25aa, >seq_a2285c85243aa46... *
+>Cluster 1854
+0	25aa, >seq_a41a1ecca999d32... *
+>Cluster 1855
+0	25aa, >seq_a5526dc857bcf14... *
+>Cluster 1856
+0	25aa, >seq_a99b7dedf761c2c... *
+>Cluster 1857
+0	25aa, >seq_aa7dcbbafc90ee4... *
+>Cluster 1858
+0	25aa, >seq_ade103fad8b0b83... *
+>Cluster 1859
+0	25aa, >seq_aee6adeb8bb98b0... *
+>Cluster 1860
+0	25aa, >seq_af28e4633b98fb4... *
+>Cluster 1861
+0	25aa, >seq_b3c8f36e29520e8... *
+>Cluster 1862
+0	25aa, >seq_b547b45ba62bded... *
+>Cluster 1863
+0	25aa, >seq_bb723424c1a1615... *
+>Cluster 1864
+0	25aa, >seq_bee532799c8ff1a... *
+>Cluster 1865
+0	25aa, >seq_c10e1318ae2891f... *
+>Cluster 1866
+0	25aa, >seq_c13f21bb28f3088... *
+>Cluster 1867
+0	25aa, >seq_c3736b016636852... *
+>Cluster 1868
+0	25aa, >seq_c5dddc31409628f... *
+>Cluster 1869
+0	25aa, >seq_cc771a4ab53bef2... *
+>Cluster 1870
+0	25aa, >seq_d207c1f7437a339... *
+>Cluster 1871
+0	25aa, >seq_d2a8f384ceae3cf... *
+>Cluster 1872
+0	25aa, >seq_d411b07254ce6a9... *
+>Cluster 1873
+0	25aa, >seq_dfdb64001151f62... *
+>Cluster 1874
+0	25aa, >seq_e0cdba166d11447... *
+>Cluster 1875
+0	25aa, >seq_e60a348e3db075d... *
+>Cluster 1876
+0	25aa, >seq_ec6aca233d68f83... *
+>Cluster 1877
+0	25aa, >seq_ee3b2c62e0b9c43... *
+>Cluster 1878
+0	25aa, >seq_f0ab681ce31c322... *
+>Cluster 1879
+0	25aa, >seq_f340e879bf8d38b... *
+>Cluster 1880
+0	25aa, >seq_f952c2602141a65... *
+>Cluster 1881
+0	25aa, >seq_fbc40fe3d9c31d8... *
+>Cluster 1882
+0	25aa, >seq_fea1173dfd3fb0a... *
+>Cluster 1883
+0	24aa, >seq_0104fd221e78105... *
+>Cluster 1884
+0	24aa, >seq_0152c4f5fce01b5... *
+>Cluster 1885
+0	24aa, >seq_015981c61f9b3bf... *
+>Cluster 1886
+0	24aa, >seq_034c9b3f3888f8b... *
+>Cluster 1887
+0	24aa, >seq_056f979a23121c5... *
+>Cluster 1888
+0	24aa, >seq_0921c349cac468a... *
+>Cluster 1889
+0	24aa, >seq_0a104debd17105f... *
+>Cluster 1890
+0	24aa, >seq_0a2ab4a3ba72efd... *
+>Cluster 1891
+0	24aa, >seq_0a3b07adf9bdfff... *
+>Cluster 1892
+0	24aa, >seq_0d0f53edafe40ef... *
+>Cluster 1893
+0	24aa, >seq_0d7738f29ff231c... *
+>Cluster 1894
+0	24aa, >seq_0d7a9545f095bd4... *
+>Cluster 1895
+0	24aa, >seq_158f7e27eb65cd8... *
+>Cluster 1896
+0	24aa, >seq_16b29d1433f4512... *
+>Cluster 1897
+0	24aa, >seq_1e15bf550416bf7... *
+>Cluster 1898
+0	24aa, >seq_1f74f934adafe7e... *
+>Cluster 1899
+0	24aa, >seq_1fdea0596a4b1a5... *
+>Cluster 1900
+0	24aa, >seq_206dfea837e008a... *
+>Cluster 1901
+0	24aa, >seq_2331bce7caf41a1... *
+>Cluster 1902
+0	24aa, >seq_286f15ab3c7dd15... *
+>Cluster 1903
+0	24aa, >seq_2b1e5496ec49aa5... *
+>Cluster 1904
+0	24aa, >seq_2bba187d8d4fed8... *
+>Cluster 1905
+0	24aa, >seq_2bbf40fe306b5d2... *
+>Cluster 1906
+0	24aa, >seq_2c1a453ddabb643... *
+>Cluster 1907
+0	24aa, >seq_2ceef6e71bec2cb... *
+>Cluster 1908
+0	24aa, >seq_2ef1c8f7297c8c5... *
+>Cluster 1909
+0	24aa, >seq_3685bd25c11f30e... *
+>Cluster 1910
+0	24aa, >seq_3887333721348f3... *
+>Cluster 1911
+0	24aa, >seq_3f896b19053e0d8... *
+>Cluster 1912
+0	24aa, >seq_401021386770237... *
+>Cluster 1913
+0	24aa, >seq_44df74243914bbd... *
+>Cluster 1914
+0	24aa, >seq_4d85a2111a6f80d... *
+>Cluster 1915
+0	24aa, >seq_4e227dcd75e3e59... *
+>Cluster 1916
+0	24aa, >seq_4f579d1cb4bb520... *
+>Cluster 1917
+0	24aa, >seq_51389a53e401eed... *
+>Cluster 1918
+0	24aa, >seq_51d65b8705cd314... *
+>Cluster 1919
+0	24aa, >seq_546be1078b99420... *
+>Cluster 1920
+0	24aa, >seq_57d77116d8bb8a6... *
+1	24aa, >seq_9dd2d3dd77dac4d... at 95.83%
+>Cluster 1921
+0	24aa, >seq_5df048f225ec699... *
+>Cluster 1922
+0	24aa, >seq_63c7d6f50a47283... *
+>Cluster 1923
+0	24aa, >seq_6462c7aff0f58ef... *
+>Cluster 1924
+0	24aa, >seq_6562cc8b9a63563... *
+>Cluster 1925
+0	24aa, >seq_665fb6309148ab9... *
+>Cluster 1926
+0	24aa, >seq_668ed89aa690a45... *
+>Cluster 1927
+0	24aa, >seq_673083a854d0da5... *
+>Cluster 1928
+0	24aa, >seq_69274ef2b9f7eb2... *
+>Cluster 1929
+0	24aa, >seq_69e6f556a6d1cf9... *
+>Cluster 1930
+0	24aa, >seq_6a2afb51532bfb6... *
+>Cluster 1931
+0	24aa, >seq_6cca6aff95dfbc6... *
+>Cluster 1932
+0	24aa, >seq_6e5e1c51d323d75... *
+>Cluster 1933
+0	24aa, >seq_73dc401eeaec967... *
+>Cluster 1934
+0	24aa, >seq_758b4155a31c37d... *
+>Cluster 1935
+0	24aa, >seq_78c2a7ec5d99ee8... *
+>Cluster 1936
+0	24aa, >seq_79a75e562a92bcd... *
+>Cluster 1937
+0	24aa, >seq_7cb5a5a66f1960a... *
+>Cluster 1938
+0	24aa, >seq_7cf923ff45b8783... *
+>Cluster 1939
+0	24aa, >seq_7ea67a03c5ad6d8... *
+>Cluster 1940
+0	24aa, >seq_7fc720673249d5d... *
+>Cluster 1941
+0	24aa, >seq_84586dcc28eceaf... *
+>Cluster 1942
+0	24aa, >seq_85253037d9691f0... *
+>Cluster 1943
+0	24aa, >seq_89a7ef718049c8d... *
+>Cluster 1944
+0	24aa, >seq_8b1be05c4dac324... *
+>Cluster 1945
+0	24aa, >seq_8bff2bb7db0e50f... *
+>Cluster 1946
+0	24aa, >seq_8c0ed370d423c48... *
+>Cluster 1947
+0	24aa, >seq_8cbdf0a1ec567dd... *
+>Cluster 1948
+0	24aa, >seq_8f8448cb88210ed... *
+>Cluster 1949
+0	24aa, >seq_91c42110c9173ed... *
+>Cluster 1950
+0	24aa, >seq_931d6ea44d1f0cd... *
+>Cluster 1951
+0	24aa, >seq_9419639f30e4e31... *
+>Cluster 1952
+0	24aa, >seq_94f711a009c2de9... *
+>Cluster 1953
+0	24aa, >seq_9a88b2e4c63b07d... *
+>Cluster 1954
+0	24aa, >seq_9e107786db4abeb... *
+>Cluster 1955
+0	24aa, >seq_a1bfa4757bdc678... *
+>Cluster 1956
+0	24aa, >seq_a28f175983ee1e9... *
+>Cluster 1957
+0	24aa, >seq_a294b4fa1bbe764... *
+>Cluster 1958
+0	24aa, >seq_a397dcbc913976b... *
+>Cluster 1959
+0	24aa, >seq_a39bb38d613dec4... *
+>Cluster 1960
+0	24aa, >seq_a3f3eb3ebf1ccf0... *
+>Cluster 1961
+0	24aa, >seq_a4d6dea78068cbb... *
+>Cluster 1962
+0	24aa, >seq_a5de180984f3723... *
+>Cluster 1963
+0	24aa, >seq_ab944a0f3869de3... *
+>Cluster 1964
+0	24aa, >seq_b16e301f6933ea3... *
+>Cluster 1965
+0	24aa, >seq_b32a94425b622a6... *
+>Cluster 1966
+0	24aa, >seq_b351c832cf4d9eb... *
+>Cluster 1967
+0	24aa, >seq_ba80d432e53c2ac... *
+>Cluster 1968
+0	24aa, >seq_bf39f735841b317... *
+>Cluster 1969
+0	24aa, >seq_bf574f9debd8434... *
+>Cluster 1970
+0	24aa, >seq_c33eb224da085c0... *
+>Cluster 1971
+0	24aa, >seq_c444f12832668c9... *
+>Cluster 1972
+0	24aa, >seq_c7775cb23166e11... *
+>Cluster 1973
+0	24aa, >seq_cebab96d642a600... *
+>Cluster 1974
+0	24aa, >seq_d56107c53b64f58... *
+>Cluster 1975
+0	24aa, >seq_d674dc5e500f9bb... *
+>Cluster 1976
+0	24aa, >seq_d89c7c4db3fcfad... *
+>Cluster 1977
+0	24aa, >seq_d8b12832e5591ea... *
+>Cluster 1978
+0	24aa, >seq_d9da0b67ca158c2... *
+>Cluster 1979
+0	24aa, >seq_db0db43d6fac4a4... *
+>Cluster 1980
+0	24aa, >seq_ddf5817587b156d... *
+>Cluster 1981
+0	24aa, >seq_e104700be00714a... *
+>Cluster 1982
+0	24aa, >seq_e2218482ec60f98... *
+1	13aa, >seq_3175968498b1459... at 100.00%
+>Cluster 1983
+0	24aa, >seq_e27ff6ef3f2c951... *
+>Cluster 1984
+0	24aa, >seq_e9075b05afcd5cb... *
+>Cluster 1985
+0	24aa, >seq_ece3fb763a3748b... *
+>Cluster 1986
+0	24aa, >seq_ee12727ab2d1f80... *
+>Cluster 1987
+0	24aa, >seq_f3b9b7bc5dd2036... *
+>Cluster 1988
+0	24aa, >seq_f4f5d478fac77b0... *
+>Cluster 1989
+0	24aa, >seq_f62aa29c94330ea... *
+>Cluster 1990
+0	24aa, >seq_f8bf06e48a08fe2... *
+>Cluster 1991
+0	23aa, >seq_06e11491884ba4f... *
+>Cluster 1992
+0	23aa, >seq_06f3ddf035a9c75... *
+>Cluster 1993
+0	23aa, >seq_0a56b24274223f6... *
+>Cluster 1994
+0	23aa, >seq_0a74d02508027b8... *
+>Cluster 1995
+0	23aa, >seq_102cc85314e2c54... *
+>Cluster 1996
+0	23aa, >seq_1166b78abcf1ef8... *
+>Cluster 1997
+0	23aa, >seq_15752292e914946... *
+>Cluster 1998
+0	23aa, >seq_19c660251a5e35f... *
+>Cluster 1999
+0	23aa, >seq_1b7041523beac72... *
+>Cluster 2000
+0	23aa, >seq_214bef02f37f347... *
+>Cluster 2001
+0	23aa, >seq_2ea75b67ee169cf... *
+>Cluster 2002
+0	23aa, >seq_32a6aeaf02ebeae... *
+>Cluster 2003
+0	23aa, >seq_337a4f4dc26e622... *
+>Cluster 2004
+0	23aa, >seq_34d20f669d9d504... *
+>Cluster 2005
+0	23aa, >seq_3a12cedd313c4ab... *
+>Cluster 2006
+0	23aa, >seq_41579e719263b1f... *
+>Cluster 2007
+0	23aa, >seq_4253feddde81cae... *
+>Cluster 2008
+0	23aa, >seq_45e2941acc9a9ea... *
+>Cluster 2009
+0	23aa, >seq_4618a8ada0c4354... *
+>Cluster 2010
+0	23aa, >seq_4d60d6029052e11... *
+>Cluster 2011
+0	23aa, >seq_4ec4711ba5b06f3... *
+>Cluster 2012
+0	23aa, >seq_511b46153885271... *
+>Cluster 2013
+0	23aa, >seq_542452bad945b4f... *
+>Cluster 2014
+0	23aa, >seq_559abab0f4468b5... *
+>Cluster 2015
+0	23aa, >seq_59e0bdfb111e837... *
+>Cluster 2016
+0	23aa, >seq_5b2b28e11d57e61... *
+>Cluster 2017
+0	23aa, >seq_61129a4e4d83d99... *
+>Cluster 2018
+0	23aa, >seq_644e0eb9ac2b4f8... *
+>Cluster 2019
+0	23aa, >seq_6dc682751b7fc6c... *
+>Cluster 2020
+0	23aa, >seq_7016d57632229a6... *
+>Cluster 2021
+0	23aa, >seq_790b14514dc1543... *
+>Cluster 2022
+0	23aa, >seq_80b889864dff853... *
+>Cluster 2023
+0	23aa, >seq_822130a7844e6e7... *
+>Cluster 2024
+0	23aa, >seq_845d23840ff0651... *
+>Cluster 2025
+0	23aa, >seq_8e2b74c6bb487e5... *
+>Cluster 2026
+0	23aa, >seq_91c7741b23c9751... *
+>Cluster 2027
+0	23aa, >seq_9bc9b704a3b5438... *
+>Cluster 2028
+0	23aa, >seq_9e3fe5d2a776257... *
+1	23aa, >seq_e6be778c20835a7... at 91.30%
+>Cluster 2029
+0	23aa, >seq_a363616d2575f31... *
+>Cluster 2030
+0	23aa, >seq_ac239a73465cc51... *
+>Cluster 2031
+0	23aa, >seq_ad2803400e09755... *
+>Cluster 2032
+0	23aa, >seq_ae58559b0855b83... *
+>Cluster 2033
+0	23aa, >seq_aef3ed8e8ea345f... *
+>Cluster 2034
+0	23aa, >seq_b07d0a91d3f84c6... *
+>Cluster 2035
+0	23aa, >seq_b0b6d71e1fb318f... *
+>Cluster 2036
+0	23aa, >seq_b44d0b65a209be5... *
+>Cluster 2037
+0	23aa, >seq_b67e84cb98d1265... *
+>Cluster 2038
+0	23aa, >seq_b96a6abd98bbe1b... *
+>Cluster 2039
+0	23aa, >seq_bda4c66519376fc... *
+>Cluster 2040
+0	23aa, >seq_befcd92c29ff50e... *
+>Cluster 2041
+0	23aa, >seq_c5b6686408ee44b... *
+>Cluster 2042
+0	23aa, >seq_c748e254baf032a... *
+>Cluster 2043
+0	23aa, >seq_c8ed8dd97344a2c... *
+>Cluster 2044
+0	23aa, >seq_cb95130edb7f7d2... *
+>Cluster 2045
+0	23aa, >seq_d30b4b242fb1f90... *
+>Cluster 2046
+0	23aa, >seq_d9afc95ace7a22d... *
+>Cluster 2047
+0	23aa, >seq_d9bf102a7279126... *
+>Cluster 2048
+0	23aa, >seq_dd3f38574c9f364... *
+>Cluster 2049
+0	23aa, >seq_e2a1b70f9eecfc7... *
+>Cluster 2050
+0	23aa, >seq_e5a0f320ba5281b... *
+>Cluster 2051
+0	23aa, >seq_e9415f04e97226b... *
+>Cluster 2052
+0	23aa, >seq_edb3c665d0a29dd... *
+>Cluster 2053
+0	23aa, >seq_efcd2d092f6c238... *
+>Cluster 2054
+0	23aa, >seq_f3e38f740d1e3df... *
+>Cluster 2055
+0	23aa, >seq_f44fb7266947858... *
+>Cluster 2056
+0	23aa, >seq_f4f09d619bf15d8... *
+>Cluster 2057
+0	23aa, >seq_f778c237c16ccfe... *
+>Cluster 2058
+0	23aa, >seq_fc9645459557185... *
+>Cluster 2059
+0	23aa, >seq_ff508579563eccd... *
+>Cluster 2060
+0	22aa, >seq_00da029a1fc4a3b... *
+>Cluster 2061
+0	22aa, >seq_014260acb08f4ce... *
+>Cluster 2062
+0	22aa, >seq_0414e47c8f98d0c... *
+>Cluster 2063
+0	22aa, >seq_077cfaeb17ac0a9... *
+>Cluster 2064
+0	22aa, >seq_091bf88a76af83a... *
+>Cluster 2065
+0	22aa, >seq_1024f2e21c4187d... *
+>Cluster 2066
+0	22aa, >seq_12a52915d066730... *
+>Cluster 2067
+0	22aa, >seq_14a033dc2485325... *
+>Cluster 2068
+0	22aa, >seq_16abf1e180b3f4f... *
+>Cluster 2069
+0	22aa, >seq_1a5662abcefda05... *
+>Cluster 2070
+0	22aa, >seq_1a5b2a048857925... *
+>Cluster 2071
+0	22aa, >seq_1c087ec4125afc4... *
+>Cluster 2072
+0	22aa, >seq_1e965a5e54dcb04... *
+>Cluster 2073
+0	22aa, >seq_1eb082906408bc0... *
+>Cluster 2074
+0	22aa, >seq_1f4f7edf73fc6b1... *
+>Cluster 2075
+0	22aa, >seq_22aef561acf09e1... *
+>Cluster 2076
+0	22aa, >seq_24647310d5655cf... *
+>Cluster 2077
+0	22aa, >seq_25ff4e47a482dda... *
+>Cluster 2078
+0	22aa, >seq_2741338302014bd... *
+>Cluster 2079
+0	22aa, >seq_27647ba441e1c3d... *
+>Cluster 2080
+0	22aa, >seq_2aaa6c47d744118... *
+>Cluster 2081
+0	22aa, >seq_2bf06fb8619b693... *
+>Cluster 2082
+0	22aa, >seq_394778306a10768... *
+>Cluster 2083
+0	22aa, >seq_3ccde54abb0509f... *
+>Cluster 2084
+0	22aa, >seq_3fc32677af03a1e... *
+>Cluster 2085
+0	22aa, >seq_46aa8ece0a4d96f... *
+>Cluster 2086
+0	22aa, >seq_4bbd7c466c218ac... *
+>Cluster 2087
+0	22aa, >seq_4f68574bee1c1b8... *
+>Cluster 2088
+0	22aa, >seq_5029ec4291f7899... *
+>Cluster 2089
+0	22aa, >seq_576b99580c3447b... *
+>Cluster 2090
+0	22aa, >seq_5bfe73ec1bf4648... *
+>Cluster 2091
+0	22aa, >seq_6877a7b4a356780... *
+>Cluster 2092
+0	22aa, >seq_68abafaa4d410c8... *
+>Cluster 2093
+0	22aa, >seq_6960cb77e9e4f09... *
+>Cluster 2094
+0	22aa, >seq_6977f8803f18235... *
+>Cluster 2095
+0	22aa, >seq_6c3a4b8b14c38c5... *
+>Cluster 2096
+0	22aa, >seq_6f5c3390acce388... *
+>Cluster 2097
+0	22aa, >seq_7404412bc70bd96... *
+>Cluster 2098
+0	22aa, >seq_836696dacea2171... *
+>Cluster 2099
+0	22aa, >seq_845fb5020e6e932... *
+>Cluster 2100
+0	22aa, >seq_84f36fd033c281e... *
+>Cluster 2101
+0	22aa, >seq_8b1a369bf047fcb... *
+>Cluster 2102
+0	22aa, >seq_8b6b6fd8658fe5a... *
+>Cluster 2103
+0	22aa, >seq_8f036c588cd0ba7... *
+>Cluster 2104
+0	22aa, >seq_9749ed71f027dc3... *
+>Cluster 2105
+0	22aa, >seq_9772ba616d49c60... *
+>Cluster 2106
+0	22aa, >seq_99c95301d74a0f1... *
+>Cluster 2107
+0	22aa, >seq_a387080d4d8409b... *
+>Cluster 2108
+0	22aa, >seq_a5ee28be16d9694... *
+>Cluster 2109
+0	22aa, >seq_a742fadea5ebc10... *
+>Cluster 2110
+0	22aa, >seq_ae6952c23adb432... *
+>Cluster 2111
+0	22aa, >seq_b31beea7c852c46... *
+>Cluster 2112
+0	22aa, >seq_b486ded31cac189... *
+>Cluster 2113
+0	22aa, >seq_b5c8b1f7232eb44... *
+>Cluster 2114
+0	22aa, >seq_b734139799decad... *
+>Cluster 2115
+0	22aa, >seq_b7ec62bee129716... *
+>Cluster 2116
+0	22aa, >seq_b96664254964e9d... *
+>Cluster 2117
+0	22aa, >seq_bb4e327361f8721... *
+>Cluster 2118
+0	22aa, >seq_bb8c3243ef25eb5... *
+>Cluster 2119
+0	22aa, >seq_c0c67855e818bf4... *
+>Cluster 2120
+0	22aa, >seq_c56c012331a07c3... *
+>Cluster 2121
+0	22aa, >seq_c5c353155a07c48... *
+>Cluster 2122
+0	22aa, >seq_c73f3227fdd35de... *
+>Cluster 2123
+0	22aa, >seq_cdd6e303b880d58... *
+>Cluster 2124
+0	22aa, >seq_d66e176820af1b2... *
+>Cluster 2125
+0	22aa, >seq_d80faf2a5633aca... *
+>Cluster 2126
+0	22aa, >seq_d9591543b37bec5... *
+>Cluster 2127
+0	22aa, >seq_da5bafb82c9631a... *
+>Cluster 2128
+0	22aa, >seq_da5fc193a448953... *
+>Cluster 2129
+0	22aa, >seq_de623cff1abdbc0... *
+>Cluster 2130
+0	22aa, >seq_e0ec82a2bcf288b... *
+>Cluster 2131
+0	22aa, >seq_e40dda57dc8dc37... *
+>Cluster 2132
+0	22aa, >seq_e538011a402bdbc... *
+>Cluster 2133
+0	22aa, >seq_eaee763f27407cb... *
+>Cluster 2134
+0	22aa, >seq_eca7ed089e85eb2... *
+>Cluster 2135
+0	22aa, >seq_ed4f16a5e853645... *
+>Cluster 2136
+0	22aa, >seq_f2c3253d28b51e5... *
+>Cluster 2137
+0	22aa, >seq_f363a609f55afbe... *
+>Cluster 2138
+0	22aa, >seq_f3a10bc5b974199... *
+>Cluster 2139
+0	22aa, >seq_f6928170cfae151... *
+>Cluster 2140
+0	22aa, >seq_fe7a4a9d77c49cb... *
+>Cluster 2141
+0	22aa, >seq_feb13b6b0c50807... *
+>Cluster 2142
+0	21aa, >seq_01df5d95f16c131... *
+>Cluster 2143
+0	21aa, >seq_05466de75450443... *
+>Cluster 2144
+0	21aa, >seq_0760c72c1a4b615... *
+>Cluster 2145
+0	21aa, >seq_0e3883b8a090499... *
+>Cluster 2146
+0	21aa, >seq_1532a86786972ab... *
+>Cluster 2147
+0	21aa, >seq_1c28c6a2c5fc987... *
+>Cluster 2148
+0	21aa, >seq_1fc3c0b80665aa5... *
+>Cluster 2149
+0	21aa, >seq_23fe1cab8c5cbf8... *
+>Cluster 2150
+0	21aa, >seq_24ffb8ce6ee629c... *
+>Cluster 2151
+0	21aa, >seq_2632a2e5df21e66... *
+>Cluster 2152
+0	21aa, >seq_279f66c1773d669... *
+>Cluster 2153
+0	21aa, >seq_28317e3619f4a00... *
+>Cluster 2154
+0	21aa, >seq_2c62a10df3aa1ac... *
+>Cluster 2155
+0	21aa, >seq_2e73e9cf68318a3... *
+>Cluster 2156
+0	21aa, >seq_3c9896f47968b15... *
+>Cluster 2157
+0	21aa, >seq_41190566d35ba02... *
+>Cluster 2158
+0	21aa, >seq_536bdc59a6875f0... *
+>Cluster 2159
+0	21aa, >seq_54ca835ec3f1201... *
+>Cluster 2160
+0	21aa, >seq_57b63e464aa2ab5... *
+>Cluster 2161
+0	21aa, >seq_614739aae0df224... *
+>Cluster 2162
+0	21aa, >seq_66f54fcd4a131d5... *
+>Cluster 2163
+0	21aa, >seq_670bbbf00e1e5aa... *
+>Cluster 2164
+0	21aa, >seq_678f50ac71700a9... *
+>Cluster 2165
+0	21aa, >seq_69dde76de25638b... *
+>Cluster 2166
+0	21aa, >seq_6a131075ad282d9... *
+>Cluster 2167
+0	21aa, >seq_6db40a4dd0e3f0c... *
+>Cluster 2168
+0	21aa, >seq_6e42e65a86bc45d... *
+>Cluster 2169
+0	21aa, >seq_6f752c90f5d7830... *
+>Cluster 2170
+0	21aa, >seq_72c8bf4b29b6fc4... *
+>Cluster 2171
+0	21aa, >seq_745961086c6c731... *
+>Cluster 2172
+0	21aa, >seq_75701f5f24a85c1... *
+>Cluster 2173
+0	21aa, >seq_77b2486bcc8acf9... *
+>Cluster 2174
+0	21aa, >seq_790f44dc262e4c9... *
+>Cluster 2175
+0	21aa, >seq_7c22b2a58b4b258... *
+>Cluster 2176
+0	21aa, >seq_848586ee6884520... *
+>Cluster 2177
+0	21aa, >seq_84bca4d4188a5d2... *
+>Cluster 2178
+0	21aa, >seq_8acbb55be5567a2... *
+>Cluster 2179
+0	21aa, >seq_8e777e99586df70... *
+>Cluster 2180
+0	21aa, >seq_8ecafab5a1f5863... *
+>Cluster 2181
+0	21aa, >seq_92bcaf3e12161fd... *
+>Cluster 2182
+0	21aa, >seq_92fa3fd5ffbd3c8... *
+>Cluster 2183
+0	21aa, >seq_94b391154b67468... *
+>Cluster 2184
+0	21aa, >seq_94dd6dac7d18078... *
+>Cluster 2185
+0	21aa, >seq_9712c25f03e323d... *
+>Cluster 2186
+0	21aa, >seq_994dd4567b1ae16... *
+>Cluster 2187
+0	21aa, >seq_9a6fa5e22fc5886... *
+>Cluster 2188
+0	21aa, >seq_ae6abaa07eec757... *
+>Cluster 2189
+0	21aa, >seq_aeedb80b5886cc2... *
+>Cluster 2190
+0	21aa, >seq_af716d055dbb3bb... *
+>Cluster 2191
+0	21aa, >seq_b254b4a446594ab... *
+>Cluster 2192
+0	21aa, >seq_b4e5908f6c2062d... *
+>Cluster 2193
+0	21aa, >seq_c4ef09cc1312dbf... *
+>Cluster 2194
+0	21aa, >seq_c5f15392962a6f9... *
+>Cluster 2195
+0	21aa, >seq_c62ea2ebdbeafa7... *
+>Cluster 2196
+0	21aa, >seq_ca66555ef5467e8... *
+>Cluster 2197
+0	21aa, >seq_cfd5c1ec3675bba... *
+>Cluster 2198
+0	21aa, >seq_d4b7270a1f21579... *
+>Cluster 2199
+0	21aa, >seq_d9dd91f828c7dc4... *
+>Cluster 2200
+0	21aa, >seq_df11de8b743c0b5... *
+>Cluster 2201
+0	21aa, >seq_e15c7627dfef3e9... *
+>Cluster 2202
+0	21aa, >seq_e1a8dd5b029fb26... *
+>Cluster 2203
+0	21aa, >seq_e2a46dace2ec718... *
+>Cluster 2204
+0	21aa, >seq_e36b9d647a77e51... *
+>Cluster 2205
+0	21aa, >seq_e5ece793280fcce... *
+>Cluster 2206
+0	21aa, >seq_edaf7475f521482... *
+>Cluster 2207
+0	21aa, >seq_ee1a4436b80135f... *
+>Cluster 2208
+0	21aa, >seq_efb807f567dcacb... *
+>Cluster 2209
+0	21aa, >seq_f49159c03656867... *
+>Cluster 2210
+0	21aa, >seq_f891227e1d23359... *
+>Cluster 2211
+0	21aa, >seq_f9fdb572a39b345... *
+>Cluster 2212
+0	21aa, >seq_fff5ddcc07afa5e... *
+>Cluster 2213
+0	20aa, >seq_008348e9466459f... *
+>Cluster 2214
+0	20aa, >seq_014354ed6ac1407... *
+>Cluster 2215
+0	20aa, >seq_017852b7337efe1... *
+>Cluster 2216
+0	20aa, >seq_02fabffb2ff6ca3... *
+>Cluster 2217
+0	20aa, >seq_06c567247361086... *
+>Cluster 2218
+0	20aa, >seq_086bb8cf4ed767a... *
+>Cluster 2219
+0	20aa, >seq_09349a9372ef80b... *
+>Cluster 2220
+0	20aa, >seq_0a396b8a2867c68... *
+>Cluster 2221
+0	20aa, >seq_0c242a7e6b552ba... *
+>Cluster 2222
+0	20aa, >seq_0ca1fa288eb5f28... *
+>Cluster 2223
+0	20aa, >seq_12c763fc3251899... *
+>Cluster 2224
+0	20aa, >seq_12de9bcf0609991... *
+>Cluster 2225
+0	20aa, >seq_170fe79e01f34bb... *
+>Cluster 2226
+0	20aa, >seq_1c291862c3b5d5c... *
+>Cluster 2227
+0	20aa, >seq_1e92910256db3df... *
+>Cluster 2228
+0	20aa, >seq_20588897c393e28... *
+>Cluster 2229
+0	20aa, >seq_2704c5b668ca0e0... *
+>Cluster 2230
+0	20aa, >seq_294a688268947a9... *
+>Cluster 2231
+0	20aa, >seq_295320b15e8c426... *
+>Cluster 2232
+0	20aa, >seq_2ac39dbd5f847fd... *
+>Cluster 2233
+0	20aa, >seq_2c39bc6c66c93f9... *
+>Cluster 2234
+0	20aa, >seq_2f00cdfe94b2563... *
+>Cluster 2235
+0	20aa, >seq_309e13be2a0da26... *
+>Cluster 2236
+0	20aa, >seq_30a513a231b5d35... *
+>Cluster 2237
+0	20aa, >seq_30e2a0294587faf... *
+>Cluster 2238
+0	20aa, >seq_33c5e93e4613e57... *
+>Cluster 2239
+0	20aa, >seq_34791493ecfcedc... *
+>Cluster 2240
+0	20aa, >seq_379ffe8ee392879... *
+>Cluster 2241
+0	20aa, >seq_385f584d8712a3c... *
+>Cluster 2242
+0	20aa, >seq_3c238f41bd0c752... *
+>Cluster 2243
+0	20aa, >seq_3d7b5fe3eaa49ed... *
+>Cluster 2244
+0	20aa, >seq_3f69fe9e9175239... *
+>Cluster 2245
+0	20aa, >seq_4902f880889d096... *
+>Cluster 2246
+0	20aa, >seq_4bf6d4844e42423... *
+>Cluster 2247
+0	20aa, >seq_4e8e0e9d1dd8b47... *
+>Cluster 2248
+0	20aa, >seq_511673cb2c3815e... *
+>Cluster 2249
+0	20aa, >seq_51727b8e36baebb... *
+>Cluster 2250
+0	20aa, >seq_52e22b2451ea2de... *
+>Cluster 2251
+0	20aa, >seq_52f394c7dbb8edf... *
+>Cluster 2252
+0	20aa, >seq_52f9374ec4ca764... *
+>Cluster 2253
+0	20aa, >seq_543e88e5efae8e9... *
+1	20aa, >seq_f55546c41ab88da... at 95.00%
+>Cluster 2254
+0	20aa, >seq_55377730c34ade7... *
+>Cluster 2255
+0	20aa, >seq_5aa553954411305... *
+>Cluster 2256
+0	20aa, >seq_5c1698607f8d274... *
+>Cluster 2257
+0	20aa, >seq_5c635ff46e72afa... *
+>Cluster 2258
+0	20aa, >seq_5e7453bb521262b... *
+>Cluster 2259
+0	20aa, >seq_628e6cbadb74ef6... *
+>Cluster 2260
+0	20aa, >seq_62f1277c7056167... *
+>Cluster 2261
+0	20aa, >seq_63547d17b875559... *
+>Cluster 2262
+0	20aa, >seq_64df5f358c2868e... *
+>Cluster 2263
+0	20aa, >seq_64fe1ed81f8d4a0... *
+>Cluster 2264
+0	20aa, >seq_669d7ce10a3bf22... *
+>Cluster 2265
+0	20aa, >seq_675d3c5cce6e8eb... *
+>Cluster 2266
+0	20aa, >seq_68050da00c95a03... *
+>Cluster 2267
+0	20aa, >seq_6c5874bf3382f0c... *
+>Cluster 2268
+0	20aa, >seq_7048c7cabe3c5b6... *
+>Cluster 2269
+0	20aa, >seq_72d0aa7ad76a74e... *
+>Cluster 2270
+0	20aa, >seq_72f243a774b6a69... *
+>Cluster 2271
+0	20aa, >seq_78745fe7a6b0024... *
+>Cluster 2272
+0	20aa, >seq_7d719450a598e7c... *
+>Cluster 2273
+0	20aa, >seq_7db8f7df6c1edcf... *
+>Cluster 2274
+0	20aa, >seq_7ea6f52c6067d20... *
+>Cluster 2275
+0	20aa, >seq_7ef6057699a9ed2... *
+>Cluster 2276
+0	20aa, >seq_7f34dba8da74e56... *
+>Cluster 2277
+0	20aa, >seq_7f3893884fbbb33... *
+>Cluster 2278
+0	20aa, >seq_80b9ba0f0c8d0db... *
+>Cluster 2279
+0	20aa, >seq_810b620a2e47dff... *
+>Cluster 2280
+0	20aa, >seq_85c51f846b49f9c... *
+>Cluster 2281
+0	20aa, >seq_863bd163985507f... *
+>Cluster 2282
+0	20aa, >seq_86fb6b27c630a84... *
+>Cluster 2283
+0	20aa, >seq_8b8f76588907038... *
+>Cluster 2284
+0	20aa, >seq_8e078ec089af1c3... *
+>Cluster 2285
+0	20aa, >seq_8f82263d98b264b... *
+>Cluster 2286
+0	20aa, >seq_922b7b33fa0ca05... *
+>Cluster 2287
+0	20aa, >seq_9291450180c7167... *
+>Cluster 2288
+0	20aa, >seq_93a8fad33ca0d9a... *
+>Cluster 2289
+0	20aa, >seq_946f90e7fa35634... *
+>Cluster 2290
+0	20aa, >seq_94865cd5732dbb0... *
+>Cluster 2291
+0	20aa, >seq_94ab9d352050a55... *
+>Cluster 2292
+0	20aa, >seq_96934aea47142e5... *
+>Cluster 2293
+0	20aa, >seq_98ea2c82699a276... *
+>Cluster 2294
+0	20aa, >seq_9951d5521ef435a... *
+>Cluster 2295
+0	20aa, >seq_9d81bac02b663cc... *
+>Cluster 2296
+0	20aa, >seq_9e448125984fc18... *
+>Cluster 2297
+0	20aa, >seq_a08937383afbdb4... *
+>Cluster 2298
+0	20aa, >seq_a21b4b5eb5d7c43... *
+>Cluster 2299
+0	20aa, >seq_a365837d0322734... *
+>Cluster 2300
+0	20aa, >seq_a3df101323e695c... *
+>Cluster 2301
+0	20aa, >seq_a4219402a9ba631... *
+>Cluster 2302
+0	20aa, >seq_a44a3630a14f21e... *
+>Cluster 2303
+0	20aa, >seq_a4d457ec2652b40... *
+>Cluster 2304
+0	20aa, >seq_a55d455ae5afafb... *
+>Cluster 2305
+0	20aa, >seq_a8f04fc00714472... *
+>Cluster 2306
+0	20aa, >seq_a963273ebf222d5... *
+>Cluster 2307
+0	20aa, >seq_a9f4cf6148ce4ec... *
+>Cluster 2308
+0	20aa, >seq_aaf7c418c41fd5b... *
+>Cluster 2309
+0	20aa, >seq_ab1892e7f8cbcd4... *
+>Cluster 2310
+0	20aa, >seq_adc385858f0f9c8... *
+>Cluster 2311
+0	20aa, >seq_adcedfea3d84f59... *
+>Cluster 2312
+0	20aa, >seq_af9d34d3a7c24c8... *
+>Cluster 2313
+0	20aa, >seq_b1a6281982b2c68... *
+>Cluster 2314
+0	20aa, >seq_b1b5408424c7821... *
+>Cluster 2315
+0	20aa, >seq_b2d53a8d7a18f90... *
+>Cluster 2316
+0	20aa, >seq_b50c4d954d94ef5... *
+>Cluster 2317
+0	20aa, >seq_b81cc4d9e59e7da... *
+>Cluster 2318
+0	20aa, >seq_be5f04a33891251... *
+>Cluster 2319
+0	20aa, >seq_bf80738ecbe5e06... *
+>Cluster 2320
+0	20aa, >seq_c308132f35c59d2... *
+>Cluster 2321
+0	20aa, >seq_c494dcc8f9e955b... *
+>Cluster 2322
+0	20aa, >seq_c72a6528537712f... *
+>Cluster 2323
+0	20aa, >seq_c74da3b09ea9078... *
+>Cluster 2324
+0	20aa, >seq_c8282354eea41b3... *
+>Cluster 2325
+0	20aa, >seq_c8a1465b1a4ede4... *
+>Cluster 2326
+0	20aa, >seq_c91d871afee1a20... *
+>Cluster 2327
+0	20aa, >seq_cbb4d63dbb8db19... *
+>Cluster 2328
+0	20aa, >seq_ce2d7036de6f2ee... *
+>Cluster 2329
+0	20aa, >seq_cf1cef5ea934eaa... *
+>Cluster 2330
+0	20aa, >seq_d3fcc169bf0bfc5... *
+>Cluster 2331
+0	20aa, >seq_d4f64686ce75566... *
+>Cluster 2332
+0	20aa, >seq_d72fca4b0f81b78... *
+>Cluster 2333
+0	20aa, >seq_d8789a67ac80558... *
+>Cluster 2334
+0	20aa, >seq_da5ea5c1771f41d... *
+>Cluster 2335
+0	20aa, >seq_dbf4fd29a8ebc49... *
+>Cluster 2336
+0	20aa, >seq_dd2288b2a0246b2... *
+>Cluster 2337
+0	20aa, >seq_dd2754701d04207... *
+>Cluster 2338
+0	20aa, >seq_ddced3128e68f92... *
+>Cluster 2339
+0	20aa, >seq_df3cc85fe96127f... *
+>Cluster 2340
+0	20aa, >seq_e0a29754a00a278... *
+>Cluster 2341
+0	20aa, >seq_e14c88b52f1288b... *
+>Cluster 2342
+0	20aa, >seq_e478150d7658d3c... *
+>Cluster 2343
+0	20aa, >seq_e7d46011950aae4... *
+>Cluster 2344
+0	20aa, >seq_ea2e3f37b0affef... *
+>Cluster 2345
+0	20aa, >seq_ed8db6d1ea8d5d8... *
+>Cluster 2346
+0	20aa, >seq_eeb8e7e69cb9410... *
+>Cluster 2347
+0	20aa, >seq_ef68ce4d3620ade... *
+>Cluster 2348
+0	20aa, >seq_efb5a12fdc3a4f4... *
+>Cluster 2349
+0	20aa, >seq_f1fea4db37f449f... *
+>Cluster 2350
+0	20aa, >seq_f4d857403256579... *
+>Cluster 2351
+0	20aa, >seq_f4e14a76fe78e70... *
+>Cluster 2352
+0	20aa, >seq_f5dd11f5b347515... *
+>Cluster 2353
+0	20aa, >seq_f704b6068dfc191... *
+>Cluster 2354
+0	20aa, >seq_f99bf1c1ded7dad... *
+>Cluster 2355
+0	20aa, >seq_fb663f44335256c... *
+>Cluster 2356
+0	20aa, >seq_fb6d616a812aece... *
+>Cluster 2357
+0	20aa, >seq_fbd552a1516697b... *
+>Cluster 2358
+0	20aa, >seq_fc0e0b49fe840d1... *
+>Cluster 2359
+0	20aa, >seq_fe5fb835e90f41e... *
+>Cluster 2360
+0	20aa, >seq_fe870981fe26742... *
+>Cluster 2361
+0	19aa, >seq_00e57f65c26a166... *
+>Cluster 2362
+0	19aa, >seq_04a1ffed14ccde4... *
+>Cluster 2363
+0	19aa, >seq_072b51c431d15bd... *
+>Cluster 2364
+0	19aa, >seq_07a89c80aca021c... *
+>Cluster 2365
+0	19aa, >seq_07be3e0491e05ad... *
+>Cluster 2366
+0	19aa, >seq_0bee8f0de1caa51... *
+>Cluster 2367
+0	19aa, >seq_0ce1f03298d5804... *
+>Cluster 2368
+0	19aa, >seq_0ecc370accd6edd... *
+>Cluster 2369
+0	19aa, >seq_0f6d8198a0a69b5... *
+>Cluster 2370
+0	19aa, >seq_1067ed33b47a7f8... *
+>Cluster 2371
+0	19aa, >seq_118bc6656533ccb... *
+>Cluster 2372
+0	19aa, >seq_1203ed012fabeb8... *
+>Cluster 2373
+0	19aa, >seq_12d05cf1a2016cd... *
+>Cluster 2374
+0	19aa, >seq_12d5dca37b6940b... *
+>Cluster 2375
+0	19aa, >seq_12e13db0b53915a... *
+>Cluster 2376
+0	19aa, >seq_130a6e65fefb7f0... *
+>Cluster 2377
+0	19aa, >seq_144cf4d74ff6d29... *
+>Cluster 2378
+0	19aa, >seq_14d50ca52b59287... *
+>Cluster 2379
+0	19aa, >seq_1520a56e34c2cf3... *
+>Cluster 2380
+0	19aa, >seq_1969837a91221ca... *
+1	19aa, >seq_bd9489155e62054... at 94.74%
+>Cluster 2381
+0	19aa, >seq_1a0fb7d32f57d51... *
+>Cluster 2382
+0	19aa, >seq_1fd9e17f0370030... *
+>Cluster 2383
+0	19aa, >seq_22ba3cc40137097... *
+>Cluster 2384
+0	19aa, >seq_2dfe141dfd2d83e... *
+>Cluster 2385
+0	19aa, >seq_322faf0f439c6ca... *
+>Cluster 2386
+0	19aa, >seq_351dd565a82c1fc... *
+>Cluster 2387
+0	19aa, >seq_3f2dca1ae110325... *
+>Cluster 2388
+0	19aa, >seq_4069e6e09394aa8... *
+>Cluster 2389
+0	19aa, >seq_40d3c87517cbbb5... *
+>Cluster 2390
+0	19aa, >seq_40f5ad82a3a77cf... *
+>Cluster 2391
+0	19aa, >seq_427671b8807bef1... *
+>Cluster 2392
+0	19aa, >seq_45341d95455b905... *
+>Cluster 2393
+0	19aa, >seq_45f0e5932eb3555... *
+>Cluster 2394
+0	19aa, >seq_46d15d6d0024704... *
+>Cluster 2395
+0	19aa, >seq_4bd9325bfe0a6eb... *
+>Cluster 2396
+0	19aa, >seq_4cab7c88ec14fa5... *
+>Cluster 2397
+0	19aa, >seq_4e43df1caf68d3d... *
+>Cluster 2398
+0	19aa, >seq_4ea1d65f672b88b... *
+>Cluster 2399
+0	19aa, >seq_50fde78b8138497... *
+1	19aa, >seq_6b48caf889a39e9... at 94.74%
+>Cluster 2400
+0	19aa, >seq_53d6a606dbed6da... *
+>Cluster 2401
+0	19aa, >seq_549fc1831857373... *
+>Cluster 2402
+0	19aa, >seq_580e64d9fff8565... *
+>Cluster 2403
+0	19aa, >seq_599413c361b8ee3... *
+>Cluster 2404
+0	19aa, >seq_5e7309d2e6ad1b8... *
+>Cluster 2405
+0	19aa, >seq_60eb9fe84a6bb0e... *
+>Cluster 2406
+0	19aa, >seq_61049add4b0c4b8... *
+>Cluster 2407
+0	19aa, >seq_643e46de632d0a3... *
+>Cluster 2408
+0	19aa, >seq_69605ca51f9db8d... *
+>Cluster 2409
+0	19aa, >seq_6fdc40cbdab0eec... *
+>Cluster 2410
+0	19aa, >seq_78c62a59b3806d0... *
+>Cluster 2411
+0	19aa, >seq_7924941f13f8d6b... *
+>Cluster 2412
+0	19aa, >seq_85d0a3de329cdc3... *
+>Cluster 2413
+0	19aa, >seq_8742a7ca9a33e1e... *
+>Cluster 2414
+0	19aa, >seq_87f4dee6878ba97... *
+>Cluster 2415
+0	19aa, >seq_8acf80a12e9d749... *
+>Cluster 2416
+0	19aa, >seq_8cb71f82bec8eb9... *
+>Cluster 2417
+0	19aa, >seq_8ed3a3ef8280fd7... *
+>Cluster 2418
+0	19aa, >seq_913f47c5cc63a53... *
+>Cluster 2419
+0	19aa, >seq_917a16f17d69253... *
+>Cluster 2420
+0	19aa, >seq_925da47d4f993fa... *
+>Cluster 2421
+0	19aa, >seq_941a16852cbd033... *
+>Cluster 2422
+0	19aa, >seq_972460c6ef8e820... *
+>Cluster 2423
+0	19aa, >seq_98b01d7a80307c0... *
+>Cluster 2424
+0	19aa, >seq_9f088f0a0429591... *
+>Cluster 2425
+0	19aa, >seq_a3b4b420ca45e1c... *
+>Cluster 2426
+0	19aa, >seq_a87d3a96480b9f5... *
+>Cluster 2427
+0	19aa, >seq_aba9201328b3c9e... *
+>Cluster 2428
+0	19aa, >seq_accb5286caa00a2... *
+>Cluster 2429
+0	19aa, >seq_ad9471636fca62e... *
+>Cluster 2430
+0	19aa, >seq_adf6ec5f2d40852... *
+>Cluster 2431
+0	19aa, >seq_ae47af4bd3f1415... *
+>Cluster 2432
+0	19aa, >seq_af9c3e84f7f3588... *
+>Cluster 2433
+0	19aa, >seq_b077bccaef03ccf... *
+>Cluster 2434
+0	19aa, >seq_b46f027d5e5364b... *
+>Cluster 2435
+0	19aa, >seq_b78eefb3286863c... *
+>Cluster 2436
+0	19aa, >seq_b8142f3a408c17c... *
+>Cluster 2437
+0	19aa, >seq_ba34905651e1343... *
+>Cluster 2438
+0	19aa, >seq_bcd7d261575a131... *
+>Cluster 2439
+0	19aa, >seq_c4ce0db77c052cc... *
+>Cluster 2440
+0	19aa, >seq_c86b5ee5a822882... *
+>Cluster 2441
+0	19aa, >seq_cadc6305ab6ce85... *
+>Cluster 2442
+0	19aa, >seq_d1ccd2708d91096... *
+>Cluster 2443
+0	19aa, >seq_d1f861c2fd8b203... *
+>Cluster 2444
+0	19aa, >seq_d334a3dc114fba1... *
+>Cluster 2445
+0	19aa, >seq_d392bf3efe849cb... *
+>Cluster 2446
+0	19aa, >seq_d5e50e2d0365727... *
+>Cluster 2447
+0	19aa, >seq_d73963eec1229b1... *
+>Cluster 2448
+0	19aa, >seq_d7650b9c405bb92... *
+>Cluster 2449
+0	19aa, >seq_d82203ff563f258... *
+>Cluster 2450
+0	19aa, >seq_d9ae616fd993af0... *
+>Cluster 2451
+0	19aa, >seq_ddfc9f58403f9e7... *
+>Cluster 2452
+0	19aa, >seq_e0236cb179f344a... *
+>Cluster 2453
+0	19aa, >seq_e3a67f77edf8b87... *
+>Cluster 2454
+0	19aa, >seq_e44ce9b7239fb48... *
+>Cluster 2455
+0	19aa, >seq_e46732e6f451f5b... *
+>Cluster 2456
+0	19aa, >seq_ed398d934e0fc89... *
+>Cluster 2457
+0	19aa, >seq_edfce1b7ff58961... *
+>Cluster 2458
+0	19aa, >seq_efb3acca7766c5b... *
+>Cluster 2459
+0	19aa, >seq_f0c458c7af25522... *
+>Cluster 2460
+0	19aa, >seq_f1081c9f905ccdd... *
+>Cluster 2461
+0	19aa, >seq_f1caaa6aac7af49... *
+>Cluster 2462
+0	19aa, >seq_f5b02b6fffa3aac... *
+>Cluster 2463
+0	19aa, >seq_f7dff8423da37ff... *
+>Cluster 2464
+0	19aa, >seq_f82c156ef4c994f... *
+>Cluster 2465
+0	19aa, >seq_f94ecb8cbdfaa6b... *
+>Cluster 2466
+0	19aa, >seq_fa59dd6c8fcab9d... *
+>Cluster 2467
+0	19aa, >seq_fd1f4ec6f043b27... *
+>Cluster 2468
+0	18aa, >seq_027a5e76d5238f6... *
+>Cluster 2469
+0	18aa, >seq_04c47bcc1204fcb... *
+>Cluster 2470
+0	18aa, >seq_08518614a2df51c... *
+>Cluster 2471
+0	18aa, >seq_0e88888c101202f... *
+>Cluster 2472
+0	18aa, >seq_107114c3586ff12... *
+>Cluster 2473
+0	18aa, >seq_15314597f0858b6... *
+>Cluster 2474
+0	18aa, >seq_1631aad26047bdc... *
+>Cluster 2475
+0	18aa, >seq_1698c5ac762f1bb... *
+>Cluster 2476
+0	18aa, >seq_187046513372ab2... *
+>Cluster 2477
+0	18aa, >seq_1ee8585995b45ac... *
+>Cluster 2478
+0	18aa, >seq_1f91eee1acef28f... *
+>Cluster 2479
+0	18aa, >seq_218c143464b651b... *
+>Cluster 2480
+0	18aa, >seq_2cdc9fd359fce19... *
+>Cluster 2481
+0	18aa, >seq_2e9a0d218a6c29b... *
+>Cluster 2482
+0	18aa, >seq_3d421cb82d4c319... *
+>Cluster 2483
+0	18aa, >seq_3d829cb42f1b292... *
+>Cluster 2484
+0	18aa, >seq_3efc2c1f83eae41... *
+>Cluster 2485
+0	18aa, >seq_40479c9f1ca3858... *
+>Cluster 2486
+0	18aa, >seq_426e4d76b5f107c... *
+>Cluster 2487
+0	18aa, >seq_44face65a2ab909... *
+>Cluster 2488
+0	18aa, >seq_4b05d4414523a09... *
+>Cluster 2489
+0	18aa, >seq_4b761ee0c9810fd... *
+>Cluster 2490
+0	18aa, >seq_4bf0e69f8da72a8... *
+>Cluster 2491
+0	18aa, >seq_4d8179899a29bb9... *
+>Cluster 2492
+0	18aa, >seq_4e0c958ef80ff30... *
+>Cluster 2493
+0	18aa, >seq_4e7f17dcc1c11ef... *
+>Cluster 2494
+0	18aa, >seq_4e83bde55d3cb57... *
+>Cluster 2495
+0	18aa, >seq_4ec1c6679cc7a87... *
+>Cluster 2496
+0	18aa, >seq_508b6c11c8b5944... *
+>Cluster 2497
+0	18aa, >seq_58444dee35314ec... *
+>Cluster 2498
+0	18aa, >seq_5b06bc30248e2b1... *
+>Cluster 2499
+0	18aa, >seq_5e2d318238ca9ff... *
+>Cluster 2500
+0	18aa, >seq_602edbf601890f1... *
+>Cluster 2501
+0	18aa, >seq_66f2a5732c75f12... *
+>Cluster 2502
+0	18aa, >seq_6ab8f5ac7c93e8a... *
+>Cluster 2503
+0	18aa, >seq_6bc0709568fd811... *
+>Cluster 2504
+0	18aa, >seq_6e389b0e73936ce... *
+>Cluster 2505
+0	18aa, >seq_771a88f2c4a7d4a... *
+>Cluster 2506
+0	18aa, >seq_77df67c5646fe9a... *
+>Cluster 2507
+0	18aa, >seq_7c3446214686075... *
+>Cluster 2508
+0	18aa, >seq_7dd027fddfbd43f... *
+>Cluster 2509
+0	18aa, >seq_7ee519cd76643f4... *
+>Cluster 2510
+0	18aa, >seq_7f54d2acd3d9b08... *
+>Cluster 2511
+0	18aa, >seq_853b9c299a7f555... *
+>Cluster 2512
+0	18aa, >seq_859a340a2cd3636... *
+>Cluster 2513
+0	18aa, >seq_882302eab0924d5... *
+>Cluster 2514
+0	18aa, >seq_882881994a6bcd1... *
+>Cluster 2515
+0	18aa, >seq_8919010453c0bf6... *
+>Cluster 2516
+0	18aa, >seq_8a99b84c5a7f6e0... *
+>Cluster 2517
+0	18aa, >seq_9c7343f48271e1e... *
+>Cluster 2518
+0	18aa, >seq_a0730eac7f9679a... *
+>Cluster 2519
+0	18aa, >seq_a0a4bcb534753fb... *
+>Cluster 2520
+0	18aa, >seq_a19e3dd6c029b86... *
+>Cluster 2521
+0	18aa, >seq_a1a48319e1dcc75... *
+>Cluster 2522
+0	18aa, >seq_a3c419a06abbc8e... *
+>Cluster 2523
+0	18aa, >seq_a677e8b6b6076e2... *
+>Cluster 2524
+0	18aa, >seq_b0a1a1517703323... *
+>Cluster 2525
+0	18aa, >seq_b0f739c2962a6e9... *
+>Cluster 2526
+0	18aa, >seq_b3ece49c5efe305... *
+>Cluster 2527
+0	18aa, >seq_ba09e984c068ee6... *
+>Cluster 2528
+0	18aa, >seq_be8a486dc9167e8... *
+>Cluster 2529
+0	18aa, >seq_c0754bc7897463d... *
+>Cluster 2530
+0	18aa, >seq_c2eac6e96a26e09... *
+>Cluster 2531
+0	18aa, >seq_c3e37d0ae6aac2f... *
+>Cluster 2532
+0	18aa, >seq_c5142d8781380c0... *
+>Cluster 2533
+0	18aa, >seq_c56040eb373ea98... *
+>Cluster 2534
+0	18aa, >seq_c5dd390107bb35b... *
+>Cluster 2535
+0	18aa, >seq_c82ed86255e2765... *
+>Cluster 2536
+0	18aa, >seq_c8779bffb16b7b9... *
+>Cluster 2537
+0	18aa, >seq_c9cf5308ebbe941... *
+>Cluster 2538
+0	18aa, >seq_c9e7b1f602898ee... *
+>Cluster 2539
+0	18aa, >seq_ccb2b2a926a0c43... *
+>Cluster 2540
+0	18aa, >seq_cd9daa9ecc8e0dc... *
+>Cluster 2541
+0	18aa, >seq_cdb9ca612f1023f... *
+>Cluster 2542
+0	18aa, >seq_ce15f42e22be6ff... *
+>Cluster 2543
+0	18aa, >seq_d255185c364e8df... *
+>Cluster 2544
+0	18aa, >seq_d4c9f2c6f2b1bd3... *
+>Cluster 2545
+0	18aa, >seq_d5ec4e3984af2b8... *
+>Cluster 2546
+0	18aa, >seq_d5f20b317174432... *
+>Cluster 2547
+0	18aa, >seq_d601518a1d30480... *
+>Cluster 2548
+0	18aa, >seq_d68bc2e5de217f3... *
+>Cluster 2549
+0	18aa, >seq_d9e316fed80c90a... *
+>Cluster 2550
+0	18aa, >seq_df42869d3483b8c... *
+>Cluster 2551
+0	18aa, >seq_e07f217a4be5b03... *
+>Cluster 2552
+0	18aa, >seq_e11c3b61de09671... *
+>Cluster 2553
+0	18aa, >seq_e8d25c96d31a718... *
+>Cluster 2554
+0	18aa, >seq_ea25b949f7996a3... *
+>Cluster 2555
+0	18aa, >seq_eb98e9fd9bd5d90... *
+>Cluster 2556
+0	18aa, >seq_f486e6adfa27aa4... *
+>Cluster 2557
+0	18aa, >seq_f54340354fbbee4... *
+>Cluster 2558
+0	18aa, >seq_f5e6d2bec876012... *
+>Cluster 2559
+0	18aa, >seq_f76f6d4f7af9197... *
+>Cluster 2560
+0	18aa, >seq_f85ef1fd18f893f... *
+1	17aa, >seq_a35a3d36d57f03c... at 100.00%
+>Cluster 2561
+0	18aa, >seq_f9702a2199270db... *
+>Cluster 2562
+0	18aa, >seq_f9c74491eb16c3d... *
+>Cluster 2563
+0	18aa, >seq_fc201e48d379706... *
+>Cluster 2564
+0	17aa, >seq_104ec1a276ae960... *
+>Cluster 2565
+0	17aa, >seq_117f8eb56bc9f17... *
+>Cluster 2566
+0	17aa, >seq_14fa5ae2663b04e... *
+>Cluster 2567
+0	17aa, >seq_19fe1f34e85faac... *
+>Cluster 2568
+0	17aa, >seq_1b178bc4f2a4f16... *
+>Cluster 2569
+0	17aa, >seq_1cfcb60f6f5e15c... *
+>Cluster 2570
+0	17aa, >seq_1d16d61bead4204... *
+>Cluster 2571
+0	17aa, >seq_1f07cf373ec909e... *
+>Cluster 2572
+0	17aa, >seq_216eb895e12aa32... *
+>Cluster 2573
+0	17aa, >seq_26848088c34fbde... *
+>Cluster 2574
+0	17aa, >seq_26aeb145c50739a... *
+>Cluster 2575
+0	17aa, >seq_2a3c5aba5684a00... *
+>Cluster 2576
+0	17aa, >seq_2d707a3000ab610... *
+>Cluster 2577
+0	17aa, >seq_2e35a8372f41226... *
+>Cluster 2578
+0	17aa, >seq_3004d326e351e4c... *
+>Cluster 2579
+0	17aa, >seq_31fd0ec3181f5f8... *
+>Cluster 2580
+0	17aa, >seq_390d345d1ae3909... *
+>Cluster 2581
+0	17aa, >seq_3af81edc26f6145... *
+>Cluster 2582
+0	17aa, >seq_3beb87242353940... *
+>Cluster 2583
+0	17aa, >seq_3e21c9e9288b400... *
+>Cluster 2584
+0	17aa, >seq_40dc79befcf3ee0... *
+>Cluster 2585
+0	17aa, >seq_427ace73c7496af... *
+>Cluster 2586
+0	17aa, >seq_4b5b7c41998b1f3... *
+>Cluster 2587
+0	17aa, >seq_5079b9e8496e104... *
+>Cluster 2588
+0	17aa, >seq_5319fe1abc52e53... *
+>Cluster 2589
+0	17aa, >seq_5431439b826a170... *
+>Cluster 2590
+0	17aa, >seq_5ba289ba4e1447f... *
+>Cluster 2591
+0	17aa, >seq_5bfe4db26908833... *
+>Cluster 2592
+0	17aa, >seq_5d4d0c44f99eaba... *
+>Cluster 2593
+0	17aa, >seq_5fcc532ed8207f2... *
+>Cluster 2594
+0	17aa, >seq_61ec86e896289d8... *
+>Cluster 2595
+0	17aa, >seq_68fbb8fc7df9098... *
+>Cluster 2596
+0	17aa, >seq_690b4bdb0b62ef3... *
+>Cluster 2597
+0	17aa, >seq_69ec34262912952... *
+>Cluster 2598
+0	17aa, >seq_69ff819485f43c9... *
+>Cluster 2599
+0	17aa, >seq_6dd695a6dd6357f... *
+>Cluster 2600
+0	17aa, >seq_6fe17509a847c3d... *
+>Cluster 2601
+0	17aa, >seq_71228fd5d8bdc02... *
+>Cluster 2602
+0	17aa, >seq_72e360d48916e77... *
+>Cluster 2603
+0	17aa, >seq_733959906ba0d2c... *
+>Cluster 2604
+0	17aa, >seq_7aaee135f61ce39... *
+>Cluster 2605
+0	17aa, >seq_7dc0171d9c16979... *
+>Cluster 2606
+0	17aa, >seq_7f5f47de4fcc536... *
+>Cluster 2607
+0	17aa, >seq_82d64012d5d9e47... *
+>Cluster 2608
+0	17aa, >seq_91364d43b6e97d3... *
+>Cluster 2609
+0	17aa, >seq_97717074a164ca6... *
+>Cluster 2610
+0	17aa, >seq_97c8900130b9902... *
+>Cluster 2611
+0	17aa, >seq_999498076ffcd99... *
+>Cluster 2612
+0	17aa, >seq_9f0a8f9c4ddacb9... *
+>Cluster 2613
+0	17aa, >seq_a20b863143a80bd... *
+>Cluster 2614
+0	17aa, >seq_a30fc1126fe8d50... *
+>Cluster 2615
+0	17aa, >seq_a314aed800f3ba7... *
+1	17aa, >seq_ae046dfafc86853... at 94.12%
+>Cluster 2616
+0	17aa, >seq_a65e83e371e4969... *
+>Cluster 2617
+0	17aa, >seq_ab9df089bb9b270... *
+>Cluster 2618
+0	17aa, >seq_ae983afb99413d1... *
+>Cluster 2619
+0	17aa, >seq_b1a56af88a81f09... *
+>Cluster 2620
+0	17aa, >seq_b2c0c1841787fe5... *
+>Cluster 2621
+0	17aa, >seq_b9d8765f394cee5... *
+>Cluster 2622
+0	17aa, >seq_c90bce824aed6b4... *
+>Cluster 2623
+0	17aa, >seq_c912bf12d53307b... *
+>Cluster 2624
+0	17aa, >seq_cbbd1cc24dc1c49... *
+>Cluster 2625
+0	17aa, >seq_cf4a37c0fb789a5... *
+>Cluster 2626
+0	17aa, >seq_cf93e1e2bcdac89... *
+>Cluster 2627
+0	17aa, >seq_d48eab679976c62... *
+>Cluster 2628
+0	17aa, >seq_d90c2f4d85b1b71... *
+>Cluster 2629
+0	17aa, >seq_ddc3728556f3c05... *
+>Cluster 2630
+0	17aa, >seq_e9dc6906ecf76df... *
+>Cluster 2631
+0	17aa, >seq_ea47a8f7a681f73... *
+>Cluster 2632
+0	17aa, >seq_eb0d719c12d568a... *
+>Cluster 2633
+0	17aa, >seq_eb7ffb5851484ed... *
+>Cluster 2634
+0	17aa, >seq_ed69fdc376b7c7e... *
+>Cluster 2635
+0	17aa, >seq_ef0ace47e37023b... *
+>Cluster 2636
+0	17aa, >seq_f501decd56f18ed... *
+>Cluster 2637
+0	17aa, >seq_f50450291e923fe... *
+>Cluster 2638
+0	17aa, >seq_f6d6804b582fdc5... *
+>Cluster 2639
+0	16aa, >seq_0087d4003e35d9f... *
+>Cluster 2640
+0	16aa, >seq_0216fd34b996ca7... *
+1	16aa, >seq_f8a632ca47ddf64... at 93.75%
+>Cluster 2641
+0	16aa, >seq_056ee2a0f312b23... *
+>Cluster 2642
+0	16aa, >seq_05cf74a5947592a... *
+>Cluster 2643
+0	16aa, >seq_0a102d73cf101ad... *
+>Cluster 2644
+0	16aa, >seq_0b98258e08dbad0... *
+>Cluster 2645
+0	16aa, >seq_106a8763d77b96c... *
+>Cluster 2646
+0	16aa, >seq_12e64e8da1ed5b3... *
+>Cluster 2647
+0	16aa, >seq_1a9cac4489304a9... *
+>Cluster 2648
+0	16aa, >seq_22d71cd1d516630... *
+1	16aa, >seq_934e09cc14740ac... at 93.75%
+>Cluster 2649
+0	16aa, >seq_244a56881030737... *
+>Cluster 2650
+0	16aa, >seq_26350c1a9af5395... *
+>Cluster 2651
+0	16aa, >seq_28bbcd368853a41... *
+>Cluster 2652
+0	16aa, >seq_2b26ff9fa18032a... *
+>Cluster 2653
+0	16aa, >seq_2b303f1380ee608... *
+>Cluster 2654
+0	16aa, >seq_2e4083d1717bc71... *
+>Cluster 2655
+0	16aa, >seq_313a1e3bde9791a... *
+>Cluster 2656
+0	16aa, >seq_316c4534c63c148... *
+>Cluster 2657
+0	16aa, >seq_39d0bce6f8d1d39... *
+>Cluster 2658
+0	16aa, >seq_407a6652906136d... *
+>Cluster 2659
+0	16aa, >seq_4350c928f29a810... *
+>Cluster 2660
+0	16aa, >seq_495b7a3eee0c629... *
+>Cluster 2661
+0	16aa, >seq_4c1966dfdcf8be4... *
+>Cluster 2662
+0	16aa, >seq_4c6d2e87f475e16... *
+>Cluster 2663
+0	16aa, >seq_4d9806dc831fcb8... *
+>Cluster 2664
+0	16aa, >seq_55636ca3ca29595... *
+>Cluster 2665
+0	16aa, >seq_57bafc22ed4be8f... *
+>Cluster 2666
+0	16aa, >seq_59d6c76fdbcd6da... *
+>Cluster 2667
+0	16aa, >seq_5cacb3e74242830... *
+>Cluster 2668
+0	16aa, >seq_655311fc8a4bd2b... *
+>Cluster 2669
+0	16aa, >seq_66cc7b4cad93556... *
+>Cluster 2670
+0	16aa, >seq_6b5efe9671b4f80... *
+>Cluster 2671
+0	16aa, >seq_6d1fc8c032affab... *
+>Cluster 2672
+0	16aa, >seq_7bb87f7c9c25c03... *
+>Cluster 2673
+0	16aa, >seq_7ce844e4f652883... *
+>Cluster 2674
+0	16aa, >seq_813e6b842c06ba5... *
+>Cluster 2675
+0	16aa, >seq_83731f8298e248c... *
+>Cluster 2676
+0	16aa, >seq_87f2ed402e0b997... *
+>Cluster 2677
+0	16aa, >seq_88527b202c5888c... *
+>Cluster 2678
+0	16aa, >seq_8a9c13f5028a28d... *
+>Cluster 2679
+0	16aa, >seq_8ba9cc7324033f8... *
+>Cluster 2680
+0	16aa, >seq_8e5876843f9b2db... *
+>Cluster 2681
+0	16aa, >seq_92343fbd1a627d2... *
+>Cluster 2682
+0	16aa, >seq_92d860f9633345c... *
+>Cluster 2683
+0	16aa, >seq_9f010abbd3d59aa... *
+>Cluster 2684
+0	16aa, >seq_a5a2d056804eb73... *
+>Cluster 2685
+0	16aa, >seq_a75e51a8a03c36c... *
+>Cluster 2686
+0	16aa, >seq_a96f9d77a4c1e52... *
+>Cluster 2687
+0	16aa, >seq_b1ed9bcff104a01... *
+>Cluster 2688
+0	16aa, >seq_b2d730603eb74aa... *
+>Cluster 2689
+0	16aa, >seq_b3446bcec97043c... *
+>Cluster 2690
+0	16aa, >seq_bcfbd90209bad41... *
+>Cluster 2691
+0	16aa, >seq_c0d94bb6368441f... *
+>Cluster 2692
+0	16aa, >seq_c65eb0a9c013caf... *
+>Cluster 2693
+0	16aa, >seq_c69a00a3d3ab16a... *
+>Cluster 2694
+0	16aa, >seq_c955d9a1de242ca... *
+>Cluster 2695
+0	16aa, >seq_ca2207a8584889e... *
+>Cluster 2696
+0	16aa, >seq_cbf86a7cd4cadd2... *
+>Cluster 2697
+0	16aa, >seq_cc3088292729b4e... *
+>Cluster 2698
+0	16aa, >seq_cd2392630ec9ab9... *
+>Cluster 2699
+0	16aa, >seq_dac8c620758f12f... *
+>Cluster 2700
+0	16aa, >seq_daf6630195f73d7... *
+>Cluster 2701
+0	16aa, >seq_dc5af53d5f28855... *
+>Cluster 2702
+0	16aa, >seq_dd2913cee574d3c... *
+>Cluster 2703
+0	16aa, >seq_dfb4cdcc57f898f... *
+>Cluster 2704
+0	16aa, >seq_e16bb8cb2ba148e... *
+>Cluster 2705
+0	16aa, >seq_e47b998bb6979fb... *
+>Cluster 2706
+0	16aa, >seq_e50b79f4422a484... *
+>Cluster 2707
+0	16aa, >seq_e84907af3c91330... *
+>Cluster 2708
+0	16aa, >seq_e8777c18afddb82... *
+>Cluster 2709
+0	16aa, >seq_f280b375a930bbf... *
+>Cluster 2710
+0	16aa, >seq_f429ae7feceb6e8... *
+>Cluster 2711
+0	16aa, >seq_fb556d84bcc121c... *
+>Cluster 2712
+0	16aa, >seq_ff23d424acb4b80... *
+>Cluster 2713
+0	15aa, >seq_0a9a6930b074b77... *
+>Cluster 2714
+0	15aa, >seq_13f9290543f45c9... *
+>Cluster 2715
+0	15aa, >seq_16c44fb807d342f... *
+>Cluster 2716
+0	15aa, >seq_1aabbede64a1142... *
+>Cluster 2717
+0	15aa, >seq_1e64c32de66cf0e... *
+>Cluster 2718
+0	15aa, >seq_1fb35ed4e6e9526... *
+>Cluster 2719
+0	15aa, >seq_2200a1a3d1f410e... *
+>Cluster 2720
+0	15aa, >seq_23f0bbea7c9c511... *
+>Cluster 2721
+0	15aa, >seq_25bf6f49a107a7a... *
+>Cluster 2722
+0	15aa, >seq_286833e3085b751... *
+>Cluster 2723
+0	15aa, >seq_2a4a09cf4258661... *
+>Cluster 2724
+0	15aa, >seq_37c9e470a62155f... *
+>Cluster 2725
+0	15aa, >seq_3a6666aa2a72815... *
+1	13aa, >seq_f52e60c19f7dc66... at 100.00%
+>Cluster 2726
+0	15aa, >seq_3e4bceec15c0da6... *
+>Cluster 2727
+0	15aa, >seq_3ec0db1c93f1703... *
+>Cluster 2728
+0	15aa, >seq_3f092d080a36e3c... *
+>Cluster 2729
+0	15aa, >seq_4029bc3c4bd8439... *
+>Cluster 2730
+0	15aa, >seq_441ba73cab2d4cc... *
+>Cluster 2731
+0	15aa, >seq_450c1556da258bb... *
+>Cluster 2732
+0	15aa, >seq_526b5f67890f344... *
+>Cluster 2733
+0	15aa, >seq_56dfdb80d91020e... *
+>Cluster 2734
+0	15aa, >seq_64df8482255f5c9... *
+>Cluster 2735
+0	15aa, >seq_6d6e9c679cd9b8a... *
+>Cluster 2736
+0	15aa, >seq_6df02bfcee1c4b9... *
+>Cluster 2737
+0	15aa, >seq_70609bbe368d643... *
+>Cluster 2738
+0	15aa, >seq_707078f4a8c52fe... *
+>Cluster 2739
+0	15aa, >seq_7192ff992a49c46... *
+>Cluster 2740
+0	15aa, >seq_7564e1dbca7b7bf... *
+>Cluster 2741
+0	15aa, >seq_7994abf2d627f36... *
+>Cluster 2742
+0	15aa, >seq_7cc6b9313a16f0e... *
+>Cluster 2743
+0	15aa, >seq_888a23d6e86fbfa... *
+>Cluster 2744
+0	15aa, >seq_8a8516782ac5e95... *
+>Cluster 2745
+0	15aa, >seq_8d557000a8d5649... *
+>Cluster 2746
+0	15aa, >seq_973457b5bef89e5... *
+>Cluster 2747
+0	15aa, >seq_9771cdb107a3661... *
+>Cluster 2748
+0	15aa, >seq_9a7f7cdfd726e30... *
+>Cluster 2749
+0	15aa, >seq_9d0c0aaf12c7e76... *
+>Cluster 2750
+0	15aa, >seq_a1ecc07ccf7f68f... *
+>Cluster 2751
+0	15aa, >seq_a4b4379907c0108... *
+>Cluster 2752
+0	15aa, >seq_a6e88370650b726... *
+>Cluster 2753
+0	15aa, >seq_a99b9efe86a0ee3... *
+>Cluster 2754
+0	15aa, >seq_adae15c57af9fde... *
+>Cluster 2755
+0	15aa, >seq_ae217d194fab22a... *
+>Cluster 2756
+0	15aa, >seq_b12261d6544adb0... *
+>Cluster 2757
+0	15aa, >seq_b13eb17b3a64d0a... *
+>Cluster 2758
+0	15aa, >seq_b1f33b296e88c98... *
+>Cluster 2759
+0	15aa, >seq_b3eb590a707384d... *
+>Cluster 2760
+0	15aa, >seq_b5fd749c6490261... *
+>Cluster 2761
+0	15aa, >seq_ba08fe4dbb02bd4... *
+>Cluster 2762
+0	15aa, >seq_bf35e4c8d4b4000... *
+>Cluster 2763
+0	15aa, >seq_c44d6d34a7723e1... *
+>Cluster 2764
+0	15aa, >seq_c8ca953cfef89d5... *
+>Cluster 2765
+0	15aa, >seq_cc4bad9aaed148c... *
+>Cluster 2766
+0	15aa, >seq_cd3adbb5a1adbd1... *
+>Cluster 2767
+0	15aa, >seq_d29f82390515e83... *
+>Cluster 2768
+0	15aa, >seq_d2a1737f368f7d5... *
+>Cluster 2769
+0	15aa, >seq_d5bb6065bd3c554... *
+>Cluster 2770
+0	15aa, >seq_dd517d1d8df9c7c... *
+>Cluster 2771
+0	15aa, >seq_e0cc6ffa49c4ab0... *
+>Cluster 2772
+0	15aa, >seq_e1acfe15d005a22... *
+>Cluster 2773
+0	15aa, >seq_f23baed8a608b9e... *
+>Cluster 2774
+0	15aa, >seq_fbd912d739adf12... *
+>Cluster 2775
+0	14aa, >seq_00c110b5cf7a6a1... *
+>Cluster 2776
+0	14aa, >seq_068798e6fab3ae2... *
+>Cluster 2777
+0	14aa, >seq_077cb7ee0441090... *
+>Cluster 2778
+0	14aa, >seq_0cce511d8a6a111... *
+>Cluster 2779
+0	14aa, >seq_0fe2bf0021c8335... *
+>Cluster 2780
+0	14aa, >seq_10768f747ea564b... *
+>Cluster 2781
+0	14aa, >seq_1143765e0c3d942... *
+>Cluster 2782
+0	14aa, >seq_1380c774ea5eda6... *
+>Cluster 2783
+0	14aa, >seq_13826041c56a9a6... *
+>Cluster 2784
+0	14aa, >seq_14565f0632879a6... *
+>Cluster 2785
+0	14aa, >seq_164532d9da18e53... *
+>Cluster 2786
+0	14aa, >seq_17a7777888f2357... *
+>Cluster 2787
+0	14aa, >seq_1aa663570741d01... *
+>Cluster 2788
+0	14aa, >seq_21f4fe2de5065e6... *
+>Cluster 2789
+0	14aa, >seq_27f8f7f55223eca... *
+>Cluster 2790
+0	14aa, >seq_280a93bee0655d0... *
+>Cluster 2791
+0	14aa, >seq_286651e59ec042f... *
+>Cluster 2792
+0	14aa, >seq_2db52f5a3848d9a... *
+>Cluster 2793
+0	14aa, >seq_35610439e97da58... *
+>Cluster 2794
+0	14aa, >seq_38fe3859a4f0a7f... *
+>Cluster 2795
+0	14aa, >seq_3ace73c6acdb7f4... *
+>Cluster 2796
+0	14aa, >seq_415c1f6467a2255... *
+>Cluster 2797
+0	14aa, >seq_417fb031f5871a2... *
+>Cluster 2798
+0	14aa, >seq_4fa2addf34715f6... *
+>Cluster 2799
+0	14aa, >seq_502731551ca7cc7... *
+>Cluster 2800
+0	14aa, >seq_52a57445c173c14... *
+>Cluster 2801
+0	14aa, >seq_57fb9ceac39447d... *
+>Cluster 2802
+0	14aa, >seq_597b3bf0288fb08... *
+>Cluster 2803
+0	14aa, >seq_5df780c99dfce8d... *
+>Cluster 2804
+0	14aa, >seq_5f6d4f555a42b4d... *
+>Cluster 2805
+0	14aa, >seq_68a7b80280f7c17... *
+>Cluster 2806
+0	14aa, >seq_68a9fab5fc0b143... *
+>Cluster 2807
+0	14aa, >seq_702c3c71ee60e07... *
+>Cluster 2808
+0	14aa, >seq_758d3fb1d6d3e5a... *
+>Cluster 2809
+0	14aa, >seq_75b7c8b7cce351f... *
+>Cluster 2810
+0	14aa, >seq_798488c063e6d32... *
+>Cluster 2811
+0	14aa, >seq_7cc46b475fde1a6... *
+>Cluster 2812
+0	14aa, >seq_7f2ecba712d9fe9... *
+>Cluster 2813
+0	14aa, >seq_852216d31bbe7fc... *
+>Cluster 2814
+0	14aa, >seq_891ad7494f7b15e... *
+>Cluster 2815
+0	14aa, >seq_8ce654862e067ab... *
+>Cluster 2816
+0	14aa, >seq_943be7bc96c507a... *
+>Cluster 2817
+0	14aa, >seq_9a36aad14b94391... *
+>Cluster 2818
+0	14aa, >seq_a2e4362fc4df7f7... *
+>Cluster 2819
+0	14aa, >seq_a8de045fefb7ab3... *
+>Cluster 2820
+0	14aa, >seq_aa8d428a17f6290... *
+>Cluster 2821
+0	14aa, >seq_ab56ed83ab2ac95... *
+>Cluster 2822
+0	14aa, >seq_ae8d2e09b90b3c0... *
+>Cluster 2823
+0	14aa, >seq_afc2adf5f1135e8... *
+>Cluster 2824
+0	14aa, >seq_b05aaf1c1e282d8... *
+>Cluster 2825
+0	14aa, >seq_b08aadecbcaa275... *
+>Cluster 2826
+0	14aa, >seq_b1852ac9594c86b... *
+>Cluster 2827
+0	14aa, >seq_b93c4ef71753635... *
+>Cluster 2828
+0	14aa, >seq_bccd8200b12f466... *
+>Cluster 2829
+0	14aa, >seq_be5dcc06ee2cffc... *
+>Cluster 2830
+0	14aa, >seq_c10a7b978345e0d... *
+>Cluster 2831
+0	14aa, >seq_c162090b6c1abb0... *
+>Cluster 2832
+0	14aa, >seq_ce31735f5a799c1... *
+>Cluster 2833
+0	14aa, >seq_ce5a9a833b87529... *
+>Cluster 2834
+0	14aa, >seq_d0339a9a069b35a... *
+>Cluster 2835
+0	14aa, >seq_d0f0a88888fdc03... *
+>Cluster 2836
+0	14aa, >seq_d1a8c1eb0c65ab2... *
+>Cluster 2837
+0	14aa, >seq_d1add95bdad5d5c... *
+>Cluster 2838
+0	14aa, >seq_de29055e0ada01f... *
+>Cluster 2839
+0	14aa, >seq_e7a139b7abab4d3... *
+>Cluster 2840
+0	14aa, >seq_e7a7545770b0d59... *
+>Cluster 2841
+0	14aa, >seq_e83eed58db60834... *
+>Cluster 2842
+0	14aa, >seq_e97d22ce7ba481b... *
+>Cluster 2843
+0	14aa, >seq_f21deadd6156ec9... *
+>Cluster 2844
+0	14aa, >seq_f21ef63e547e03a... *
+>Cluster 2845
+0	14aa, >seq_f9db80f6c204a85... *
+>Cluster 2846
+0	14aa, >seq_fa3a2d25abfefc7... *
+>Cluster 2847
+0	14aa, >seq_faa6deeaedb86f3... *
+>Cluster 2848
+0	13aa, >seq_01cde7284467725... *
+>Cluster 2849
+0	13aa, >seq_058bb303fcc2948... *
+>Cluster 2850
+0	13aa, >seq_084cde1059bd5a1... *
+>Cluster 2851
+0	13aa, >seq_08bc0aab72d3083... *
+>Cluster 2852
+0	13aa, >seq_09e8c25cf312750... *
+>Cluster 2853
+0	13aa, >seq_0b6c7ea714dbd7d... *
+>Cluster 2854
+0	13aa, >seq_0d13f67ec1a235d... *
+>Cluster 2855
+0	13aa, >seq_1103df864ed68ec... *
+>Cluster 2856
+0	13aa, >seq_19d6191d21f5ff3... *
+>Cluster 2857
+0	13aa, >seq_1c7ff6aa17f68ef... *
+>Cluster 2858
+0	13aa, >seq_20a4cca1a508038... *
+>Cluster 2859
+0	13aa, >seq_20f5cd8a67d2425... *
+>Cluster 2860
+0	13aa, >seq_21dddcb9bd8efc5... *
+>Cluster 2861
+0	13aa, >seq_230146c9156e0d1... *
+>Cluster 2862
+0	13aa, >seq_29fb1b3a5204956... *
+>Cluster 2863
+0	13aa, >seq_2d07473d4bb52ae... *
+>Cluster 2864
+0	13aa, >seq_32eaca4c57bfae7... *
+>Cluster 2865
+0	13aa, >seq_3a1b223a6dde199... *
+>Cluster 2866
+0	13aa, >seq_3a78c1292bf10c1... *
+>Cluster 2867
+0	13aa, >seq_426243d85841488... *
+>Cluster 2868
+0	13aa, >seq_4670cb8e06cd49d... *
+>Cluster 2869
+0	13aa, >seq_47a44e8ef438d89... *
+>Cluster 2870
+0	13aa, >seq_4a3939db112ded1... *
+>Cluster 2871
+0	13aa, >seq_4a9761e11220576... *
+>Cluster 2872
+0	13aa, >seq_4c159043b3e3d59... *
+>Cluster 2873
+0	13aa, >seq_53224749ff3defb... *
+>Cluster 2874
+0	13aa, >seq_58cf02ce5d1d25d... *
+>Cluster 2875
+0	13aa, >seq_5df684f5c55d1bd... *
+>Cluster 2876
+0	13aa, >seq_618316fde1fcc88... *
+>Cluster 2877
+0	13aa, >seq_61c0deea0a8156e... *
+>Cluster 2878
+0	13aa, >seq_6246540f00d5c7f... *
+>Cluster 2879
+0	13aa, >seq_64596624101e334... *
+>Cluster 2880
+0	13aa, >seq_65327298f04e7a0... *
+>Cluster 2881
+0	13aa, >seq_67a737cff7a74bc... *
+>Cluster 2882
+0	13aa, >seq_6835ffd51a812dc... *
+>Cluster 2883
+0	13aa, >seq_6875bc7dbc5cf25... *
+>Cluster 2884
+0	13aa, >seq_6b2b36ae07c61ec... *
+>Cluster 2885
+0	13aa, >seq_7069797d80cfba1... *
+>Cluster 2886
+0	13aa, >seq_70820a2a24e87c9... *
+>Cluster 2887
+0	13aa, >seq_743964d82e8a85c... *
+>Cluster 2888
+0	13aa, >seq_7ce19f4da4846e4... *
+>Cluster 2889
+0	13aa, >seq_7cf5f55c0116db9... *
+>Cluster 2890
+0	13aa, >seq_7e0ef170e1c5d61... *
+>Cluster 2891
+0	13aa, >seq_85fdae7f0114c7c... *
+>Cluster 2892
+0	13aa, >seq_882d0235625d541... *
+>Cluster 2893
+0	13aa, >seq_8a8d82d0227206e... *
+>Cluster 2894
+0	13aa, >seq_8b15417a86c7d33... *
+>Cluster 2895
+0	13aa, >seq_933107ea78a8eba... *
+>Cluster 2896
+0	13aa, >seq_96c0eb1eb898aff... *
+>Cluster 2897
+0	13aa, >seq_9c8ffcff15a7b1d... *
+>Cluster 2898
+0	13aa, >seq_9cffb686eb5acab... *
+>Cluster 2899
+0	13aa, >seq_9d3703e6c86a73d... *
+>Cluster 2900
+0	13aa, >seq_9fa7a62eb2952f8... *
+>Cluster 2901
+0	13aa, >seq_a0e905bc5d7d8e4... *
+>Cluster 2902
+0	13aa, >seq_a25b4dd06008a89... *
+>Cluster 2903
+0	13aa, >seq_a5c61767f11dffd... *
+>Cluster 2904
+0	13aa, >seq_b5240ef0c49bc55... *
+>Cluster 2905
+0	13aa, >seq_b6551a8952bb783... *
+>Cluster 2906
+0	13aa, >seq_bc0542fac767ea0... *
+>Cluster 2907
+0	13aa, >seq_c1db59e39615a20... *
+>Cluster 2908
+0	13aa, >seq_c2615a76e8fabdb... *
+>Cluster 2909
+0	13aa, >seq_c78210e16655842... *
+>Cluster 2910
+0	13aa, >seq_c7f19f80f48072e... *
+>Cluster 2911
+0	13aa, >seq_cadb908c3b66dcb... *
+>Cluster 2912
+0	13aa, >seq_ccb4419bcc65d6c... *
+>Cluster 2913
+0	13aa, >seq_d5e0f511d9b060e... *
+>Cluster 2914
+0	13aa, >seq_d852666faa1ad90... *
+>Cluster 2915
+0	13aa, >seq_d8b07dc2e0d578c... *
+>Cluster 2916
+0	13aa, >seq_e442998bc0c5253... *
+>Cluster 2917
+0	13aa, >seq_e51d4879052052f... *
+>Cluster 2918
+0	13aa, >seq_e76c6c09092b1b5... *
+>Cluster 2919
+0	13aa, >seq_e818fa17e2922c9... *
+>Cluster 2920
+0	13aa, >seq_e9e01972af6a2b7... *
+>Cluster 2921
+0	13aa, >seq_ee6ef7ad0803566... *
+>Cluster 2922
+0	13aa, >seq_ef6e121fd400f95... *
+>Cluster 2923
+0	13aa, >seq_f041eee631ee9ae... *
+>Cluster 2924
+0	13aa, >seq_f181c23b876f49e... *
+>Cluster 2925
+0	13aa, >seq_f264c7605de9355... *
+>Cluster 2926
+0	13aa, >seq_f2b356eb9367743... *
+>Cluster 2927
+0	13aa, >seq_f36cc8304ab6f77... *
+>Cluster 2928
+0	13aa, >seq_fc97e72d5f1062c... *
+>Cluster 2929
+0	13aa, >seq_fcffaf2de518eea... *
+>Cluster 2930
+0	12aa, >seq_0a67eb7bd293263... *
+>Cluster 2931
+0	12aa, >seq_124c79648cd977f... *
+>Cluster 2932
+0	12aa, >seq_1d3bc8f98e37a9d... *
+>Cluster 2933
+0	12aa, >seq_2145a605cc5e1fd... *
+>Cluster 2934
+0	12aa, >seq_25d8913d7eeb28b... *
+>Cluster 2935
+0	12aa, >seq_29328b5518d0178... *
+>Cluster 2936
+0	12aa, >seq_2d37e354bd1deea... *
+>Cluster 2937
+0	12aa, >seq_3adf2e4909418e7... *
+>Cluster 2938
+0	12aa, >seq_3cff70541869393... *
+>Cluster 2939
+0	12aa, >seq_42a760d8b10ebfe... *
+>Cluster 2940
+0	12aa, >seq_43276ac07ca1934... *
+>Cluster 2941
+0	12aa, >seq_4367a9ce181598b... *
+>Cluster 2942
+0	12aa, >seq_43cc01cd264b0f7... *
+>Cluster 2943
+0	12aa, >seq_4e384ccdf410ad6... *
+>Cluster 2944
+0	12aa, >seq_57a2b6e511b203b... *
+>Cluster 2945
+0	12aa, >seq_5fbe11d33aa6a8d... *
+>Cluster 2946
+0	12aa, >seq_62ef58828ae3c14... *
+>Cluster 2947
+0	12aa, >seq_6d076affd435c78... *
+>Cluster 2948
+0	12aa, >seq_6ef94e17bb72419... *
+>Cluster 2949
+0	12aa, >seq_70b3ba35d0e6869... *
+>Cluster 2950
+0	12aa, >seq_74d7da81fd53012... *
+>Cluster 2951
+0	12aa, >seq_84ab70fbb5be645... *
+>Cluster 2952
+0	12aa, >seq_893257c02690c61... *
+>Cluster 2953
+0	12aa, >seq_89fba69e723ec90... *
+>Cluster 2954
+0	12aa, >seq_8cd3babf12a37ff... *
+>Cluster 2955
+0	12aa, >seq_9862bc2678047df... *
+>Cluster 2956
+0	12aa, >seq_9ba840a07343aac... *
+>Cluster 2957
+0	12aa, >seq_9c93f854d988cd4... *
+>Cluster 2958
+0	12aa, >seq_ba3f9fa2c1f17cc... *
+>Cluster 2959
+0	12aa, >seq_ba4dcb66ebb7533... *
+>Cluster 2960
+0	12aa, >seq_bc9d0097ae7ecd4... *
+>Cluster 2961
+0	12aa, >seq_bda3d7f33637c9a... *
+>Cluster 2962
+0	12aa, >seq_bdc6483bd4b25b7... *
+>Cluster 2963
+0	12aa, >seq_c554e3b8945f2b2... *
+>Cluster 2964
+0	12aa, >seq_d5501fafeb54181... *
+>Cluster 2965
+0	12aa, >seq_d8c535ba0fe416a... *
+>Cluster 2966
+0	12aa, >seq_dcb70064eb6b40f... *
+>Cluster 2967
+0	12aa, >seq_e18ad6db5f335a4... *
+>Cluster 2968
+0	12aa, >seq_efaede4fb99dd97... *
+>Cluster 2969
+0	12aa, >seq_f125143eedff744... *
+>Cluster 2970
+0	12aa, >seq_fe4988eb69f1241... *
+>Cluster 2971
+0	11aa, >seq_1744ed6480c3677... *
+>Cluster 2972
+0	11aa, >seq_3392a7025381bb3... *
+>Cluster 2973
+0	11aa, >seq_35b190e370a036b... *
+>Cluster 2974
+0	11aa, >seq_3bc6db5667dd02a... *
+>Cluster 2975
+0	11aa, >seq_42e4800a8cad86f... *
+>Cluster 2976
+0	11aa, >seq_4fdb1a88a98b599... *
+>Cluster 2977
+0	11aa, >seq_5560ac3edccc9d8... *
+>Cluster 2978
+0	11aa, >seq_6e3bb7e869f1a17... *
+>Cluster 2979
+0	11aa, >seq_6f4ba4e2b0cfa18... *
+>Cluster 2980
+0	11aa, >seq_849e0d1fb39fa7a... *
+>Cluster 2981
+0	11aa, >seq_95521287464111d... *
+>Cluster 2982
+0	11aa, >seq_9bf7d2058d87e9c... *
+>Cluster 2983
+0	11aa, >seq_a31d5a1c52733a0... *
+>Cluster 2984
+0	11aa, >seq_a5b2e4c3b00f6d9... *
+>Cluster 2985
+0	11aa, >seq_a743cc2df9cd716... *
+>Cluster 2986
+0	11aa, >seq_b99e3107e85be93... *
+>Cluster 2987
+0	11aa, >seq_bb6c1fd9acc2bfb... *
+>Cluster 2988
+0	11aa, >seq_bf789e2944a4118... *
+>Cluster 2989
+0	11aa, >seq_c077c853539f3ac... *
+>Cluster 2990
+0	11aa, >seq_c5b97e6b59e49af... *
+>Cluster 2991
+0	11aa, >seq_ca68d88c4849fe0... *
+>Cluster 2992
+0	11aa, >seq_ceaaa22149ab6f8... *
+>Cluster 2993
+0	11aa, >seq_d457e5f49c96bc1... *
+>Cluster 2994
+0	11aa, >seq_dc4c3cfeeda3494... *
+>Cluster 2995
+0	11aa, >seq_e582db6916dbb51... *
+>Cluster 2996
+0	11aa, >seq_fb97b9fa685f1c5... *

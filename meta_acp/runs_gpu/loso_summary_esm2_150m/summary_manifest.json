@@ -1,0 +1,18 @@
+{
+  "backbone": "esm2_150m",
+  "sources": [
+    "Train.fasta",
+    "Test1.fasta",
+    "Test2.fasta"
+  ],
+  "seeds": [
+    42,
+    2024,
+    2026
+  ],
+  "n_runs": 9,
+  "all_run_metrics_recomputed": true,
+  "macro_definition": "Unweighted mean over Train.fasta, Test1.fasta, and Test2.fasta; then summarized over seeds.",
+  "seed_ensemble_definition": "Per-source arithmetic mean of the three seed probabilities.",
+  "n_consensus_errors": 219
+}

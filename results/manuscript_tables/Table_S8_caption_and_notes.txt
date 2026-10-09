@@ -1,0 +1,3 @@
+Supplementary Table S8. Integrated-test performance by sequence length.
+
+The fixed C=3 stack is evaluated within each length subgroup without retraining or selection. Pointwise 95% CIs use 10,000 stratified sequence resamples per subgroup (random seed 20260910). This post hoc diagnostic evaluates short peptides using a model trained on the full length range. Counts across subgroups sum to 577. AUC, area under the receiver operating characteristic curve. ACP, anticancer peptide. The 228 long sequences in the full integrated corpus include 48 ACPs and 180 non-ACPs. 42 lie in the test set. CI, confidence interval.

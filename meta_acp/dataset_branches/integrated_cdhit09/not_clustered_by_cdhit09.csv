@@ -1,0 +1,6 @@
+seq_id,sequence,binary_label,length,source_file,source_group,all_source_files,all_source_groups,all_raw_labels,all_source_ids,n_raw_records,split_group
+seq_93d04daa7efc2ed3,KAIAFADRLR,0,10,Test2.fasta,Aegis,Test2.fasta;testing.fasta,Aegis;Manuscript1856815,0;NEG126,Test2.fasta:113;testing.fasta:114,2,93d04daa7efc
+seq_bd05fab1e72d322a,KEYTDDQWE,0,9,Test2.fasta,Manuscript1856815,Test2.fasta,Manuscript1856815,0,Test2.fasta:81,1,bd05fab1e72d
+seq_e4e8c869e80ec156,IHDSKLQEK,0,9,Test2.fasta,Manuscript1856815,Test2.fasta,Manuscript1856815,0,Test2.fasta:84,1,e4e8c869e80e
+seq_1b12ff35d3435bf1,VKDQD,0,5,Test2.fasta,Manuscript1856815,Test2.fasta,Manuscript1856815,0,Test2.fasta:102,1,1b12ff35d343
+seq_62f95799f0e85768,QTPEH,0,5,Test2.fasta,Manuscript1856815,Test2.fasta,Manuscript1856815,0,Test2.fasta:85,1,62f95799f0e8

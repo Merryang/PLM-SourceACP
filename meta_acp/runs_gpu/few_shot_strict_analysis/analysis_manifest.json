@@ -1,0 +1,19 @@
+{
+  "backbone": "esm2_150m",
+  "loso_checkpoint_seed": 42,
+  "sources": [
+    "Test1.fasta",
+    "Test2.fasta"
+  ],
+  "k_shot_analyzed": [
+    5,
+    10
+  ],
+  "repeats_per_setting": 20,
+  "paired_design": "Within each source/k/repeat, adaptation methods and none use the same support/query split.",
+  "primary_test": "Wilcoxon signed-rank on paired repeat-level metric differences",
+  "multiple_testing": "Holm correction within each metric family",
+  "effect_interval": "10000-resample bootstrap 95% CI for the mean paired difference",
+  "stop_rule": "Continue only if a method has positive MCC with CI above zero in all 4 source/k settings and no AUC loss exceeding 0.005.",
+  "stop_all_further_few_shot_tuning": true
+}

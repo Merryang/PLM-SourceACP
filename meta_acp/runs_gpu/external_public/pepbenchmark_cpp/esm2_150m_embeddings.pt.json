@@ -1,0 +1,13 @@
+{
+  "model_key": "esm2_150m",
+  "model_name": "meta_acp/local_models/esm2_t30_150M_UR50D",
+  "num_sequences": 2296,
+  "hidden_dim": 640,
+  "max_len": 256,
+  "limit": null,
+  "csv_paths": [
+    "meta_acp/external_tasks/pepbenchmark_cpp_cdhit_seed0/train.csv",
+    "meta_acp/external_tasks/pepbenchmark_cpp_cdhit_seed0/validation.csv",
+    "meta_acp/external_tasks/pepbenchmark_cpp_cdhit_seed0/test.csv"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "tasks": {
+    "antiangiopred": {
+      "label": "AntiAngioPred official independent test",
+      "data_dir": "meta_acp/external_tasks/antiangiopred_official"
+    },
+    "pepbenchmark_cpp": {
+      "label": "PepBenchmark CPP CD-HIT seed0 test",
+      "data_dir": "meta_acp/external_tasks/pepbenchmark_cpp_cdhit_seed0"
+    }
+  },
+  "seeds": [
+    42,
+    2024,
+    2026
+  ],
+  "threshold_rule": "Select MCC-maximizing threshold on validation only.",
+  "primary_external_model": "Arithmetic mean of three independently trained full-head probabilities.",
+  "bootstrap": {
+    "n_resamples": 10000,
+    "method": "Stratified nonparametric bootstrap preserving class counts.",
+    "random_seed": 20260623
+  },
+  "few_shot_note": "Exploratory transfer from the frozen ACP checkpoint; paired across 20 support-set repeats."
+}

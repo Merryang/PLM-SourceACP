@@ -1,0 +1,212 @@
+[
+  {
+    "member": "ankh_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/ankh/seed42/best.pt"
+  },
+  {
+    "member": "ankh_seed2024",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/ankh/seed2024/best.pt"
+  },
+  {
+    "member": "ankh_seed2026",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/ankh/seed2026/best.pt"
+  },
+  {
+    "member": "esm2_150m_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_150m/seed42/best.pt"
+  },
+  {
+    "member": "esm2_150m_seed2024",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_150m/seed2024/best.pt"
+  },
+  {
+    "member": "esm2_150m_seed2026",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_150m/seed2026/best.pt"
+  },
+  {
+    "member": "esm2_650m_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_650m/seed42/best.pt"
+  },
+  {
+    "member": "esm2_650m_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_650m/seed42/config.json"
+  },
+  {
+    "member": "esm2_650m_seed2024",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_650m/seed2024/best.pt"
+  },
+  {
+    "member": "esm2_650m_seed2024",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_650m/seed2024/config.json"
+  },
+  {
+    "member": "esm2_650m_seed2026",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_650m/seed2026/best.pt"
+  },
+  {
+    "member": "esm2_650m_seed2026",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/plm/esm2_650m/seed2026/config.json"
+  },
+  {
+    "member": "protbert_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/protbert/seed42/best.pt"
+  },
+  {
+    "member": "protbert_seed2024",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/protbert/seed2024/best.pt"
+  },
+  {
+    "member": "protbert_seed2026",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/protbert/seed2026/best.pt"
+  },
+  {
+    "member": "prott5_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/prott5/seed42/best.pt"
+  },
+  {
+    "member": "prott5_seed2024",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/prott5/seed2024/best.pt"
+  },
+  {
+    "member": "prott5_seed2026",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/plm/prott5/seed2026/best.pt"
+  },
+  {
+    "member": "esm2_150m_cfg01_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg01_seed42/best.pt"
+  },
+  {
+    "member": "esm2_150m_cfg01_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg01_seed42/config.json"
+  },
+  {
+    "member": "esm2_150m_cfg02_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg02_seed42/best.pt"
+  },
+  {
+    "member": "esm2_150m_cfg02_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg02_seed42/config.json"
+  },
+  {
+    "member": "esm2_150m_cfg03_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg03_seed42/best.pt"
+  },
+  {
+    "member": "esm2_150m_cfg03_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg03_seed42/config.json"
+  },
+  {
+    "member": "esm2_150m_cfg04_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg04_seed42/best.pt"
+  },
+  {
+    "member": "esm2_150m_cfg04_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg04_seed42/config.json"
+  },
+  {
+    "member": "esm2_150m_cfg05_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg05_seed42/best.pt"
+  },
+  {
+    "member": "esm2_150m_cfg05_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_150m_compact/esm2_150m_cfg05_seed42/config.json"
+  },
+  {
+    "member": "esm2_650m_cfg01_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg01_seed42/best.pt"
+  },
+  {
+    "member": "esm2_650m_cfg01_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg01_seed42/config.json"
+  },
+  {
+    "member": "esm2_650m_cfg02_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg02_seed42/best.pt"
+  },
+  {
+    "member": "esm2_650m_cfg02_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg02_seed42/config.json"
+  },
+  {
+    "member": "esm2_650m_cfg03_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg03_seed42/best.pt"
+  },
+  {
+    "member": "esm2_650m_cfg03_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg03_seed42/config.json"
+  },
+  {
+    "member": "esm2_650m_cfg04_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg04_seed42/best.pt"
+  },
+  {
+    "member": "esm2_650m_cfg04_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg04_seed42/config.json"
+  },
+  {
+    "member": "esm2_650m_cfg05_seed42",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg05_seed42/best.pt"
+  },
+  {
+    "member": "esm2_650m_cfg05_seed42",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/auc_tuning/esm2_650m_compact/esm2_650m_cfg05_seed42/config.json"
+  },
+  {
+    "member": "esmc_hard_weight_seed2024",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/hard_weight/esmc/seed2024/best.pt"
+  },
+  {
+    "member": "esmc_hard_weight_seed2024",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/hard_weight/esmc/seed2024/config.json"
+  },
+  {
+    "member": "esmc_hard_mild_sampler_seed2024",
+    "missing": "checkpoint",
+    "expected_path": "meta_acp/runs_gpu/hard_case_variants/esmc/mild_sampler_seed2024/best.pt"
+  },
+  {
+    "member": "esmc_hard_mild_sampler_seed2024",
+    "missing": "training_config",
+    "expected_path": "meta_acp/runs_gpu/hard_case_variants/esmc/mild_sampler_seed2024/config.json"
+  }
+]

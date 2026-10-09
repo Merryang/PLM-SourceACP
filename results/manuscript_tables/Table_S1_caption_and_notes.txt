@@ -1,0 +1,3 @@
+Supplementary Table S1. Sequence lengths before and after integration.
+
+ACP, anticancer peptide. The 228 retained long sequences are unique and have non-overlapping memberships in Train/Test1, comprising 48 ACP-labelled and 180 non-ACP. All long records in the supplied raw files survive integration. Non-ACP lengths are 51–54. ACP-labelled lengths are 51–255 (40 at 51–100, four at 101–150 and four at 201–255). Counts describe the actual files used for modelling. Sequence lengths are measured in amino acid residues. Source records and inherited labels were retained without retrospective length filtering.

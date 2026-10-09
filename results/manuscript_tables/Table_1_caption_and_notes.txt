@@ -1,0 +1,3 @@
+Table 1. Retained source memberships and integrated modelling splits.
+
+File rows count provenance memberships after processing and overlap. Split rows count unique sequences and are disjoint. Original Aegis development/test counts (563/138) differ from retained integrated memberships (550/128). ACP, anticancer peptide.
