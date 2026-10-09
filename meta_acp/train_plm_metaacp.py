@@ -259,10 +259,10 @@ def train_one(args) -> dict:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Train PLM-SourceACP.")
-    parser.add_argument("--train", default="train.csv")
-    parser.add_argument("--validation", default="validation.csv")
-    parser.add_argument("--test", default="test.csv")
-    parser.add_argument("--master-csv", default="merged_all_cdhit08.csv")
+    parser.add_argument("--train", default="data/splits/train.csv")
+    parser.add_argument("--validation", default="data/splits/validation.csv")
+    parser.add_argument("--test", default="data/splits/test.csv")
+    parser.add_argument("--master-csv", default="data/processed/merged_all_cdhit08.csv")
     parser.add_argument("--encoder", default="scratch", choices=["scratch", "plm"])
     parser.add_argument("--embedding-cache", default=None)
     parser.add_argument("--embedding-dim", type=int, default=None)

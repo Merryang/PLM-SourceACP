@@ -127,9 +127,9 @@ def run_baseline(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run AAC/DPC/CKSAAP ML baselines.")
-    parser.add_argument("--train", default="train.csv")
-    parser.add_argument("--validation", default="validation.csv")
-    parser.add_argument("--test", default="test.csv")
+    parser.add_argument("--train", default="data/splits/train.csv")
+    parser.add_argument("--validation", default="data/splits/validation.csv")
+    parser.add_argument("--test", default="data/splits/test.csv")
     parser.add_argument("--feature", default="aac", choices=["aac", "dpc", "cksaap", "aac_cksaap"])
     parser.add_argument("--classifier", default="svm", choices=["svm", "lightgbm"])
     parser.add_argument("--seed", type=int, default=42)

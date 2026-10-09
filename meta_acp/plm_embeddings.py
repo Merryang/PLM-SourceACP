@@ -193,7 +193,7 @@ def cache_embeddings(
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Cache frozen PLM residue embeddings.")
-    parser.add_argument("--csv", nargs="+", default=["train.csv", "validation.csv", "test.csv"])
+    parser.add_argument("--csv", nargs="+", default=["data/splits/train.csv", "data/splits/validation.csv", "data/splits/test.csv"])
     parser.add_argument("--model-key", default="esm2_150m", choices=sorted(PLM_REGISTRY))
     parser.add_argument("--model-name", default=None)
     parser.add_argument("--cache", default=None)

@@ -4,7 +4,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
-base=Path(__file__).resolve().parent/'meta_acp/runs_gpu'
+base=Path(__file__).resolve().parents[2]/'meta_acp/runs_gpu'
 f=pd.read_csv(base/'few_shot_strict_analysis/few_shot_paired_comparisons.csv')
 a=pd.read_csv(base/'ablation_esm2_150m_summary/ablation_paired_bootstrap.csv')
 print(f.method.unique())
@@ -37,6 +37,6 @@ fig.legend(handles=handles,loc='upper center',bbox_to_anchor=(.57,.995),frameon=
 fig.text(.19,.927,'Adapted − baseline | 20 paired draws per setting',fontsize=7,color='#697780')
 fig.text(.19,.46,'Full objective − ablation | Three-seed ensembles',fontsize=7,color='#697780')
 fig.text(.19,.02,'Mean differences with pointwise 95% bootstrap CIs',fontsize=7,color='#697780')
-p=Path(__file__).resolve().parent/'reproduced/figures';p.mkdir(parents=True,exist_ok=True)
+p=Path(__file__).resolve().parents[2]/'reproduced/figures';p.mkdir(parents=True,exist_ok=True)
 fig.savefig(p/'Figure_4.png',dpi=450);fig.savefig(p/'Figure_4.svg');fig.savefig(p/'Figure_4.pdf');plt.close(fig)
 

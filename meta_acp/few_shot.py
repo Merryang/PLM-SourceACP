@@ -170,7 +170,7 @@ def main():
     parser.add_argument("--checkpoint", required=True)
     parser.add_argument("--embedding-cache", required=True)
     parser.add_argument("--embedding-dim", type=int, default=None)
-    parser.add_argument("--master-csv", default="merged_all_cdhit08.csv")
+    parser.add_argument("--master-csv", default="data/processed/merged_all_cdhit08.csv")
     parser.add_argument("--provenance-csv", default=None)
     parser.add_argument("--sources", nargs="+", default=["Test1.fasta", "Test2.fasta"])
     parser.add_argument("--k-shot", nargs="+", type=int, default=[5, 10, 20])

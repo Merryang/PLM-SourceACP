@@ -34,7 +34,7 @@ def expand_with_provenance(pred: pd.DataFrame, provenance: pd.DataFrame | None) 
 def evaluate_predictions(
     predictions_csv: str | Path,
     test_csv: str | Path | None = None,
-    master_csv: str | Path = "merged_all_cdhit08.csv",
+    master_csv: str | Path = "data/processed/merged_all_cdhit08.csv",
     provenance_csv: str | Path | None = None,
     out_dir: str | Path | None = None,
 ) -> dict[str, pd.DataFrame]:
@@ -65,7 +65,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Evaluate predictions by source.")
     parser.add_argument("--predictions", required=True)
     parser.add_argument("--test", default=None)
-    parser.add_argument("--master", default="merged_all_cdhit08.csv")
+    parser.add_argument("--master", default="data/processed/merged_all_cdhit08.csv")
     parser.add_argument("--provenance", default=None)
     parser.add_argument("--out-dir", default=None)
     parser.add_argument("--print-source-summary", action="store_true")

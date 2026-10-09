@@ -214,9 +214,9 @@ def score_for_selection_row(row: pd.Series, specs: list[dict[str, str]], x_val: 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Evaluate validation-calibrated PLM ensembles.")
     parser.add_argument("--models", nargs="+", required=True, help="name:checkpoint:embedding_cache entries")
-    parser.add_argument("--validation", default="validation.csv")
-    parser.add_argument("--test", default="test.csv")
-    parser.add_argument("--master-csv", default="merged_all_cdhit08.csv")
+    parser.add_argument("--validation", default="data/splits/validation.csv")
+    parser.add_argument("--test", default="data/splits/test.csv")
+    parser.add_argument("--master-csv", default="data/processed/merged_all_cdhit08.csv")
     parser.add_argument("--provenance-csv", default=None)
     parser.add_argument("--out-dir", default="meta_acp/runs_gpu/ensemble")
     parser.add_argument("--device", default=None)

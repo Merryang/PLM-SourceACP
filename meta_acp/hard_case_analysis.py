@@ -173,9 +173,9 @@ def build_train_weights(train_csv: Path, val_pred: pd.DataFrame, out_path: Path,
 def main() -> None:
     parser = argparse.ArgumentParser(description="Analyze validation/test hard cases and build training weights.")
     parser.add_argument("--member-pred-dir", default="meta_acp/runs_gpu/ensemble_with_esmc_strict/member_predictions")
-    parser.add_argument("--train-csv", default="train_source.csv")
-    parser.add_argument("--validation-csv", default="validation_source.csv")
-    parser.add_argument("--test-csv", default="test_source.csv")
+    parser.add_argument("--train-csv", default="data/splits/train_source.csv")
+    parser.add_argument("--validation-csv", default="data/splits/validation_source.csv")
+    parser.add_argument("--test-csv", default="data/splits/test_source.csv")
     parser.add_argument("--members", default="esmc_seed42;esmc_seed2024;prott5_seed42;esm2_650m_cfg03_seed42")
     parser.add_argument("--method", default="prob_mean")
     parser.add_argument("--weights", default=None)

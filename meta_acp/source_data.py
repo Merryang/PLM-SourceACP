@@ -17,7 +17,7 @@ SOURCE_GROUPS = {
 }
 
 
-def load_master(path: str | Path = "merged_all_cdhit08.csv") -> pd.DataFrame:
+def load_master(path: str | Path = "data/processed/merged_all_cdhit08.csv") -> pd.DataFrame:
     df = pd.read_csv(path)
     required = {"sequence", "binary_label", "source_file"}
     missing = required - set(df.columns)
@@ -26,7 +26,7 @@ def load_master(path: str | Path = "merged_all_cdhit08.csv") -> pd.DataFrame:
     return df
 
 
-def default_provenance_for(master_csv: str | Path = "merged_all_cdhit08.csv") -> Path | None:
+def default_provenance_for(master_csv: str | Path = "data/processed/merged_all_cdhit08.csv") -> Path | None:
     master = Path(master_csv)
     candidates = [
         master.with_name("provenance_cdhit08_long.csv"),
@@ -38,7 +38,7 @@ def default_provenance_for(master_csv: str | Path = "merged_all_cdhit08.csv") ->
     return None
 
 
-def load_provenance(path: str | Path | None = None, master_csv: str | Path = "merged_all_cdhit08.csv") -> pd.DataFrame | None:
+def load_provenance(path: str | Path | None = None, master_csv: str | Path = "data/processed/merged_all_cdhit08.csv") -> pd.DataFrame | None:
     provenance_path = Path(path) if path else default_provenance_for(master_csv)
     if provenance_path is None or not provenance_path.exists():
         return None
@@ -50,7 +50,7 @@ def load_provenance(path: str | Path | None = None, master_csv: str | Path = "me
     return prov
 
 
-def attach_source(split_csv: str | Path, master_csv: str | Path = "merged_all_cdhit08.csv") -> pd.DataFrame:
+def attach_source(split_csv: str | Path, master_csv: str | Path = "data/processed/merged_all_cdhit08.csv") -> pd.DataFrame:
     split = pd.read_csv(split_csv)
     if "source_file" in split.columns:
         merged = split.copy()
@@ -94,10 +94,10 @@ def source_group_for(source_file: str) -> str:
 
 
 def write_enriched_splits(
-    train_csv: str | Path = "train.csv",
-    val_csv: str | Path = "validation.csv",
-    test_csv: str | Path = "test.csv",
-    master_csv: str | Path = "merged_all_cdhit08.csv",
+    train_csv: str | Path = "data/splits/train.csv",
+    val_csv: str | Path = "data/splits/validation.csv",
+    test_csv: str | Path = "data/splits/test.csv",
+    master_csv: str | Path = "data/processed/merged_all_cdhit08.csv",
     out_dir: str | Path = "meta_acp/runs/source_data",
 ) -> dict[str, Path]:
     out = Path(out_dir)
@@ -111,7 +111,7 @@ def write_enriched_splits(
     return paths
 
 
-def source_summary(master_csv: str | Path = "merged_all_cdhit08.csv", provenance_csv: str | Path | None = None) -> pd.DataFrame:
+def source_summary(master_csv: str | Path = "data/processed/merged_all_cdhit08.csv", provenance_csv: str | Path | None = None) -> pd.DataFrame:
     df = load_provenance(provenance_csv, master_csv)
     if df is None:
         df = load_master(master_csv)
@@ -131,7 +131,7 @@ def source_summary(master_csv: str | Path = "merged_all_cdhit08.csv", provenance
 
 def make_loso_split(
     heldout_source: str,
-    master_csv: str | Path = "merged_all_cdhit08.csv",
+    master_csv: str | Path = "data/processed/merged_all_cdhit08.csv",
     out_dir: str | Path = "meta_acp/runs/source_data/loso",
     val_size: float = 0.2,
     seed: int = 42,
@@ -184,7 +184,7 @@ def make_all_loso_splits(heldout_sources: Iterable[str] = FULL_BINARY_SOURCES, *
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Prepare source-aware PLM-SourceACP data splits.")
-    parser.add_argument("--master", default="merged_all_cdhit08.csv")
+    parser.add_argument("--master", default="data/processed/merged_all_cdhit08.csv")
     parser.add_argument("--provenance", default=None)
     parser.add_argument("--out-dir", default="meta_acp/runs/source_data")
     parser.add_argument("--write-enriched", action="store_true")

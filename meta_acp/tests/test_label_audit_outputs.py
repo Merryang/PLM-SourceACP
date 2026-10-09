@@ -12,7 +12,14 @@ ROOT = Path(__file__).resolve().parents[2]
 
 
 def require_file(name: str) -> Path:
-    path = ROOT / name
+    path_map = {
+        'raw_records_label_audit.csv': 'data/audit/raw_records_label_audit.csv',
+        'label_conflicts.csv': 'data/audit/label_conflicts.csv',
+        'merged_all.csv': 'data/processed/merged_all.csv',
+        'merged_all_cdhit08.csv': 'data/processed/merged_all_cdhit08.csv',
+        'provenance_cdhit08_long.csv': 'data/processed/provenance_cdhit08_long.csv',
+    }
+    path = ROOT / path_map.get(name, name)
     if not path.exists():
         pytest.skip(f"{name} not generated")
     return path

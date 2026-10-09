@@ -75,7 +75,7 @@ def source_detail(raw: pd.DataFrame, sequence: str, source_file: str) -> dict:
 
 def build_duplicate_tables() -> tuple[pd.DataFrame, pd.DataFrame, dict]:
     overlap = pd.read_csv(BRANCH / "exact_overlap_sequences.csv")
-    raw = pd.read_csv(ROOT / "raw_records_label_audit.csv")
+    raw = pd.read_csv(ROOT / "data/audit/raw_records_label_audit.csv")
 
     train_test2 = overlap[
         ((overlap["left_source"] == "Test2.fasta") & (overlap["right_source"] == "Train.fasta"))

@@ -79,9 +79,9 @@ def doubao_csv_paths() -> dict:
     """Real Doubao CSV paths; tests can xfail if files are absent."""
     base = Path(__file__).resolve().parents[2]
     return {
-        "train": base / "train.csv",
-        "val": base / "validation.csv",
-        "test": base / "test.csv",
+        "train": base / "data/splits/train.csv",
+        "val": base / "data/splits/validation.csv",
+        "test": base / "data/splits/test.csv",
     }
 
 
